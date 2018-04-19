@@ -15,7 +15,7 @@ The procedure for giving feedback on a file varies slightly depending on which c
 **Activity**  
 The **Activity** tab displays the history of activity for a file, such as uploads, when feedback was requested, and when feedback was saved\. You can view the version of a file that was uploaded\.
 
-
+**Topics**
 + [Amazon WorkDocs Web Client](web_client_help.md)
 + [Amazon WorkDocs Android Tablet Client](android_client_help.md)
 + [Amazon WorkDocs Android Phone Client](android_phone_client_help.md)

@@ -18,7 +18,7 @@ The following is the layout of the Amazon WorkDocs Android tablet navigation vie
 
 The files pane contains the following controls\.
 
-
+**Topics**
 + [Search](#android_search_all)
 + [My Documents](#android_my_docs)
 + [Shared with Me](#android_shared)

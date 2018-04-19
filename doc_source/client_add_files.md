@@ -19,31 +19,18 @@ You can also add files by dragging and dropping files from your computer into th
 To open and edit a file with one click, use the Amazon WorkDocs Companion app\. After you install the app, you can open a file instantly in its default app and save your changes automatically to Amazon WorkDocs\. You don't need to manually download, save, and re\-upload the file\.
 
 To use the app, you must meet the following requirements:
-
 + You must have owner, co\-owner, or contributor permissions for the file\.
-
 + Your operating system must be Windows 7 or later, or macOS 10\.1 or later\.
-
 + You must have one of the following internet browsers:
-
   + Chrome
-
   + Firefox with Flash Player 10 or later
-
   + Internet Explorer with Flash Player 10 or later
-
   + Safari with Flash Player 10 or later
-
 + The file type must be one of the following:
-
   + Microsoft Office Word
-
   + Microsoft Office Excel
-
   + Microsoft Office PowerPoint
-
   + PDF
-
   + Text file with a \.txt file extension
 
 **To instantly open and edit a file with one click**

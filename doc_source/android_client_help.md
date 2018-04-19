@@ -2,7 +2,7 @@
 
 The Amazon WorkDocs Android client application allows you to view, comment on, and download documents from your Amazon WorkDocs files\. The Android app can also be used to view, give feedback on, and download other organization documents for which you have been given permissions\. 
 
-
+**Topics**
 + [System Requirements](#android_client_sys_reqs)
 + [Log In](#android_login)
 + [Android Tablet Client Navigation View](android_nav_view.md)
@@ -14,17 +14,11 @@ The Amazon WorkDocs Android client application allows you to view, comment on, a
 ## System Requirements<a name="android_client_sys_reqs"></a>
 
 The Amazon WorkDocs Android tablet application requires one of the following: 
-
 + An Android tablet with Android 2\.3\.3 or later
-
 + Kindle Fire HD 7 \(2nd Gen\)
-
 + Kindle Fire HD 8\.9 \(2nd Gen\)
-
 + Kindle Fire HD 7 \(3rd Gen\)
-
 + Kindle Fire HDX 7 \(3rd Gen\)
-
 + Kindle Fire HDX 8\.9 \(3rd Gen\)
 
 ## Log In<a name="android_login"></a>

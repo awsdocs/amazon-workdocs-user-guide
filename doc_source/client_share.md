@@ -3,12 +3,10 @@
 You can share a folder or file with other users and groups both within and outside your organization\. You can also revoke the share, and the users can remove themselves from the share\.
 
 **Limits**
-
 + You can only share with directory groups, not email distribution lists\.
-
 + If your administrator configured Amazon WorkDocs with AD Connector, you can't share with users outside the directory\.
 
-
+**Topics**
 + [Share a Folder or File](#share)
 + [Revoke a Share](#revoke_share)
 + [Remove Yourself from a Share](#unshare_yourself)

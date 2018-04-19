@@ -18,7 +18,7 @@ The following is the layout of the Amazon WorkDocs iPad navigation view\.
 
 The files pane contains the following controls\.
 
-
+**Topics**
 + [My Documents](#ipad_my_docs)
 + [Shared with Me](#ipad_shared)
 + [Awaiting my Feedback](#ipad_awaiting_feedback)

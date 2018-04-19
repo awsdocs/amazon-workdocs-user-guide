@@ -2,7 +2,7 @@
 
 The Amazon WorkDocs iPad application allows you to view, comment on, and download documents from your Amazon WorkDocs files\. The iPad app can also be used to view, give feedback on, and download other organization documents for which you have been given permissions\. 
 
-
+**Topics**
 + [System Requirements](#ipad_client_sys_reqs)
 + [Log In](#ipad_login)
 + [iPad Navigation View](ipad_nav_view.md)
@@ -16,7 +16,6 @@ The Amazon WorkDocs iPad application allows you to view, comment on, and downloa
 ## System Requirements<a name="ipad_client_sys_reqs"></a>
 
 The Amazon WorkDocs iPad application requires the following:
-
 + iPad or iPad 2 with iOS 6\.1\.2 or later
 
 ## Log In<a name="ipad_login"></a>

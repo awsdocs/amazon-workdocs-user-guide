@@ -2,7 +2,7 @@
 
 The following topics discuss how you can manipulate and manage folders in the Amazon WorkDocs web client\.
 
-
+**Topics**
 + [Creating a Folder](#web_create_folder)
 + [Renaming a Folder](#web_rename_folder)
 + [Moving a Folder](#web_move_folder)
@@ -50,12 +50,11 @@ When you move a folder, all of the files and folders within the folder are moved
 You can delete a folder in one of three ways\. When you delete a folder, the folder is moved to the [Recycle Bin](web_nav_view.md#web_recycle_bin)\. If there are files or other folders in the folder, they are moved to the recycle bin as well\.
 
 **To delete a folder**
-
 + In the web client, open the folder to be delete, choose the three\-dot icon to open the folder menu, and choose **Delete**\. 
 
 ## Sharing a Folder<a name="web_share_folder"></a>
 
-You can share a folder with other users in your organization\. When you share a folder, all files within the folder are available to the users with whom the folder is shared\. If new files are added to the folder, the shared users also have access to the new files\.
+You can share a folder with other users in your organization\. When you share a folder, all files and subfolders within that folder are available to the users with whom the folder is shared\. If new files or subfolders are added to the folder, the shared users also have access to the new files\.
 
 **To share a folder with other users**
 

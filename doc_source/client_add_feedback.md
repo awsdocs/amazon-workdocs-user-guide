@@ -2,9 +2,9 @@
 
 Other people in your organization can request feedback from you on specific files\. You can add feedback to a file, or add a message about the entire file\. You can also reply to feedback, give private feedback, and decline to give feedback\.
 
-You can see the files for which your feedback has been requested in your [**Awaiting my Feedback**](web_nav_view.md#web_awaiting_feedback) list\.
+You can see the files for which your feedback has been requested in your [**Awaiting my Feedback**](web_nav_view.md#web_awaiting_feedback) list\. To request feedback, you can share your document with other people in your organization\. For more information, see [Sharing a Folder or File](client_share.md)\.
 
-
+**Topics**
 + [Adding Feedback](#add_feedback)
 + [Declining Feedback](#decline_feedback)
 + [Disabling Feedback](#disable_feedback)
@@ -73,21 +73,13 @@ You can filter feedback to view specific comments that are the most important to
 1. In the right pane, choose the filter icon to the right of **Feedback**\.
 
 1. To view specific feedback, choose from any of the following filters:
-
    + **Version**
-
    + **User**
-
    + **Show**: Select the check box next to one or more of the following options:
-
      + **Draft comments**
-
      + **Published comments**
-
      + **Resolved comments**
-
      + **Unresolved comments**
-
      + **Comments that mention me**
 
 1. Choose **Filter**\.

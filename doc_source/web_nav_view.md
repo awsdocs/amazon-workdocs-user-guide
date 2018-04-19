@@ -20,7 +20,7 @@ The following is the layout of the Amazon WorkDocs web client navigation view\.
 
 The files pane contains the following controls\.
 
-
+**Topics**
 + [My Docs](#web_my_docs)
 + [Collaborate](#web_collaborate)
 + [Activity Feed](#web_feed)
@@ -29,21 +29,15 @@ The files pane contains the following controls\.
 ### My Docs<a name="web_my_docs"></a>
 
 Displays your root folder\. This folder contains the following sections:
-
 + **My Docs**
-
 + **Favorites**
-
 + **Recycle bin**
 
 ### Collaborate<a name="web_collaborate"></a>
 
 Displays a list of the files that need collaboration, including files that are shared, awaiting feedback, or out for review\. This folder contains the following sections:
-
 + **Shared with me**
-
 + **Awaiting my feedback**
-
 + **Out for review**
 
 ### Activity Feed<a name="web_feed"></a>
@@ -159,9 +153,7 @@ Allows you to move the file\. For more information, see [Moving Files](web_move_
 
 **More**  
 Contains the following sections:  
-
 + **Allow/Disallow Downloads**: Allows or prevents users from downloading a file\.
-
 + **Disable Feedback**: Prevents users from leaving feedback or comments on a file\.
 
 ## View Pane<a name="web_view_pane"></a>
@@ -176,7 +168,7 @@ To open a file, click the file name and the file opens in the file view\.
 
 The user control pane provides the following controls\.
 
-
+**Topics**
 + [Favorites](#favorite_control)
 + [About Us](#web_about)
 + [Support](#web_support)
@@ -191,29 +183,21 @@ This section, marked by a star icon, contains all the files and folders that hav
 ### About Us<a name="web_about"></a>
 
 This section, marked by the **i** icon, contains the blog and download app controls\.
-
 + **Blog ** opens the Amazon WorkDocs blog\.
-
 + **Download Apps** opens the Amazon WorkDocs client app download page\.
 
 ### Support<a name="web_support"></a>
 
 This section, marked by the **?** icon, contains feedback, forums, and help controls\.
-
 + **Feedback** allows users to give feedback\.
-
 + **Forums** opens the AWS discussion forums\.
-
 + **Help** opens the help documentation for Amazon WorkDocs\.
 
 ### My Account<a name="web_user_profile"></a>
 
 You can update your user profile in the **My Account** section of the Amazon WorkDocs web client by clicking on your name in the Amazon WorkDocs user control pane\. A sliding right panel appears where you can change the following items:
-
 + Your profile photograph
-
 + Timezone
-
 + Password \(applies to cloud directories only; to change your password in a connected directory, contact your system administrator for instructions\)
 
 You cannot use the web client to change your name or email address\. To change these, contact your Amazon WorkDocs administrator\.

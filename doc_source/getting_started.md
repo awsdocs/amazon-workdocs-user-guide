@@ -2,7 +2,7 @@
 
 Amazon WorkDocs is based on organizations and include the users who belong to the organization, as well as information about each user's folders and documents\. Before you can start using Amazon WorkDocs, you must complete the following tasks\.
 
-
+**Topics**
 + [Step 1: Get Invited](#get_invited)
 + [Step 2: Register](#user_registration)
 + [Step 3: Start Using Amazon WorkDocs](#start_using)
@@ -16,11 +16,8 @@ You will receive communication from your Amazon WorkDocs administrator with info
 ## Step 2: Register<a name="user_registration"></a>
 
 When you receive your invitation to join an Amazon WorkDocs organization, you may need to complete your user registration\. Completing your registration involves setting your user information, which includes the following:
-
 + First name
-
 + Last name
-
 + Password
 
 You can change your profile photo, timezone, and password from your **Profile** page after you complete your registration\. For more information, see [My Account](web_nav_view.md#web_user_profile)\.

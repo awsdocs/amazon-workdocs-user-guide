@@ -2,7 +2,7 @@
 
 The Amazon WorkDocs Android phone client application allows you to view, comment on, and download documents from your Amazon WorkDocs files\. The Android phone app can also be used to view, give feedback on, and download other organization documents for which you have been given permissions\.
 
-
+**Topics**
 + [System Requirements](#android_phone_client_sys_reqs)
 + [Log In](#android_phone_login)
 + [Android Phone Main Menu](android_phone_main_menu.md)
@@ -15,7 +15,6 @@ The Amazon WorkDocs Android phone client application allows you to view, comment
 ## System Requirements<a name="android_phone_client_sys_reqs"></a>
 
 The Amazon WorkDocs Android phone client application requires the following:
-
 + An Android phone with Android 4\.0\.3 or later
 
 ## Log In<a name="android_phone_login"></a>

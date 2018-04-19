@@ -21,15 +21,10 @@ Use the file navigation controls to move back to the navigation view\. To get to
 Use the content and action controls to search within a file, lock a file, edit a file, share by link or invite, favorite, and download a file\.
 
 The menu section contains the following options:
-
 + **Show activity** \- Allows you to see the activity related to the files\.
-
 + **Upload new version** \- Allows you to upload a new version of the file\.
-
 + **Delete** \- Allows you to delete a file\.
-
 + **Disallow downloads** \- Prevents you from downloading a file\.
-
 + **Disable feedback** \- Prevents you from commenting on a file\.
 
 ## File View Pane<a name="web_file_view_pane"></a>
@@ -43,13 +38,9 @@ Use the file control pane to view the people that the file has been shared with,
 You can filter the comments on the file based on file versions and users who have commented on the files\. You can also select to show draft comments, published comments, resolved comments, unresolved comments, and comments that mention your name\.
 
 For more information, see the following topics:
-
 + [People](client_help.md#client_people)
-
 + [Feedback](client_help.md#client_feedback)
-
 + [Activity](client_help.md#client_activity)
-
 + [Viewing File Properties](file_props.md)
 
 **People**  

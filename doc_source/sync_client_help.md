@@ -7,7 +7,7 @@ You can store any type of file in Amazon WorkDocs, except for those defined in [
 **Note**  
 It can take up to a few minutes for syncing to begin, depending on your connection speed, bandwidth availability, and the size of the files you are syncing\.
 
-
+**Topics**
 + [System Requirements](#sync_sys_reqs)
 + [Installing the Sync Application](#sync_install)
 + [Setting up the Sync Application](#sync-set-up)
@@ -24,13 +24,9 @@ It can take up to a few minutes for syncing to begin, depending on your connecti
 ## System Requirements<a name="sync_sys_reqs"></a>
 
 The Amazon WorkDocs sync application requires a computer running one of the following operating systems:
-
 + Microsoft Windows 7, Windows 8, or Windows 10
-
 + Microsoft Windows Server 2008
-
 + Microsoft Windows Server 2012 R2 \(with Microsoft AD, not Simple AD\)
-
 + macOS 10\.10 or later
 
 On all Windows clients, including all WorkSpaces, you must enable JavaScript in Internet Explorer\. For more information, see [How to enable JavaScript in a web browser?](http://support.microsoft.com/gp/howtoscript)\.
@@ -38,9 +34,7 @@ On all Windows clients, including all WorkSpaces, you must enable JavaScript in 
 The sync application requires HTTPS access on port 443 for all IP addresses for AWS\.
 
 The sync application communicates with the Java engine\. You can identify the port as follows:
-
 + On Windows, locate the client\.log file in the `%USERPROFILE%\AppData\Local\Amazon WorkDocs\SyncClient` folder\. Search for `http://127.0.0.1`\. The port is specified as follows: `http://127.0.0.1:port`\.
-
 + On macOS, locate the sync\-service\.port file in the `/Users/user/Library/Application Support/Amazon WorkDocs/SyncClient` folder\. The port is stored in plaintext\.
 
 The sync application supports local drives, but does not support non\-local drives, including network drives and external USB drives\. 
@@ -53,10 +47,9 @@ The Amazon WorkDocs sync application is available for both Windows and macOS des
 
 1. Connect to the Amazon WorkDocs console
 
-1. In the navigation menu, choose **Install sync client**\.  
-![\[Amazon WorkDocs console navigation\]](http://docs.aws.amazon.com/workdocs/latest/userguide/images/webapp_install_syncclient.png)
+1. On the **Download apps** menu, choose **WorkDocs Companion**\.
 
-1. From the list of available installation options, choose an option and complete the installation\.
+1. Under **Sync Files**, choose an option from the list of available installation options, and complete the installation\.
 
 **To download and install the Amazon WorkDocs sync application for Windows**
 
@@ -114,75 +107,40 @@ To change the Amazon WorkDocs account you have registered within the sync client
 ## Excluded Files and Folders<a name="sync_excluded_files"></a>
 
 Any files or folders that meet the following criteria are not synchronized:
-
 + Any file or folder name that starts with a period \(\.\), such as the following: 
-
   + "`.lock`"
-
   + "`.~doctor.ppt`"
-
   + "`.`"
-
   + "`..`"
-
 + Any file or folder name that starts or ends with a tilde \(\~\), such as the following:
-
   + "`hello.txt~`"
-
   + "`~WRD0000.tmp`"
-
   + "`.~doctor.ppt`"
-
   + "`~$filename.txt`"
-
 + Any file or folder name ending with "`.tmp`", such as the following:
-
   + "`pptC407.tmp`"
-
   + "`~WRD0000.tmp`"
-
 + Any file or folder with one of the following names \(the name and case must be an exact match\):
-
   + `Microsoft User Data`
-
   + `Outlook Files`
-
   + `Thumbs.db`
-
   + `Thumbnails`
-
   + `thumbnails`
-
 + Any file or folder name that includes any of the following characters:
-
   + \* \(asterisk\)
-
   + / \(forward slash\)
-
   + \\ \(back slash\)
-
   + : \(colon\)
-
   + < \(less than\)
-
   + > \(greater than\)
-
   + ? \(question mark\)
-
-  + | \(vertical bar/pipe\)
-
+  + \| \(vertical bar/pipe\)
   + " \(double quotes\)
-
   + character code 202E \(\\202E\)
-
 + Any file/folder that has a trailing space \(‘ ‘\) or period \(‘\.’\) character: 
-
   + `"filename "`
-
   + `"filename."`
-
 + Any file or folder name that is longer than 255 characters
-
 + Any file that is greater than 5 TB
 
 ## Sync Operation<a name="sync_operation"></a>
@@ -219,7 +177,6 @@ To delete a file or folder from your desktop, but still allow it to be accessed 
 If you permanently delete a file or folder in the **Shared with me folder** for all users, all of your devices, and the web client, it cannot be accessed again\. You must have collaborator or co\-owner permissions to do this\. 
 
 **To delete a file or folder from your computer only**
-
 + Delete it from the **Shared with me** folder on your desktop, or de\-select it from the **WorkDocs Selective Sync Settings** on your desktop\.
 
 **To delete a file or folder for all users and devices**
@@ -231,9 +188,7 @@ If you permanently delete a file or folder in the **Shared with me folder** for 
 1. Choose **Delete**\. 
 
 1. The file or folder appears in the **Recycle Bin** of your web client\.
-
    + To restore the item, open the context \(right\-click\) menu of the **Recycle Bin**, choose **Open**, right\-click on the item, and choose **Restore**\.
-
    + To delete the item permanently, open the context \(right\-click\) menu of the **Recycle Bin** and choose **Empty Recycle Bin**\.
 **Note**  
 If you delete a file or folder from `My documents`, it is moved to the recycle bin on the web client\. It does not appear on the sync client folders on any other device for you or other users\.
@@ -241,9 +196,7 @@ If you delete a file or folder from `My documents`, it is moved to the recycle b
 ## Selecting a Sync Folder<a name="sync_select_folders"></a>
 
 Syncing files and folders automatically backs up your local data to Amazon WorkDocs\. You can sync all files and folders or choose specific files or folders, which allows you to avoid syncing large amounts of data unnecessarily\. Keep the following notes in mind when selecting a folder:
-
 + You can only sync files that are included in your Amazon WorkDocs sync folder\. Amazon WorkDocs sync does not support selecting folder outside of the Amazon WorkDocs sync folder\.
-
 + If the Amazon WorkDocs sync client is registered to a folder that includes files, they are updated as the latest versions of the files\. To avoid overwriting online files with files synced from your desktop, select a new empty folder as your Amazon WorkDocs sync folder\.
 
 To remove files and folders from your computer, de\-select them in **WorkDocs Selective Sync Settings**\. This removes them from your computer, but they remain available for other users\. You can still access them from the web client and your other computers\.
@@ -294,20 +247,16 @@ You can uninstall the Amazon WorkDocs sync application from your local device wi
 
 The following are common issues and fixes with the Amazon WorkDocs sync client\. For further assistance, you can [contact Support](http://docs.aws.amazon.com/awssupport/latest/user/getting-started.html) or post on the [AWS forum](https://aws.amazon.com/workdocs/resources/#forum)\.
 
-
+**Topics**
 + [Files Are Not Syncing](#sync_errors)
 + [Obtaining the Amazon WorkDocs Sync Client Log File](#sync_logs)
 
 ### Files Are Not Syncing<a name="sync_errors"></a>
 
 If your files are not syncing, you can check for the following issues:
-
 + Excluded files in the sync folder\. For more information about file naming restrictions, see [Excluded Files and Folders](#sync_excluded_files)\.
-
 + File naming collisions\. Ensure that each file name is unique\.
-
 + Selective sync preventing sync\. Verify your selective sync settings and ensure that your folder is selected\.
-
 + Internet connectivity issues\. Syncing resumes after internet connectivity is resumed\.
 
 ### Obtaining the Amazon WorkDocs Sync Client Log File<a name="sync_logs"></a>
@@ -321,11 +270,8 @@ To further troubleshoot issues with the Amazon WorkDocs sync client, you may be 
 1. Choose the gear icon to open **Preferences** and choose **Send Diagnostic Logs**\.
 
 1. In the description field, include the following information:
-
    + Short description of the problem
-
    + Full path of the affected documents or folders
-
    + Names of affected users
 
 1. Choose **Submit**\.

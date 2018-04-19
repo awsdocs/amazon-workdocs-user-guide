@@ -11,17 +11,12 @@ Owners, co\-owners, and contributors can lock files and send requests to unlock 
 1. To lock the file, choose the down arrow in the upper\-right corner and choose **Lock**\. 
 
 1. To edit the file while it’s locked, choose one of the following options:
-
    + Choose the down arrow in the upper\-right corner, choose **Download**, and make your changes\. When you’re done making changes, open the file again in Amazon WorkDocs, choose the down arrow in the upper\-right corner, and choose **Upload new version**\.
-
    + Edit the file from the [Amazon WorkDocs Sync Client](sync_client_help.md)\.
 
 1. To unlock the file, choose the down arrow in the upper\-right corner and choose one of the following options:
-
    + If you made changes that you want to save, choose **Unlock and save changes**\.
-
    + If you made changes that you don't want to save, choose **Unlock and discard changes**\.
-
    + If you didn't make any changes, choose **Unlock**\.
 
 **To send an unlock request**

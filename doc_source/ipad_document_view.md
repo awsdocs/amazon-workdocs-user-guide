@@ -27,9 +27,6 @@ The file view pane contains the file display\.
 ## File Control Pane<a name="ipad_file_control_pane"></a>
 
 You use the file control pane to view the people with whom the file has been shared, give feedback on the file, and view the past activity on the file\. For more information, see the following topics:
-
 + [People](client_help.md#client_people)
-
 + [Feedback](client_help.md#client_feedback)
-
 + [Activity](client_help.md#client_activity)

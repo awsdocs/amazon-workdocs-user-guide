@@ -2,7 +2,7 @@
 
 The Amazon WorkDocs web client is a fully functioning website that allows you to upload, download, and organize your online Amazon WorkDocs document store\. It is also used to view and comment on your documents and documents from others\. The web client can display previews for many different types of files, depending on the internet media type of the document\. 
 
-
+**Topics**
 + [System Requirements](#web_client_sys_reqs)
 + [Log In](#web_login)
 + [Web Client View](web_view.md)
@@ -24,15 +24,10 @@ The Amazon WorkDocs web client is a fully functioning website that allows you to
 ## System Requirements<a name="web_client_sys_reqs"></a>
 
 The Amazon WorkDocs web client requires one of the following web browsers:
-
 + Google Chrome version 30 or later
-
 + Mozilla Firefox ESR version 24\.6 or later
-
 + Mozilla Firefox version 30 or later
-
 + Apple Safari version 7 or later
-
 + Microsoft Internet Explorer 10 or later
 
 ## Log In<a name="web_login"></a>
