@@ -8,6 +8,7 @@ The Amazon WorkDocs web client is a fully functioning website that allows you to
 + [Web Client View](web_view.md)
 + [Folders](client_folders.md)
 + [Adding and Editing Files](client_add_files.md)
++ [Open with Office Online](office-online.md)
 + [Locking and Unlocking Files](client_lock_files.md)
 + [File Versions](client_file_versions.md)
 + [Renaming Files](web_rename_file.md)
