@@ -4,7 +4,7 @@ Open with Office Online lets you co\-author and collaboratively edit Microsoft O
 
 ## Prerequisites<a name="office-online-prereqs"></a>
 
-To use Open with Office Online, you need a Microsoft Office 365 **Work** or **School** account with a license to edit in Office Online, and your site administrator needs to enable the feature for your Amazon WorkDocs site\. For more information, site administrators can see [Enabling Open with Office Online](http://docs.aws.amazon.com/workdocs/latest/adminguide/enable-office-online.html)\.
+To use Open with Office Online, you need a Microsoft Office 365 **Work** or **School** account with a license to edit in Office Online, and your site administrator needs to enable the feature for your Amazon WorkDocs site\. For more information, site administrators can see [Enabling Open with Office Online](http://docs.aws.amazon.com/workdocs/latest/adminguide/collab-editing.html#enable-office-online)\.
 
 For more information about getting a Microsoft Office 365 license, see [Microsoft Office Licensing](https://www.microsoft.com/en-us/Licensing/product-licensing/office.aspx), [Get the latest advanced features with Office 365](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans), and [Get the most from Office with Office 365](https://products.office.com/en-us/compare-all-microsoft-office-products?tab=2)\.
 

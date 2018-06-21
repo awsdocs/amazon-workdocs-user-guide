@@ -18,7 +18,7 @@ Use the file navigation controls to move back to the navigation view\. To get to
 
 ## Content and Action Controls<a name="web_file_content_controls"></a>
 
-Use the content and action controls to search within a file, lock a file, edit a file, share by link or invite, favorite, and download a file\.
+Use the content and action controls to search within a file, lock a file, edit a file, share by link or invite, mark a file as a favorite, and download a file\.
 
 The menu section contains the following options:
 + **Show activity** \- Allows you to see the activity related to the files\.

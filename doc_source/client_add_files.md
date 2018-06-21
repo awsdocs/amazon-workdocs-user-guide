@@ -14,7 +14,7 @@ You can also add files by dragging and dropping files from your computer into th
 
 1. In the web client, open the file\.
 
-1. Click on the three\-button icon, then choose **Upload New Version** and select the new version of the file to upload\.
+1. Click on the three\-dot icon, then choose **Upload New Version** and select the new version of the file to upload\.
 
 To open and edit a file with one click, use the Amazon WorkDocs Companion app\. After you install the app, you can open a file instantly in its default app and save your changes automatically to Amazon WorkDocs\. You don't need to manually download, save, and re\-upload the file\.
 

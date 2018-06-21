@@ -62,7 +62,7 @@ You can notify a specific user in a comment to bring a user's attention to a spe
 
 1. To italicize a word, add \_ before and after the word\. \(For example, \_word\_\)
 
-1. To strike through a word, add \~before and after the word\. \(For example, \~word\~\)
+1. To strikethrough a word, add \~before and after the word\. \(For example, \~word\~\)
 
 **To filter feedback**
 

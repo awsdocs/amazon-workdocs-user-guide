@@ -1,12 +1,13 @@
 # Document History<a name="document_history"></a>
 
 The following table describes important additions to the *Amazon WorkDocs User Guide*\.
-+ **Latest documentation update:** June 6, 2018
++ **Latest documentation update:** June 21, 2018
 
 
 | Change | Description | Date Changed | 
 | --- | --- | --- | 
-| Open with Office Online is available  | [Open with Office Online](office-online.md) | June 6, 2018 | 
+| Hancom Online Editing is available\. Create and collaboratively edit Microsoft Office files from the Amazon WorkDocs web application\.  | [Hancom Online Editing](hancom-online-edit.md) | June 21, 2018 | 
+| Open with Office Online is available\. Collaboratively edit Microsoft Office files from the Amazon WorkDocs web application\.  | [Open with Office Online](office-online.md) | June 6, 2018 | 
 | Amazon WorkDocs Drive is available for all Windows PC users\. Enable offline access for Amazon WorkDocs Drive  | [Amazon WorkDocs Drive](workdocs_drive_help.md) | April 2, 2018 | 
 | Various changes to the web client interface | [Amazon WorkDocs Web Client](web_client_help.md) | February 22, 2018 | 
 | Filter feedback, resolve feedback, and turn off email notifications | [Giving Feedback](client_add_feedback.md) | November 17, 2017 | 

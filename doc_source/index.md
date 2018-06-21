@@ -23,6 +23,7 @@ Amazon's trademarks and trade dress may not be used in
          + [File View](web_client_document_view.md)
       + [Folders](client_folders.md)
       + [Adding and Editing Files](client_add_files.md)
+      + [Hancom Online Editing](hancom-online-edit.md)
       + [Open with Office Online](office-online.md)
       + [Locking and Unlocking Files](client_lock_files.md)
       + [File Versions](client_file_versions.md)

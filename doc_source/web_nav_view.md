@@ -104,11 +104,11 @@ Allows you to share a folder or file with other users by inviting them\. For mor
 Allows you to share a folder or file with other users by sharing a link with them\. For more information, see [Share a Link](web_share_link.md)\.
 
 **Favorite**  
-Allows you to favorite a file or a folder\.
+Allows you to mark a file or a folder as a favorite\.
 
 ### Folder Menu<a name="web_folder_menu"></a>
 
-To display the menu for a folder, choose the three\-button icon on the folder line\. The folder menu is displayed as a dropdown\.
+To display the folder menu, choose the three\-dot icon on the folder line\. The folder menu is displayed as a dropdown\.
 
 The folder menu gives you access to the following folder commands:
 
@@ -129,7 +129,7 @@ Allows you to move the folder\. For more information, see [Moving a Folder](clie
 
 ### File Menu<a name="web_file_menu"></a>
 
-To display the menu for a file, choose the three\-dot icon on the file line\. The file menu is displayed as a dropdown\.
+To display the file menu, choose the three\-dot icon on the file line\. The file menu is displayed as a dropdown\.
 
 The file menu gives you access to the following folder commands\.
 
@@ -196,9 +196,9 @@ This section, marked by the **?** icon, contains feedback, forums, and help cont
 ### My Account<a name="web_user_profile"></a>
 
 You can update your user profile in the **My Account** section of the Amazon WorkDocs web client by clicking on your name in the Amazon WorkDocs user control pane\. A sliding right panel appears where you can change the following items:
-+ Your profile photograph
-+ Timezone
-+ Password \(applies to cloud directories only; to change your password in a connected directory, contact your system administrator for instructions\)
++ Your profile photograph\.
++ Timezone\.
++ Password\. This applies to cloud directories only\. To change your password in a connected directory, contact your system administrator\.
 
 You cannot use the web client to change your name or email address\. To change these, contact your Amazon WorkDocs administrator\.
 
