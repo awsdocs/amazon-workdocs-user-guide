@@ -1,29 +1,11 @@
 # Document History<a name="document_history"></a>
 
-The following table describes important additions to the *Amazon WorkDocs User Guide*\.
-+ **Latest documentation update:** June 21, 2018
+The following table describes important changes to the *Amazon WorkDocs User Guide*, beginning in February 2018\. For notification about updates to this documentation, you can subscribe to an RSS feed\.
 
-
-| Change | Description | Date Changed | 
-| --- | --- | --- | 
-| Hancom Online Editing is available\. Create and collaboratively edit Microsoft Office files from the Amazon WorkDocs web application\.  | [Hancom Online Editing](hancom-online-edit.md) | June 21, 2018 | 
-| Open with Office Online is available\. Collaboratively edit Microsoft Office files from the Amazon WorkDocs web application\.  | [Open with Office Online](office-online.md) | June 6, 2018 | 
-| Amazon WorkDocs Drive is available for all Windows PC users\. Enable offline access for Amazon WorkDocs Drive  | [Amazon WorkDocs Drive](workdocs_drive_help.md) | April 2, 2018 | 
-| Various changes to the web client interface | [Amazon WorkDocs Web Client](web_client_help.md) | February 22, 2018 | 
-| Filter feedback, resolve feedback, and turn off email notifications | [Giving Feedback](client_add_feedback.md) | November 17, 2017 | 
-| Amazon WorkDocs Drive is available for all Amazon WorkSpaces customers and in limited preview for Windows PC users | [Amazon WorkDocs Drive](workdocs_drive_help.md) | November 14, 2017 | 
-| Instantly open and edit files with the Amazon WorkDocs Companion app | [Adding and Editing Files](client_add_files.md) | October 26, 2017 | 
-| View activity for an entire site | [Viewing the Activity Feed](activity_feed.md) | September 13, 2017 | 
-| Share a link | [Share a Link](web_share_link.md) | August 24, 2017 | 
-| Lock and unlock files | [Locking and Unlocking Files](client_lock_files.md) | May 24, 2017 | 
-| Mobile enhancements |  [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workdocs/latest/userguide/document_history.html)  | April 25, 2017 | 
-| Commenting enhancements |  [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workdocs/latest/userguide/document_history.html)  | March 10, 2017 | 
-| Delete shared folders and files |  [Deleting Shared Folders and Files](sync_client_help.md#delete_shared)  | January 18, 2017 | 
-| Multiple features |  [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workdocs/latest/userguide/document_history.html)  | November 22, 2016 | 
-| Selective file and folder sync | [Selecting a Sync Folder](sync_client_help.md#sync_select_folders) | May 7, 2015 | 
-| Multiple features |  [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workdocs/latest/userguide/document_history.html)  | April 28, 2015 | 
-| Single sign\-on support | [Enabling Single Sign\-On](web_client_help.md#single_sign_on) | March 31, 2015 | 
-| Shared sync folder | [Using the Shared Sync Folder](sync_client_help.md#sync_shared_folder) | December 9, 2014 | 
-| Phone apps |  [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workdocs/latest/userguide/document_history.html)  | November 20, 2014 | 
-| Multiple features |  [\[See the AWS documentation website for more details\]](http://docs.aws.amazon.com/workdocs/latest/userguide/document_history.html)  | November 3, 2014 | 
-| Initial release | Initial release\. | July 10, 2014 | 
+| Change | Description | Date | 
+| --- |--- |--- |
+| iOS Files App Integration | Access Amazon WorkDocs content with the Files app for iOS version 11 and later\. For more information, see [Using the Files app in iOS](http://docs.aws.amazon.com/workdocs/latest/userguide/iphone_opening_files.html#ios-files-app) in the Amazon WorkDocs User Guide\. | July 24, 2018 | 
+| Hancom Online Editing | Hancom Online Editing is available\. Create and collaboratively edit Microsoft Office files from the Amazon WorkDocs web application\. For more information, see [Hancom Online Editing](http://docs.aws.amazon.com/workdocs/latest/userguide/hancom-online-edit.html) in the Amazon WorkDocs User Guide\. | June 21, 2018 | 
+| Open with Office Online | Open with Office Online is available\. Collaboratively edit Microsoft Office files from the Amazon WorkDocs web application\. For more information, see [Open with Office Online](http://docs.aws.amazon.com/workdocs/latest/userguide/office-online.html) in the Amazon WorkDocs User Guide\. | June 6, 2018 | 
+| Amazon WorkDocs Drive | Amazon WorkDocs Drive is available for all Windows PC users\. Enable offline access for Amazon WorkDocs Drive\. For more information, see [Amazon WorkDocs Drive](http://docs.aws.amazon.com/workdocs/latest/userguide/workdocs_drive_help.html) in the Amazon WorkDocs User Guide\. | April 2, 2018 | 
+| Web Client UI Update | Various changes to the web client interface\. For more information, see [Amazon WorkDocs Web Client](http://docs.aws.amazon.com/workdocs/latest/userguide/web_client_help.html) in the Amazon WorkDocs User Guide\. | February 22, 2018 | 

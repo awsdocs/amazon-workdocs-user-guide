@@ -6,7 +6,7 @@ You can see the files for which your feedback has been requested in your [**Awai
 
 **Topics**
 + [Adding Feedback](#add_feedback)
-+ [Declining Feedback](#w3ab2b9c18c14c10)
++ [Declining Feedback](#decline_feedback)
 + [Disabling Feedback](ipad_disable_feedback.md)
 + [Requesting the Ability to Add Feedback](ipad_phone_access_feedback.md)
 
@@ -64,7 +64,7 @@ You can notify a specific user in a comment to bring a user's attention to a spe
 
 1. To strike through a word, add \~before and after the word\. \(For example, \~word\~\)
 
-## Declining Feedback<a name="w3ab2b9c18c14c10"></a>
+## Declining Feedback<a name="decline_feedback"></a>
 
 You can decline to give feedback on any file for which you have received a feedback request\. When you decline feedback, the file is removed from your **Awaiting my Feedback** list, and you can no longer view the file\.
 

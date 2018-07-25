@@ -7,6 +7,7 @@ Amazon WorkDocs Drive is available for Windows PC users and for Amazon WorkSpace
 **Topics**
 + [Installing Amazon WorkDocs Drive](#drive_install)
 + [Using Amazon WorkDocs Drive](#drive_use)
++ [Searching Amazon WorkDocs Drive](#drive_search)
 + [File Icons](#drive_icons)
 + [Enabling Offline Access](#drive_offline)
 + [Troubleshooting Amazon WorkDocs Drive](#drive_troubleshoot)
@@ -55,11 +56,17 @@ You can perform operations directly from File Explorer, including creating, rena
 
 1. Your changes are automatically uploaded to Amazon WorkDocs and made available on all of your devices\.
 
+## Searching Amazon WorkDocs Drive<a name="drive_search"></a>
+
+Search for file names in Amazon WorkDocs Drive\.
+
 **To search for content in Amazon WorkDocs Drive**
 
 1. Choose the Amazon WorkDocs Drive icon in the system tray and left\-click to open the **Search** dialogue box\.
 
-1. Enter search terms to search for files in Amazon WorkDocs and open the files directly from Amazon WorkDocs Drive on\-demand\.
+1. Enter search terms to search for files in Amazon WorkDocs\. Either search for files in all folders, or narrow your search to the `My Documents` or `Shared With Me` folders\.
+
+1. Open the files directly from the search results list\.
 
 ## File Icons<a name="drive_icons"></a>
 
