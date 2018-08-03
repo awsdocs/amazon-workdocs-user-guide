@@ -1,4 +1,4 @@
-# Amazon WorkDocs Drive<a name="workdocs_drive_help"></a>
+# Using Amazon WorkDocs Drive<a name="workdocs_drive_help"></a>
 
 For Microsoft Windows users, Amazon WorkDocs Drive provides a native experience in Windows File Explorer for accessing all Amazon WorkDocs content\. With Amazon WorkDocs Drive, users get the power of the AWS Cloud on their desktops\. They can access all of their folders and files with minimal use of local storage\. Users don’t need to change the way they work, because they can see all of their folders and files in Windows File Explorer, which works just like the other files and folders on their desktop\.
 

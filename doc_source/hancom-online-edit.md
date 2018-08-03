@@ -1,4 +1,4 @@
-# Hancom Online Editing<a name="hancom-online-edit"></a>
+# Using Hancom Online Editing<a name="hancom-online-edit"></a>
 
 Hancom Online Editing lets you create Microsoft Office files \(`.docx`, `.pptx`, and `.xlsx`\) from the Amazon WorkDocs web application\. You can also co\-author and collaboratively edit `.docx`, `.doc`, `.pptx`, `.ppt`, `.xlsx`, and `.xls` files\.
 
@@ -20,7 +20,7 @@ Use Hancom Online Editing to create new Microsoft Office files from the Amazon W
 
 1. When you are done editing, choose **Save & Exit**\. The file is saved with a generic file name, such as **New Document**\. 
 
-   1. Rename the file as needed\. For more information, see [Renaming Files](web_rename_file.md)\.
+   1. Rename the file as needed\. For more information, see [Renaming and Moving Folders and Files](client_folders.md#web_rename_folder)\.
 
 ## Editing a File<a name="hancom-edit"></a>
 

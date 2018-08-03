@@ -1,4 +1,4 @@
-# Share a Link<a name="web_share_link"></a>
+# Sharing a Link<a name="web_share_link"></a>
 
 You can copy hyperlinks to content stored in Amazon WorkDocs\. Share file links with coworkers and external partners, both inside and outside your organization\. Folder links can only be shared with internal site members\. 
 

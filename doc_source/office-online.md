@@ -1,4 +1,4 @@
-# Open with Office Online<a name="office-online"></a>
+# Using Open with Office Online<a name="office-online"></a>
 
 Open with Office Online lets you co\-author and collaboratively edit Microsoft Office files \(`.docx`, `.pptx`, and `.xlsx`\) from the Amazon WorkDocs web application\. When you edit a document with Office Online, other users with edit permissions can join the live collaborative session to edit the document with you in real time\. Files edited with Office Online are saved automatically in Amazon WorkDocs\. 
 

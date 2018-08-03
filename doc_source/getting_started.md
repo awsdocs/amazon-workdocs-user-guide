@@ -1,11 +1,6 @@
 # Getting Started with Amazon WorkDocs<a name="getting_started"></a>
 
-Amazon WorkDocs is based on organizations and include the users who belong to the organization, as well as information about each user's folders and documents\. Before you can start using Amazon WorkDocs, you must complete the following tasks\.
-
-**Topics**
-+ [Step 1: Get Invited](#get_invited)
-+ [Step 2: Register](#user_registration)
-+ [Step 3: Start Using Amazon WorkDocs](#start_using)
+Use Amazon WorkDocs to store and share documents, give and receive document feedback, and collaborate with others in your Amazon WorkDocs organization\. You can access Amazon WorkDocs on the web, or install apps for Android and iOS devices\.
 
 ## Step 1: Get Invited<a name="get_invited"></a>
 
@@ -20,8 +15,11 @@ When you receive your invitation to join an Amazon WorkDocs organization, you ma
 + Last name
 + Password
 
-You can change your profile photo, timezone, and password from your **Profile** page after you complete your registration\. For more information, see [My Account](web_nav_view.md#web_user_profile)\.
+You can change your profile photo, timezone, and password from your account after you complete your registration\. For more information, see [Updating Your User Profile](manage_account.md#account)\.
 
 ## Step 3: Start Using Amazon WorkDocs<a name="start_using"></a>
 
-After the previous steps are complete, you can begin working with Amazon WorkDocs using one of the client applications\. There are several clients used for document collaboration\. Additionally, there is a document synchronization client that enables you to synchronize a folder on your Mac or Windows desktop with your Amazon WorkDocs files\. For more information, see [Amazon WorkDocs Clients](client_help.md)\.
+After the previous steps are complete, you can begin working with Amazon WorkDocs using one of the client applications for web browsers and mobile devices such as Android, iPad, or iPhone\. For more information, see one of the following topics:
++ [Getting Started with the Web Client](web_client_help.md)
++ [Getting Started with Android](android_phone_client_help.md)
++ [Getting Started with iOS](iphone_client_help.md)

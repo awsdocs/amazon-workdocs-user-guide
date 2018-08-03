@@ -1,6 +1,8 @@
-# Viewing the Activity Feed<a name="activity_feed"></a>
+# Tracking File Activity<a name="activity_feed"></a>
 
-You can browse a log of recent activity around your Amazon WorkDocs content\. Activities include views, comments, downloads, shares, locks, and deletions\. You can see who changed a file and when it was changed\. You can also search for a specific file, folder, or user name, and filter by activity type and date modified\. If you are an administrator, you can view activities performed by all users of a site\. For more information, see [Site\-wide Activity Feed](http://docs.aws.amazon.com/workdocs/latest/adminguide/site-activity.html)\.
+View your Amazon WorkDocs activity feed to keep track of changes to your files and folders, and to see who made the changes\. See when files were viewed, downloaded, commented on, shared, locked, and deleted, and search for specific files, folders, or users\. Activity feed searches can be filtered by activity type and date modified\.
+
+If you are an administrator, you can view activities performed by all users of a site\. For more information, see [Site\-wide Activity Feed](http://docs.aws.amazon.com/workdocs/latest/adminguide/site-activity.html)\.
 
 **To view the activity feed**
 

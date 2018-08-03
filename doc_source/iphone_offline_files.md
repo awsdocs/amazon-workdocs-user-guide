@@ -1,5 +1,0 @@
-# Viewing Offline Files<a name="iphone_offline_files"></a>
-
-You can download any file that you are authorized to download by viewing the document and opening the download icon ![\[Amazon WorkDocs iPhone download icon\]](http://docs.aws.amazon.com/workdocs/latest/userguide/images/iphone_document_download_icon.png) to download the current document to the device\. If the document has already been downloaded, the download icon is highlighted ![\[Amazon WorkDocs iPhone download icon\]](http://docs.aws.amazon.com/workdocs/latest/userguide/images/iphone_document_download_highlight_icon.png)\.
-
-You can view your offline files by choosing **Offline Documents** in the main menu\. You can give feedback on a document even while offline\. Your feedback is synchronized to the server the next time you have Internet access\.

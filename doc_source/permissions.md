@@ -1,4 +1,4 @@
-# Amazon WorkDocs Sharing Permissions<a name="permissions"></a>
+# Permissions<a name="permissions"></a>
 
 Amazon WorkDocs controls access to folders and files through the use of permissions\. Permissions are applied based on the role of the user\.
 

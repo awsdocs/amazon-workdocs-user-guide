@@ -1,4 +1,4 @@
-# Amazon WorkDocs Sync Client<a name="sync_client_help"></a>
+# Using Amazon WorkDocs Sync Client<a name="sync_client_help"></a>
 
 Amazon WorkDocs provides a client synchronization application that allows you to synchronize a folder on your desktop with the Amazon WorkDocs service\. The local Amazon WorkDocs folder is a mirror of your Amazon WorkDocs `My documents` and `Shared with me` folders and subfolders in the cloud\. If you add a file under your local Amazon WorkDocs folder, that file is automatically synchronized to your online Amazon WorkDocs `My documents` folder, in the background\. Likewise, if you delete a file from your online Amazon WorkDocs `My documents` folder or one of its subfolders, the file is automatically removed from your local Amazon WorkDocs folder\. This provides you with safe and secure off\-site storage for your important files\.
 
@@ -29,7 +29,7 @@ The Amazon WorkDocs sync application requires a computer running one of the foll
 + Microsoft Windows Server 2012 R2 \(with Microsoft AD, not Simple AD\)
 + macOS 10\.10 or later
 
-On all Windows clients, including all WorkSpaces, you must enable JavaScript in Internet Explorer\. For more information, see [How to enable JavaScript in a web browser?](http://support.microsoft.com/gp/howtoscript)\.
+On all Windows clients, including all WorkSpaces, you must enable JavaScript in Internet Explorer\. For more information, see [How to enable JavaScript in Windows](https://support.microsoft.com/en-us/help/3135465/how-to-enable-javascript-in-windows)\.
 
 The sync application requires HTTPS access on port 443 for all IP addresses for AWS\.
 
@@ -152,7 +152,7 @@ Moving files you own out of the sync folder deletes them from your Amazon WorkDo
 
 File uploads and downloads that are in progress when you close the sync application are automatically resumed the next time you log in\.
 
-You can add, remove, or modify files while offline and these changes will be updated to your Amazon WorkDocs repository when the sync client connects the next time\.
+You can add, remove, or modify files while offline and these changes will be updated to your Amazon WorkDocs repository when the sync client connects the next time\. When you edit a file, your changes are synced to Amazon WorkDocs as a new file version\.
 
 To see the upload and sync status of your files, choose the Amazon WorkDocs icon in the status notification tray on your computer\. You also see a list of recently synced files as well as when it was synced\.
 

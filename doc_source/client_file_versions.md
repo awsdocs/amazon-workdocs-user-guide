@@ -1,6 +1,6 @@
-# File Versions<a name="client_file_versions"></a>
+# Viewing File Versions<a name="client_file_versions"></a>
 
-If more than one version of a file has been uploaded, you can select the version to view by performing the following steps:
+If more than one version of a file has been uploaded, you can select the version to view by performing the following steps\.
 
 **To open a specific version of a file**
 

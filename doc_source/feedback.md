@@ -1,14 +1,14 @@
-# Giving Feedback<a name="client_add_feedback"></a>
+# Sharing Feedback<a name="feedback"></a>
 
 Other people in your organization can request feedback from you on specific files\. You can add feedback to a file, or add a message about the entire file\. You can also reply to feedback, give private feedback, and decline to give feedback\.
 
-You can see the files for which your feedback has been requested in your [**Awaiting my Feedback**](web_nav_view.md#web_awaiting_feedback) list\. To request feedback, you can share your document with other people in your organization\. For more information, see [Sharing a Folder or File](client_share.md)\.
+You can see the files for which your feedback has been requested in your **Awaiting my Feedback** list\. To request feedback, you can share your document with other people in your organization\. For more information, see [Sharing Files and Folders](share-docs.md)\.
 
 **Topics**
 + [Adding Feedback](#add_feedback)
-+ [Declining Feedback](#decline_feedback)
-+ [Disabling Feedback](#disable_feedback)
 + [Requesting the Ability to Add Feedback](#access_feedback)
++ [Declining Feedback](#decline_feedback)
++ [Disabling Feedback and Muting Notifications](#disable_feedback)
 
 ## Adding Feedback<a name="add_feedback"></a>
 
@@ -96,15 +96,19 @@ You can hide comments from view by resolving them\.
 
 To show a resolved comment again, filter by **Resolved comments** and choose **Unresolve** under the comment\.
 
-**To turn off email notifications**
+## Requesting the Ability to Add Feedback<a name="access_feedback"></a>
 
-You can choose not to receive an email notification every time someone leaves a comment on a file\.
+If you have viewer access to a file and can’t give feedback, you can request contributor access to add feedback\.
 
-1. Open a document in Amazon WorkDocs\.
+**To request ability to add feedback**
 
-1. In the right pane, choose the gear icon in the upper\-right corner\.
+1. Open the document\.
 
-1. Under **Notification Settings**, choose **Disable email notifications**\.
+1. Under the message **You don’t have access to the feedback**, choose **Request Access**\.
+
+1. Type the justification for your request and choose **Request Access**\.
+
+The file owner receives an email notification about your request and grants you access\. You receive an email that the file has been shared with you\.
 
 ## Declining Feedback<a name="decline_feedback"></a>
 
@@ -128,7 +132,7 @@ You can also remove a file from the **Awaiting my Feedback** list without declin
 
 1. In the feedback menu, choose **Delete**\.
 
-## Disabling Feedback<a name="disable_feedback"></a>
+## Disabling Feedback and Muting Notifications<a name="disable_feedback"></a>
 
 If you are the owner or co\-owner of a file, you can lock the file to prevent it from receiving additional comments\.
 
@@ -138,16 +142,12 @@ If you are the owner or co\-owner of a file, you can lock the file to prevent it
 
 1. Choose **Settings**, **Disable feedback for the document**\.
 
-## Requesting the Ability to Add Feedback<a name="access_feedback"></a>
+Mute notifications to stop receiving emails when a file receives feedback\.
 
-If you have viewer access to a file and can’t give feedback, you can request contributor access to add feedback\.
+**To turn off email notifications**
 
-**To request ability to add feedback**
+1. Open a document in Amazon WorkDocs\.
 
-1. Open the document\.
+1. In the right pane, choose the gear icon in the upper\-right corner\.
 
-1. Under the message **You don’t have access to the feedback**, choose **Request Access**\.
-
-1. Type the justification for your request and choose **Request Access**\.
-
-The file owner receives an email notification about your request and grants you access\. You receive an email that the file has been shared with you\.
+1. Under **Noise level**, next to **Mute notifications**, choose **ON**\.

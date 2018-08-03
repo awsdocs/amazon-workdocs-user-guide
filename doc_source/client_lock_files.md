@@ -4,21 +4,25 @@ You can lock a file to prevent others from overwriting your work while you're ed
 
 Owners, co\-owners, and contributors can lock files and send requests to unlock a file\. Owners and co\-owners can also unlock files, and contributors can unlock a file if they locked it\. 
 
-**To lock a file**
-+ There are two ways to lock a file:
-  + In the navigation view of the web client, choose the lock icon in the file line\.
-  + Open the file in the file view of the web client and choose the lock icon\. 
+You can lock a file to prevent others from overwriting your work while you're editing it\. Collaborators can see a lock icon next to the file to know when it’s locked\. While it’s locked, only the person who locked it can upload a new version\.
 
-**To edit a file while it's locked**
-+ There are three ways to edit a file while it's locked:
-  + Choose the edit icon in the file line and edit the file with the Amazon WorkDocs Companion app\. Changes made to the file are saved automatically to Amazon WorkDocs\.
-  + Choose the file menu, choose **Download**, make your changes, and save the file\. When you’re done making changes, open the file again in Amazon WorkDocs, and choose **Upload new version** or choose the upload icon\.
-  + Edit the file from the [Amazon WorkDocs Sync Client](sync_client_help.md)\.
+Owners, co\-owners, and contributors can lock files and send requests to unlock a file\. Owners and co\-owners can also unlock files, and contributors can unlock a file if they locked it\.
+
+**To lock a file**
+
+1. Open the Amazon WorkDocs file to lock\.
+
+1. To lock the file, choose the down arrow in the upper\-right corner and choose **Lock**\. 
+
+1. To edit the file while it’s locked, choose one of the following options:
+   + Choose the down arrow in the upper\-right corner, choose **Download**, and make your changes\. When you’re done making changes, open the file again in Amazon WorkDocs, choose the down arrow in the upper\-right corner, and choose **Upload new version**\.
+   + Edit the file using the Sync Client\. For more information, see [Using Amazon WorkDocs Sync Client](sync_client_help.md)\.
 
 **To unlock a file**
-+ There are two ways to unlock a file:
-  + In the navigation view of the web client, choose the unlock icon in the file line\.
-  + Open the file in the file view of the web client and choose the unlock icon\. 
++ To unlock a file, choose the down arrow in the upper\-right corner and choose one of the following options:
+  + If you made changes that you want to save, choose **Unlock and save changes**\.
+  + If you made changes that you don't want to save, choose **Unlock and discard changes**\.
+  + If you didn't make any changes, choose **Unlock**\.
 
 **To send an unlock request**
 

@@ -1,4 +1,4 @@
-# Sending a Message<a name="client_message"></a>
+# Sending Messages<a name="client_message"></a>
 
 To send a message to the people with whom you have already shared a file, perform the following steps while viewing the document:
 
