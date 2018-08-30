@@ -2,11 +2,7 @@
 
 You can lock a file to prevent others from overwriting your work while you're editing it\. Collaborators can see a lock icon next to the file to know when it’s locked\. While it’s locked, only the person who locked it can upload a new version\.
 
-Owners, co\-owners, and contributors can lock files and send requests to unlock a file\. Owners and co\-owners can also unlock files, and contributors can unlock a file if they locked it\. 
-
-You can lock a file to prevent others from overwriting your work while you're editing it\. Collaborators can see a lock icon next to the file to know when it’s locked\. While it’s locked, only the person who locked it can upload a new version\.
-
-Owners, co\-owners, and contributors can lock files and send requests to unlock a file\. Owners and co\-owners can also unlock files, and contributors can unlock a file if they locked it\.
+Owners, co\-owners, and contributors can lock files and send requests to unlock a file\. Owners and co\-owners can also unlock files\. Contributors can unlock a file only if they locked it\. 
 
 **To lock a file**
 

@@ -1,6 +1,10 @@
 # Edit Files Using Amazon WorkDocs Companion<a name="companion"></a>
 
-Amazon WorkDocs Companion lets you open and edit a file from the web client with one click\. Your changes are saved to Amazon WorkDocs as a new file version\.
+Amazon WorkDocs Companion lets you open and edit a file from the web client in one step\. Your changes are saved to Amazon WorkDocs as a new file version\.
+
+For Windows users, Amazon WorkDocs Companion integrates with File Explorer to let you: 
++ Upload multiple files and folders from File Explorer to the Companion Uploads folder under **MyDocs** on the Amazon WorkDocs site\. 
++ Share a link to the uploaded files, or share a link with a 4\-digit passcode\.
 
 Download Amazon WorkDocs Companion from [https://amazonworkdocs\.com/en/clients](https://amazonworkdocs.com/en/clients)\.
 

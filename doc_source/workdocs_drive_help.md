@@ -1,6 +1,6 @@
 # Using Amazon WorkDocs Drive<a name="workdocs_drive_help"></a>
 
-For Microsoft Windows users, Amazon WorkDocs Drive provides a native experience in Windows File Explorer for accessing all Amazon WorkDocs content\. With Amazon WorkDocs Drive, users get the power of the AWS Cloud on their desktops\. They can access all of their folders and files with minimal use of local storage\. Users don’t need to change the way they work, because they can see all of their folders and files in Windows File Explorer, which works just like the other files and folders on their desktop\.
+For Windows users, Amazon WorkDocs Drive provides a native experience in Windows File Explorer for accessing all Amazon WorkDocs content\. With Amazon WorkDocs Drive, users get the power of the AWS Cloud on their desktops\. They can access all of their folders and files with minimal use of local storage\. Users don’t need to change the way they work, because they can see all of their folders and files in Windows File Explorer, which works just like the other files and folders on their desktop\.
 
 Amazon WorkDocs Drive is available for Windows PC users and for Amazon WorkSpaces\. Amazon WorkDocs Drive can upload and download file sizes of up to 5 TB each, and allows file path lengths of up to 260 characters\.
 
@@ -9,16 +9,16 @@ Amazon WorkDocs Drive is available for Windows PC users and for Amazon WorkSpace
 + [Using Amazon WorkDocs Drive](#drive_use)
 + [Searching Amazon WorkDocs Drive](#drive_search)
 + [File Icons](#drive_icons)
-+ [Enabling Offline Access](#drive_offline)
++ [Enabling Offline Access and Syncing](#drive_offline)
 + [Troubleshooting Amazon WorkDocs Drive](#drive_troubleshoot)
 
 ## Installing Amazon WorkDocs Drive<a name="drive_install"></a>
 
 If you have administrator privileges on your Windows device, you can install Amazon WorkDocs Drive\.
 
-Amazon WorkDocs Drive is available for Microsoft Windows 7, 8, and 10\+, and Microsoft Windows Server 2008, 2012 R2, and 2016\.
+Amazon WorkDocs Drive is available only for 64\-bit versions of Windows 7, Windows 8, and Windows 10, Windows Server 2008, Windows Server 2012 R2, and Windows Server 2016\.
 
-Amazon WorkDocs Drive requires Microsoft \.NET library version 4\.6\.2 or newer, and HTTPS access on port 443 for all IP addresses for AWS\.
+Amazon WorkDocs Drive requires Microsoft \.NET Framework 4\.6\.2 or newer, and HTTPS access on port 443 for all IP addresses for AWS\.
 
 **To install Amazon WorkDocs Drive**
 
@@ -76,19 +76,19 @@ Amazon WorkDocs Drive provides the following visual icons to communicate file st
 + **Green checkmark icon**—A file is stored locally on your device\.
 + **Blue star icon**—A file or folder is marked as a Favorite\.
 
-## Enabling Offline Access<a name="drive_offline"></a>
+## Enabling Offline Access and Syncing<a name="drive_offline"></a>
 
-You can enable offline access to your files and folders using Amazon WorkDocs Drive\. 
+Use Amazon WorkDocs Drive to sync favorite files and folders by enabling offline access\. 
 
 **To enable offline access to files and folders**
 
-1. In File Explorer, select a file or folder and choose **Add to Favorites**\.
+1. In File Explorer, right\-click on a file or folder and choose **Amazon WorkDocs Drive**, **Add to Favorites**\.
 
 1. Right\-click on the Amazon WorkDocs Drive icon in your Windows system tray\.
 
 1. Choose **Keep Favorites on this Device**\.
 
-Files or folders marked as favorites are synchronized to your device from Amazon WorkDocs\.
+Files or folders marked as favorites are synchronized between your **Favorites** on Amazon WorkDocs and the W: drive on your device\.
 
 To turn off this option, choose **Remove Favorites from this Device**\.
 

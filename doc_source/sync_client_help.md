@@ -223,7 +223,7 @@ You can uninstall the Amazon WorkDocs sync application from your local device wi
 
 **To uninstall the Amazon WorkDocs sync application for Windows**
 
-1. In Control Panel, choose **Programs and Features**, **Amazon WorkDocs**, **Uninstall**\.
+1. Search for and open Control Panel from your Windows taskbar, choose **Programs and Features**, **Amazon WorkDocs**, **Uninstall**\.
 
 1. When prompted for confirmation, choose **OK**\.
 
