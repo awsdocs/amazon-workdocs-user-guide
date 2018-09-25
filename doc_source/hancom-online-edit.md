@@ -4,7 +4,7 @@ Hancom Online Editing lets you create Microsoft Office files \(`.docx`, `.pptx`,
 
 When you edit a document with Hancom Online Editing, other users with edit permissions can join the live collaborative session to edit the document with you in real time\. Files edited with Hancom Online Editing are saved automatically in Amazon WorkDocs\.
 
-To use Hancom Online Editing, your site administrator must enable the feature for your Amazon WorkDocs site\. For more information, site administrators can see [Enabling Hancom Online Editing](http://docs.aws.amazon.com/workdocs/latest/adminguide/collab-editing.html#enable-hancom-edit)\.
+To use Hancom Online Editing, your site administrator must enable the feature for your Amazon WorkDocs site\. For more information, site administrators can see [Enabling Hancom Online Editing](https://docs.aws.amazon.com/workdocs/latest/adminguide/collab-editing.html#enable-hancom-edit)\.
 
 ## Creating a New File<a name="hancom-new"></a>
 

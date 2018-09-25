@@ -50,8 +50,10 @@ You can perform operations directly from File Explorer, including creating, rena
 1. Right\-click an Amazon WorkDocs file or folder, choose **Amazon WorkDocs Drive**, and choose one of the following actions:
    + To generate a link to share the content with other users, choose **Copy web link**\.
    + To view or edit the content in a web browser, choose **Open in browser**\.
-   + To allow specific users in an organization to access the content, choose **Share by invite**\.
    + To mark a file or folder as a favorite, choose **Add to Favorites**\.
+
+   The following actions apply to files only:
+   + To allow specific users in an organization to access the content, choose **Share by invite**\.
    + To prevent other users from changing the file while you’re working on it, choose **Lock**\. When you're done, choose **Unlock**\.
 
 1. Your changes are automatically uploaded to Amazon WorkDocs and made available on all of your devices\.
@@ -78,25 +80,25 @@ Amazon WorkDocs Drive provides the following visual icons to communicate file st
 
 ## Enabling Offline Access and Syncing<a name="drive_offline"></a>
 
-Use Amazon WorkDocs Drive to sync favorite files and folders by enabling offline access\. 
+Enable the ability to edit and sync favorite files and folders in Amazon WorkDocs Drive when your device is offline\. Changes that you make offline are synced to your **Favorites** on Amazon WorkDocs the next time your device is online\.
 
 **To enable offline access to files and folders**
 
-1. In File Explorer, right\-click on a file or folder and choose **Amazon WorkDocs Drive**, **Add to Favorites**\.
+1. Open File Explorer on your computer, and go to the W: drive\. 
 
-1. Right\-click on the Amazon WorkDocs Drive icon in your Windows system tray\.
+1. Choose or right\-click a file or folder, and choose **Amazon WorkDocs Drive**, **Add to Favorites**\.
 
-1. Choose **Keep Favorites on this Device**\.
+1. In the Windows notification area, choose or right\-click the Amazon WorkDocs Drive icon, and choose **Keep Favorites on this Device**\.
 
-Files or folders marked as favorites are synchronized between your **Favorites** on Amazon WorkDocs and the W: drive on your device\.
+1. Files or folders marked as favorites are synchronized between your **Favorites** on Amazon WorkDocs and the W: drive on your device\.
 
-To turn off this option, choose **Remove Favorites from this Device**\.
+To turn off this option, in your Windows notification area, choose or right\-click the Amazon WorkDocs Drive icon, and choose **Remove Favorites from this Device**\.
 
 You can also temporarily pause the syncing of Amazon WorkDocs content to your device, and resume syncing later\. If you have limited network bandwidth for syncing, you might consider using this option\.
 
 **To pause file and folder syncing**
 
-1. On your computer, right\-click on the Amazon WorkDocs Drive icon in your Windows system tray\.
+1. In the Windows notification area, choose or right\-click the Amazon WorkDocs Drive icon\.
 
 1. Choose **Pause**\.
 

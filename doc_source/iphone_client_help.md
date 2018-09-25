@@ -6,6 +6,8 @@ The iPhone and iPad applications allow you to view and edit files in other iOS a
 
 Download the iPhone and iPad applications from the Apple App Store, and sign in with your organization name, user name, and password\. The organization name and user name are provided in the welcome email that you received from your Amazon WorkDocs administrator\. Your password was established when you completed the initial user registration\. For more information, see [Step 2: Register](getting_started.md#user_registration)\. 
 
+To reset your password, choose **Forgot password** on the sign\-in screen\. If you need more help with signing in, contact your Amazon WorkDocs administrator\.
+
 **Topics**
 + [System Requirements](#iphone_client_sys_reqs)
 + [Opening a File in Another iOS App to View or Edit](#iphone_opening_files)

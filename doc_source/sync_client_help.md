@@ -245,7 +245,7 @@ You can uninstall the Amazon WorkDocs sync application from your local device wi
 
 ## Troubleshooting Sync Issues<a name="sync_troubleshooting"></a>
 
-The following are common issues and fixes with the Amazon WorkDocs sync client\. For further assistance, you can [contact Support](http://docs.aws.amazon.com/awssupport/latest/user/getting-started.html) or post on the [AWS forum](https://aws.amazon.com/workdocs/resources/#forum)\.
+The following are common issues and fixes with the Amazon WorkDocs sync client\. For further assistance, you can [contact Support](https://docs.aws.amazon.com/awssupport/latest/user/getting-started.html) or post on the [AWS forum](https://aws.amazon.com/workdocs/resources/#forum)\.
 
 **Topics**
 + [Files Are Not Syncing](#sync_errors)

@@ -4,6 +4,8 @@ The Amazon WorkDocs Android phone and tablet applications allow you to view, com
 
 Download the Android application from Google Play or the Amazon Appstore for Android, and sign in with your organization name, user name, and password\. The organization name and user name are provided in the welcome email that you received from your Amazon WorkDocs administrator\. Your password was established when you completed the initial user registration\. For more information, see [Step 2: Register](getting_started.md#user_registration)\. 
 
+To reset your password, choose **Forgot password** on the sign\-in screen\. If you need more help with signing in, contact your Amazon WorkDocs administrator\.
+
 **Topics**
 + [System Requirements](#android_phone_client_sys_reqs)
 
