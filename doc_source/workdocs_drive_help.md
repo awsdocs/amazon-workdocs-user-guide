@@ -45,7 +45,9 @@ You can perform operations directly from File Explorer, including creating, rena
 
 **To work with files and folders**
 
-1. Open File Explorer on your computer, and go to the W: drive\. 
+1. Do one of the following:
+   + Open File Explorer on your computer, and go to the W: drive\. 
+   + Choose or right\-click the Amazon WorkDocs Drive icon in the notification area, and choose **Open Drive**\.
 
 1. Right\-click an Amazon WorkDocs file or folder, choose **Amazon WorkDocs Drive**, and choose one of the following actions:
    + To generate a link to share the content with other users, choose **Copy web link**\.
@@ -64,7 +66,9 @@ Search for file names in Amazon WorkDocs Drive\.
 
 **To search for content in Amazon WorkDocs Drive**
 
-1. Choose the Amazon WorkDocs Drive icon in the system tray and left\-click to open the **Search** dialogue box\.
+1. Do one of the following:
+   + Choose the Amazon WorkDocs Drive icon in the notification area, and left\-click to open the **Search** dialog box\.
+   + Choose the Amazon WorkDocs Drive icon in the notification area, right\-click to open the menu, then choose **Search**\.
 
 1. Enter search terms to search for files in Amazon WorkDocs\. Either search for files in all folders, or narrow your search to the `My Documents` or `Shared With Me` folders\.
 
@@ -80,7 +84,7 @@ Amazon WorkDocs Drive provides the following visual icons to communicate file st
 
 ## Enabling Offline Access and Syncing<a name="drive_offline"></a>
 
-Enable the ability to edit and sync favorite files and folders in Amazon WorkDocs Drive when your device is offline\. Changes that you make offline are synced to your **Favorites** on Amazon WorkDocs the next time your device is online\.
+Enable the ability to edit and sync favorite files and folders in Amazon WorkDocs Drive when your device is offline\. Edit in Amazon WorkDocs Drive while your device is offline\. Your changes are synced to your **Favorites** on the Amazon WorkDocs site the next time your device is online\.
 
 **To enable offline access to files and folders**
 
@@ -88,11 +92,11 @@ Enable the ability to edit and sync favorite files and folders in Amazon WorkDoc
 
 1. Choose or right\-click a file or folder, and choose **Amazon WorkDocs Drive**, **Add to Favorites**\.
 
-1. In the Windows notification area, choose or right\-click the Amazon WorkDocs Drive icon, and choose **Keep Favorites on this Device**\.
+1. In the Windows notification area, choose or right\-click the Amazon WorkDocs Drive icon, and select **Store Favorites for offline use**\.
 
 1. Files or folders marked as favorites are synchronized between your **Favorites** on Amazon WorkDocs and the W: drive on your device\.
 
-To turn off this option, in your Windows notification area, choose or right\-click the Amazon WorkDocs Drive icon, and choose **Remove Favorites from this Device**\.
+To turn off this option, in your Windows notification area, choose or right\-click the Amazon WorkDocs Drive icon, and clear **Store Favorites for offline use**\.
 
 You can also temporarily pause the syncing of Amazon WorkDocs content to your device, and resume syncing later\. If you have limited network bandwidth for syncing, you might consider using this option\.
 
@@ -100,9 +104,9 @@ You can also temporarily pause the syncing of Amazon WorkDocs content to your de
 
 1. In the Windows notification area, choose or right\-click the Amazon WorkDocs Drive icon\.
 
-1. Choose **Pause**\.
+1. Select **Pause sync**\.
 
-1. To resume syncing your files and folders, choose **Resume**\.
+1. To resume syncing your files and folders, clear **Pause sync**\.
 
 While syncing is paused, you can continue working on downloaded files that are available on your local device\. When syncing resumes, your changes are uploaded as new versions\.
 
