@@ -4,6 +4,7 @@ The following table describes important changes to the *Amazon WorkDocs User Gui
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [Updates to Web Application](#document_history) | The user interface for the Amazon WorkDocs web application is updated\. For more information, see the topics linked from [Working with Files and Folders](https://docs.aws.amazon.com/workdocs/latest/userguide/working-docs.html), [Sharing Files and Folders](https://docs.aws.amazon.com/workdocs/latest/userguide/share-docs.html), and [Feedback and Collaborative Editing](https://docs.aws.amazon.com/workdocs/latest/userguide/collab-editing.html) in the Amazon WorkDocs User Guide\. | October 4, 2018 | 
 | [Amazon WorkDocs Companion Updates for Windows Users](#document_history) | Amazon WorkDocs Companion supports the ability for Windows users to upload and share files by using a single step\. For more information, see [Edit Files Using Amazon WorkDocs Companion](https://docs.aws.amazon.com/workdocs/latest/userguide/companion.html) in the Amazon WorkDocs User Guide\. | August 28, 2018 | 
 | [Various Updates](#document_history) | Various updates to topic layout and organization\. | August 3, 2018 | 
 | [iOS Files App Integration](#document_history) | Access Amazon WorkDocs content with the Files app for iOS version 11 and later\. For more information, see [Using the Files app in iOS](https://docs.aws.amazon.com/workdocs/latest/userguide/iphone_client_help.html#ios-files-app) in the Amazon WorkDocs User Guide\. | July 24, 2018 | 

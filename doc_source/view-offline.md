@@ -1,6 +1,6 @@
 # Viewing Files Offline<a name="view-offline"></a>
 
-To view files offline, use the Amazon WorkDocs Sync Client, or Amazon WorkDocs Drive\. For more information, see [Using Amazon WorkDocs Sync Client](sync_client_help.md) and [Using Amazon WorkDocs Drive](workdocs_drive_help.md)\.
+To view files offline, use Amazon WorkDocs Drive\. For more information, see [Using Amazon WorkDocs Drive](workdocs_drive_help.md)\.
 
 If you are using Amazon WorkDocs on your Android or iOS device, you can download any file that you are authorized to download by viewing the document and opening the download icon\. This makes the file available on your device even if you are offline\. If the file you are viewing has already been downloaded, the download icon changes to a dark background\.
 

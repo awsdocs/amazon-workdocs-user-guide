@@ -8,8 +8,8 @@ There are two ways to transfer document ownership to other users:
 
 1. In the web client, select or open the folder or file to share with a co\-owner\.
 
-1. Choose **Share by invite**\.
+1. Choose **Share**, **Invite people**\.
 
-1. Type the name of the user in the search box, and then choose **Co\-Owner**\.
+1. Type the name of the user or group in the search box, and then choose **Co\-Owner**\.
 
 1. Choose **Save**\.

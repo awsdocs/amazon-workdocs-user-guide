@@ -6,19 +6,19 @@ You can configure file links to allow access to site members only, or to anyone 
 
 **To share a link**
 
-1. In the web client, open the folder that contains the folder or file\.
+1. In the web client, select the folder or file to share\.
 
-1. Choose the **Share a Link** icon\. 
+1. Choose **Share**, **Share a link**\. 
 
-1. In the **Share a Link** dialog box, copy the URL that is displayed by selecting it\.
+1. In the dialog box, copy the link to your clipboard for sharing\.
 
 1. \(Optional\) Choose **Edit link settings** to set the following settings:  
 **Enable link**  
 Choose **On** or **Off**\.  
-**Expiration date**  
-Type the date when the link expires\. The link expires at midnight of the specified date\.  
-**4\-digit passcode**  
-Type a 4\-digit numeric passcode that link recipients must enter for content access\.  
+**Set expiry date**  
+Choose the date when the link expires\. The link expires at midnight of the specified date\.  
+**4 digit access code**  
+Enter a 4\-digit access code that link recipients must enter to access the content\.  
 **Access**  
 Choose **Anyone can view** \(file links only\), **View only \- internal**, or **View & comment \- internal**\.
 

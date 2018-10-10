@@ -12,7 +12,7 @@ Use Hancom Online Editing to create new Microsoft Office files from the Amazon W
 
 **To create a new file with Hancom Online Editing**
 
-1. In the web application, under **MyDocs**, choose **New**\.
+1. In the web application, choose **New**\.
 
 1. Choose the file type: **Document**, **Spreadsheet**, or **Presentation**\.
 

@@ -6,13 +6,12 @@ You can also revoke shares, and users can remove themselves from the share\.
 
 To see a list of all the changes that users have made to your files and folders, view your activity feed\. For more information, see [Tracking File Activity](activity_feed.md)\.
 
-**Limits**
-+ You can only share with directory groups, not email distribution lists\.
-+ If your administrator configured Amazon WorkDocs with AD Connector, you can't share with users outside the directory\.
+**Note**  
+You can only share with directory groups, not email distribution lists\.
 
 **Topics**
 + [Sharing by Invite](share-invite.md)
 + [Sharing a Link](web_share_link.md)
-+ [Revoking a Share](revoke_share.md)
++ [Removing Share Permissions](revoke_share.md)
 + [Removing Yourself from a Share](unshare_yourself.md)
 + [Transferring Document Ownership](transfer_owner.md)
