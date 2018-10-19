@@ -28,6 +28,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Locking and Unlocking Files](client_lock_files.md)
    + [Viewing File Versions](client_file_versions.md)
    + [Viewing Files Offline](view-offline.md)
+   + [Searching Files and Folders](search.md)
 + [Sharing Files and Folders](share-docs.md)
    + [Sharing by Invite](share-invite.md)
    + [Sharing a Link](web_share_link.md)

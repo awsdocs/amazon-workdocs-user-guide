@@ -8,3 +8,4 @@ Create folders, upload and download files, edit files, and delete folders and fi
 + [Locking and Unlocking Files](client_lock_files.md)
 + [Viewing File Versions](client_file_versions.md)
 + [Viewing Files Offline](view-offline.md)
++ [Searching Files and Folders](search.md)
