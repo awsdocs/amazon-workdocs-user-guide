@@ -6,7 +6,7 @@ For Windows users, Amazon WorkDocs Companion integrates with File Explorer to le
 + Upload multiple files and folders from File Explorer to the Companion Uploads folder under **MyDocs** on the Amazon WorkDocs site\. 
 + Share a link to the uploaded files, or share a link with a 4\-digit passcode\.
 
-Download Amazon WorkDocs Companion from [https://amazonworkdocs\.com/en/clients](https://amazonworkdocs.com/en/clients)\.
+Download Amazon WorkDocs Companion from [Amazon WorkDocs Resources](https://aws.amazon.com/workdocs/resources/)\.
 
 **Topics**
 + [System Requirements](#companion_sys_reqs)
