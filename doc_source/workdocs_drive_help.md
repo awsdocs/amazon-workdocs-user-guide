@@ -46,7 +46,7 @@ You can mount Amazon WorkDocs Drive for macOS using the following commands in th
 
 ```
               $ sudo mkdir /mnt/w
-              $ sudo mount -t drvfs W: w
+              $ sudo mount -t drvfs W: /mnt/w
               $ cd /mnt/w
               $ ls
 ```
