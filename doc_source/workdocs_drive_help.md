@@ -24,7 +24,7 @@ Amazon WorkDocs Drive requires HTTPS access on port 443 for all IP addresses for
 
 1. Download Amazon WorkDocs Drive from [Amazon WorkDocs Resources](https://aws.amazon.com/workdocs/resources/) and follow the installation prompts\.
 
-1. Open Amazon WorkDocs Drive\. When prompted, enter the name of your Amazon WorkDocs site, username, and password\.
+1. Open Amazon WorkDocs Drive application\. When prompted, enter the name of your Amazon WorkDocs site, username, and password\.
 
 **Note**  
 macOS High Sierra 10\.13 users might encounter this error message during installation: `System Extension Blocked`\. To unblock the installation, open **System Preferences** on your computer and choose **Security & Privacy**\. Then, choose **Allow** to install Amazon WorkDocs Drive\.
