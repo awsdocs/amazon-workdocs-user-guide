@@ -22,7 +22,7 @@ Amazon WorkDocs Drive requires HTTPS access on port 443 for all IP addresses for
 
 **To install Amazon WorkDocs Drive**
 
-1. Download Amazon WorkDocs Drive from [Amazon WorkDocs Resources](https://aws.amazon.com/workdocs/resources/) and follow the installation prompts\.
+1. Download Amazon WorkDocs Drive from [Apps & Integrations for Amazon WorkDocs](https://amazonworkdocs.com/apps.html) and follow the installation prompts\.
 
 1. Open the Amazon WorkDocs Drive application\. When prompted, enter the name of your Amazon WorkDocs site, username, and password\.
 
@@ -40,9 +40,9 @@ The MSI installer for Amazon WorkDocs Drive supports an optional install paramet
 
 `SITEID` :*site\-name*
 
-### Mounting Amazon WorkDocs Drive for macOS Using the Windows Subsystem for Linux<a name="mount-linux"></a>
+### Mounting Amazon WorkDocs Drive for PC with Windows Subsystem for Linux<a name="mount-linux"></a>
 
-You can mount Amazon WorkDocs Drive for macOS using the following commands in the Windows Subsystem for Linux\. For more information, see [File System Improvements to the Windows Subsystem for Linux](https://blogs.msdn.microsoft.com/wsl/2017/04/18/file-system-improvements-to-the-windows-subsystem-for-linux/)\.
+You can mount Amazon WorkDocs Drive for PC using the following `Bash` commands in Windows Subsystem for Linux\. For more information, see [File System Improvements to the Windows Subsystem for Linux](https://blogs.msdn.microsoft.com/wsl/2017/04/18/file-system-improvements-to-the-windows-subsystem-for-linux/)\.
 
 ```
               $ sudo mkdir /mnt/w
@@ -53,7 +53,7 @@ You can mount Amazon WorkDocs Drive for macOS using the following commands in th
 
 ## Using Amazon WorkDocs Drive<a name="drive_use"></a>
 
-Windows users can open Amazon WorkDocs Drive from the **Desktop** shortcut or the W: drive in File Explorer\. macOS users can open Amazon WorkDocs Drive from the menu bar or from the Finder under **Favorites**\.
+Windows users can open Amazon WorkDocs Drive from the **Desktop** shortcut or the W: drive in File Explorer\. macOS users can open Amazon WorkDocs Drive from the menu bar, from their **Applications**, or from the Finder under **Favorites**\.
 
 Create, rename, move, and delete files and folders directly from Amazon WorkDocs Drive on your computer\. Moving files out of Amazon WorkDocs Drive deletes them\. Deleted files are moved to your **Recycle bin** on Amazon WorkDocs\.
 
@@ -68,7 +68,7 @@ If two files or folders have the same name, only one of them appears in Amazon W
 **Windows**  
 Open Amazon WorkDocs Drive from File Explorer, or choose or right\-click the Amazon WorkDocs Drive icon in the notification area and choose **Open Drive**\.  
 **macOS**  
-Open Amazon WorkDocs Drive from the Finder, under **Favorites**, or choose or right\-click the Amazon WorkDocs Drive icon on the menu bar and choose **Open Drive**\.
+Open Amazon WorkDocs Drive from your **Applications**, or from the Finder, under **Favorites**, or choose or right\-click the Amazon WorkDocs Drive icon on the menu bar and choose **Open Drive**\.
 
 1. Choose or right\-click an Amazon WorkDocs file or folder, choose **Amazon WorkDocs Drive**, and choose one of the following actions:
    + To generate a link to share the content with other users, choose **Copy web link**\.
