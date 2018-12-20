@@ -1,4 +1,4 @@
-# Edit Files Using Amazon WorkDocs Companion<a name="companion"></a>
+# Using Amazon WorkDocs Companion<a name="companion"></a>
 
 Amazon WorkDocs Companion lets you open and edit a file from the web client in one step\. Your changes are saved to Amazon WorkDocs as a new file version\.
 

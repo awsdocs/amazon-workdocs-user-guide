@@ -1,6 +1,6 @@
 # Uploading and Downloading Files<a name="client_add_files"></a>
 
-To upload files or a folder to your documents, perform the following steps\. Windows users can use Amazon WorkDocs Companion with File Explorer to upload multiple files and folders\. For more information, see [Edit Files Using Amazon WorkDocs Companion](companion.md)\.
+To upload files or a folder to your documents, perform the following steps\. Windows users can use Amazon WorkDocs Companion with File Explorer to upload multiple files and folders\. For more information, see [Using Amazon WorkDocs Companion](companion.md)\.
 
 **To upload files or a folder**
 
@@ -18,9 +18,8 @@ You can also add files by dragging and dropping files from your computer into th
 
 You can download a file in one of two ways\. 
 
-**To download a file**
+**To download a file or folder**
 + In the web client, use one of the following ways:
-
-  1. Select the file to download\. For **Actions**, choose **Download**\.
-
-  1. Open the file\. For **Actions**, choose **Download**\.
+  + Select the file or folder to download\. For **Actions**, choose **Download**\.
+  + Open the file\. For **Actions**, choose **Download**\.
+  + Open the folder\. For the folder name, choose **Download**\.

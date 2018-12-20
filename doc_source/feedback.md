@@ -97,15 +97,21 @@ To show a resolved comment again, filter by **Resolved comments** and choose **U
 
 If you have viewer access to a file and can’t give feedback, you can request contributor access in order to add feedback\.
 
-**To request ability to add feedback**
+**To request contributor access**
 
-1. Open the file in Amazon WorkDocs\.
+1. Open the file or folder in Amazon WorkDocs\.
 
-1. Under the message **You don’t have access to the feedback**, choose **Request Access**\.
+1. Copy the file or folder URL to your clipboard\.
 
-1. Type the justification for your request and choose **Request Access**\.
+1. Choose **Tasks**\.
 
-The file owner receives an email notification about your request and can grant you access\. When access is granted, you receive an email that the file has been shared with you\.
+1. For **New task**, choose **Access request**\.
+
+1. For **Access request**, paste the file or folder URL\.
+
+1. Choose **Send**\.
+
+The file owner is notified of your request and can grant you access\. When access is granted, you are notified that the file has been shared with you\.
 
 ## Declining Feedback<a name="decline_feedback"></a>
 

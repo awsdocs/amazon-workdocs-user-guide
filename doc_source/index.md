@@ -19,7 +19,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Getting Started with the Web Client](web_client_help.md)
    + [Getting Started with Android](android_phone_client_help.md)
    + [Getting Started with iOS](iphone_client_help.md)
-+ [Edit Files Using Amazon WorkDocs Companion](companion.md)
++ [Using Amazon WorkDocs Companion](companion.md)
 + [Using Amazon WorkDocs Drive](workdocs_drive_help.md)
 + [Using Amazon WorkDocs Sync Client](sync_client_help.md)
 + [Working with Files and Folders](working-docs.md)

@@ -31,3 +31,5 @@ Feedback can only be requested for files, not folders\. Feedback can only be req
 1. Choose **Save**\. 
 
 An email is sent to the invitees notifying them that a file or folder has been shared with them\. The email includes a web link to the file or folder, any personal message that was entered, and the feedback deadline, if one was specified\. If you receive an error message that indicates that you cannot share a document with people outside of your organization, your administrator has not authorized you to invite new users to the organization\. Contact your Amazon WorkDocs administrator for assistance\.
+
+Contact your administrator from the web application by choosing **Tasks**, **New task**, **Contact Administrators**\.

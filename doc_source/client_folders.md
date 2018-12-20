@@ -64,7 +64,7 @@ If your site administrator has enabled a collaborative editing feature, you can 
 
 If you lock the file, you can unlock it when you're done with your changes\. For more information about locking and unlocking files, see [Locking and Unlocking Files](client_lock_files.md)\.
 
-For more information about Amazon WorkDocs Companion, see [Edit Files Using Amazon WorkDocs Companion](companion.md)\.
+For more information about Amazon WorkDocs Companion, see [Using Amazon WorkDocs Companion](companion.md)\.
 
 ## Deleting Folders and Files<a name="web_delete_folder"></a>
 
