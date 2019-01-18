@@ -41,29 +41,15 @@ The sync application supports local drives, but does not support non\-local driv
 
 ## Installing the Sync Application<a name="sync_install"></a>
 
-The Amazon WorkDocs sync application is available for both Windows and macOS desktops\.
+Download and install the Amazon WorkDocs sync application from [Apps & Integrations for Amazon WorkDocs](https://amazonworkdocs.com/apps.html)\. You can also install the sync application from the Amazon WorkDocs console\.
 
 **To download and install the Amazon WorkDocs sync application using the console**
 
 1. Connect to the Amazon WorkDocs console
 
-1. On the **Download apps** menu, choose **WorkDocs Companion**\.
+1. Choose **Support**, **Apps**\.
 
-1. Under **Sync Files**, choose an option from the list of available installation options, and complete the installation\.
-
-**To download and install the Amazon WorkDocs sync application for Windows**
-
-1. Download the Amazon WorkDocs sync application installer for Windows from [https://d28gdqadgmua23\.cloudfront\.net/win/AmazonWorkDocsSetup\.exe](https://d28gdqadgmua23.cloudfront.net/win/AmazonWorkDocsSetup.exe)\.
-
-1. Run the installer\. The Amazon WorkDocs sync application is downloaded, installed, and launched\.
-
-**To download and install the Amazon WorkDocs sync application for macOS**
-
-1. Open the Amazon WorkDocs sync application for macOS from [https://d28gdqadgmua23\.cloudfront\.net/mac/Amazon WorkDocs\.pkg](https://d28gdqadgmua23.cloudfront.net/mac/Amazon WorkDocs.pkg)\.
-
-1. Drag the Amazon WorkDocs Sync icon to the **Applications** folder\. 
-
-1. Open the **Applications** folder and open **Amazon WorkDocs Sync**\.
+1. Under **Sync App**, download the app and complete the installation\.
 
 ## Setting up the Sync Application<a name="sync-set-up"></a>
 

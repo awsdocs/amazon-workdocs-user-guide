@@ -15,7 +15,7 @@ The following topics discuss how you can organize and edit files and folders in 
 
 1. In the web client, open the folder in which to create the new folder\.
 
-1. Choose **New**, **Folder**\.
+1. Choose **Create**, **Folder**\.
 
 1. Enter the folder name, then choose **Create**\.
 

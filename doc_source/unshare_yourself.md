@@ -4,7 +4,7 @@ After a folder or file has been shared with you, you can choose to remove yourse
 
 **To remove yourself from a share**
 
-1. In the web client, select or open the folder or file that has been shared with you\.
+1. In the web client, select the folder or file that has been shared with you\.
 
 1. For **Share**, choose **Permissions**\.
 

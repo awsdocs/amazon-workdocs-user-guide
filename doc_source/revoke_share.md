@@ -4,7 +4,7 @@ If you are the owner or co\-owner of a folder or file, you can remove users or g
 
 **To remove share permissions**
 
-1. In the web client, select or open the folder or file\.
+1. In the web client, select the folder or file\.
 
 1. For **Share**, choose **Permissions**\.
 
