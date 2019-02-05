@@ -23,19 +23,13 @@ It can take up to a few minutes for syncing to begin, depending on your connecti
 
 ## System Requirements<a name="sync_sys_reqs"></a>
 
-The Amazon WorkDocs sync application requires a computer running one of the following operating systems:
-+ Microsoft Windows 7, Windows 8, or Windows 10
-+ Microsoft Windows Server 2008
-+ Microsoft Windows Server 2012 R2 \(with Microsoft AD, not Simple AD\)
-+ macOS 10\.10 or later
+The Amazon WorkDocs sync application requires a computer running macOS 10\.10 or later\.
 
-On all Windows clients, including all WorkSpaces, you must enable JavaScript in Internet Explorer\. For more information, see [How to enable JavaScript in Windows](https://support.microsoft.com/en-us/help/3135465/how-to-enable-javascript-in-windows)\.
+We recommend Amazon WorkDocs Drive for Windows users\. For more information, see [Using Amazon WorkDocs Drive](workdocs_drive_help.md)\.
 
 The sync application requires HTTPS access on port 443 for all IP addresses for AWS\.
 
-The sync application communicates with the Java engine\. You can identify the port as follows:
-+ On Windows, locate the client\.log file in the `%USERPROFILE%\AppData\Local\Amazon WorkDocs\SyncClient` folder\. Search for `http://127.0.0.1`\. The port is specified as follows: `http://127.0.0.1:port`\.
-+ On macOS, locate the sync\-service\.port file in the `/Users/user/Library/Application Support/Amazon WorkDocs/SyncClient` folder\. The port is stored in plaintext\.
+The sync application communicates with the Java engine\. Identify the port on macOS by locating the sync\-service\.port file in the `/Users/user/Library/Application Support/Amazon WorkDocs/SyncClient` folder\. The port is stored in plaintext\.
 
 The sync application supports local drives, but does not support non\-local drives, including network drives and external USB drives\. 
 
