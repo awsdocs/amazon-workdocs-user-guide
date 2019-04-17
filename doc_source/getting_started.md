@@ -1,6 +1,6 @@
 # Getting Started with Amazon WorkDocs<a name="getting_started"></a>
 
-Use Amazon WorkDocs to store and share documents, give and receive document feedback, and collaborate with others in your Amazon WorkDocs organization\. You can access Amazon WorkDocs on the web, or install apps for Android and iOS devices\.
+Use Amazon WorkDocs to store and share documents, give and receive document feedback, and collaborate with others in your Amazon WorkDocs organization\. You can access Amazon WorkDocs on the web, or install apps for Android and iOS devices\. Download and install the Amazon WorkDocs apps from [Apps & Integrations for Amazon WorkDocs](https://amazonworkdocs.com/apps.html)\. 
 
 ## Step 1: Get Invited<a name="get_invited"></a>
 

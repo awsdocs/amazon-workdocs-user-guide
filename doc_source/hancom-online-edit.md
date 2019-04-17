@@ -1,16 +1,16 @@
-# Using Hancom Online Editing<a name="hancom-online-edit"></a>
+# Editing with Hancom ThinkFree<a name="hancom-online-edit"></a>
 
-Hancom Online Editing lets you create Microsoft Office files \(`.docx`, `.pptx`, and `.xlsx`\) from the Amazon WorkDocs web application\. You can also co\-author and collaboratively edit `.docx`, `.doc`, `.pptx`, `.ppt`, `.xlsx`, and `.xls` files\.
+Hancom ThinkFree lets you create Microsoft Office files \(`.docx`, `.pptx`, and `.xlsx`\) from the Amazon WorkDocs web application\. You can also co\-author and collaboratively edit `.docx`, `.doc`, `.pptx`, `.ppt`, `.xlsx`, and `.xls` files\.
 
-When you edit a document with Hancom Online Editing, other users with edit permissions can join the live collaborative session to edit the document with you in real time\. Files edited with Hancom Online Editing are saved automatically in Amazon WorkDocs\.
+When you edit a document with Hancom ThinkFree, other users with edit permissions can join the live collaborative session to edit the document with you in real time\. Files edited with Hancom ThinkFree are saved automatically in Amazon WorkDocs\.
 
-To use Hancom Online Editing, your site administrator must enable the feature for your Amazon WorkDocs site\. For more information, site administrators can see [Enabling Hancom Online Editing](https://docs.aws.amazon.com/workdocs/latest/adminguide/collab-editing.html#enable-hancom-edit)\.
+To use Hancom ThinkFree, your site administrator must enable the feature for your Amazon WorkDocs site\. For more information, site administrators can see [Enabling Hancom ThinkFree](https://docs.aws.amazon.com/workdocs/latest/adminguide/collab-editing.html#enable-hancom-edit)\.
 
 ## Creating a New File<a name="hancom-new"></a>
 
-Use Hancom Online Editing to create new Microsoft Office files from the Amazon WorkDocs web application\.
+Use Hancom ThinkFree to create new Microsoft Office files from the Amazon WorkDocs web application\.
 
-**To create a new file with Hancom Online Editing**
+**To create a new file with Hancom ThinkFree**
 
 1. In the web application, choose **New**\.
 
@@ -24,9 +24,9 @@ Use Hancom Online Editing to create new Microsoft Office files from the Amazon W
 
 ## Editing a File<a name="hancom-edit"></a>
 
-Use Hancom Online Editing to edit Microsoft Office files and join live collaborative editing sessions from the Amazon WorkDocs web application\.
+Use Hancom ThinkFree to edit Microsoft Office files and join live collaborative editing sessions from the Amazon WorkDocs web application\.
 
-**To edit an Office file with Hancom Online Editing**
+**To edit an Office file with Hancom ThinkFree**
 
 1. In the web application, view the file\. You can also open it in the file browser view\.
 
@@ -36,7 +36,7 @@ Use Hancom Online Editing to edit Microsoft Office files and join live collabora
 
 **To join a live collaborative session**
 
-You can join another user in a live collaborative editing session to edit an Office file using Hancom Online Editing\.
+You can join another user in a live collaborative editing session to edit an Office file using Hancom ThinkFree\.
 
 1. In the web application, view the file\. You can also open it in the file browser view\.
 

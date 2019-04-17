@@ -9,7 +9,7 @@ Amazon WorkDocs Drive is available for PC and macOS users, and for Amazon WorkSp
 + [Using Amazon WorkDocs Drive](#drive_use)
 + [Searching Amazon WorkDocs Drive](#drive_search)
 + [File Icons](#drive_icons)
-+ [Enabling Offline Access and Syncing](#drive_offline)
++ [Enabling Offline Access](#drive_offline)
 + [Troubleshooting Amazon WorkDocs Drive](#drive_troubleshoot)
 
 ## Installing Amazon WorkDocs Drive<a name="drive_install"></a>
@@ -106,7 +106,7 @@ Search for file names in Amazon WorkDocs Drive\.
 
 **To search for content in Amazon WorkDocs Drive**
 
-1. Choose or right\-click the Amazon WorkDocs Drive icon in the notification area or menu bar, then choose **Search**\.
+1. Choose or right\-click the Amazon WorkDocs Drive icon in the notification area or menu bar\.
 
 1. Enter search terms to search for files in Amazon WorkDocs\. File names are case sensitive\. Either search for files in all folders, or narrow your search to the `My Documents` or `Shared With Me` folders\.
 
@@ -124,41 +124,58 @@ Amazon WorkDocs Drive provides the following visual icons to communicate file st
 + **Blue star icon**—A file or folder is marked as a Favorite\.
 + **Red lock icon**—A file is locked by the user for exclusive editing\.
 
-## Enabling Offline Access and Syncing<a name="drive_offline"></a>
+## Enabling Offline Access<a name="drive_offline"></a>
 
-Enable offline access to your files and folders so that you can work on your content when your device is offline\. Changes made in Amazon WorkDocs Drive while offline will sync to the Amazon WorkDocs website the next time your device is online\.
+Enable offline access to your files and folders so that you can work on your content when your computer is offline\. Changes made in Amazon WorkDocs Drive while offline sync to Amazon WorkDocs the next time your computer is online\.
 
-To enable offline access to files and folders, first add them to your **Favorites**, then enable the option to store **Favorites** for offline use\.
+**Note**  
+Enabling offline access uses network bandwidth to download your content\. It also uses disk space for storing the downloaded content\. It can take some time for your content to download, depending on the number of files and the network bandwidth\.
 
-**To enable offline access to files and folders**
+**To enable offline access to your content**
 
-1. 
+1. Choose or right\-click the Amazon WorkDocs Drive icon in the notification area or menu bar\.
 
-   Do one of the following:  
-**Windows**  
-Open File Explorer on your computer, and go to the W: drive\.   
-**macOS**  
-Open the Finder on your computer, and go to Amazon WorkDocs Drive under **Favorites**\.
+1. Choose the gear icon\.
 
-1. Choose or right\-click the files or folders that you want access offline, and choose **Amazon WorkDocs Drive**, **Add to Favorites**\.
+1. Choose **Work offline**\.
 
-1. In the notification area or menu bar, choose or right\-click the Amazon WorkDocs Drive icon, and select **Store Favorites for offline use**\.
+1. For **Sync settings**, select **Choose files for offline access**\.
 
-1. Wait for Amazon WorkDocs Drive to finish downloading favorited content from the Amazon WorkDocs website to your device\. This can take some time depending on how much content is downloaded\.
+1. Choose **Next**\.
 
-To turn off this option and remove the downloaded content from your device, choose or right\-click the Amazon WorkDocs Drive icon in your notification area or menu bar, and clear **Store Favorites for offline use**\.
+1. Select the files you'd like to save locally for offline access\.
+**Note**  
+The size of the selected files appears in the **Sync settings** panel, along with the available amount of local disk space\.
 
-You can temporarily pause the syncing of Amazon WorkDocs content to your device, and resume syncing later\. If you have limited network bandwidth for syncing, you might consider using this option\.
+1. Choose **Save**\.
+
+1. Wait for Amazon WorkDocs Drive to finish downloading the selected content from Amazon WorkDocs to your computer\. This can take some time\.
+
+You can stop syncing your files for offline access by choosing to access your files on demand\. This specifies that you use Amazon WorkDocs Drive to access your content only when your computer is online\.
+
+**To access your content on demand**
+
+1. Open the Amazon WorkDocs Drive application on your computer\.
+
+1. Choose the gear icon\.
+
+1. For **Sync settings**, select **Access files on demand**\.
+
+1. Choose **OK**\.
+
+You can also pause the syncing of Amazon WorkDocs content to your computer, and resume syncing later\. If you have limited network bandwidth for syncing, you might consider using this option\.
 
 **To pause file and folder syncing**
 
-1. In the notification area or menu bar, choose or right\-click the Amazon WorkDocs Drive icon\.
+1. Open the Amazon WorkDocs Drive application on your computer\.
 
-1. Select **Pause sync**\.
+1. Choose the gear icon\.
 
-1. To resume syncing your files and folders, clear **Pause sync**\.
+1. Select **Pause file sync**\.
 
-While syncing is paused, you can continue working on downloaded files that are available on your local device\. When syncing resumes, your changes are uploaded as new versions\.
+1. To resume syncing your files and folders, clear **Pause file sync**\.
+
+While syncing is paused, you can continue working on downloaded files that are available on your computer\. When syncing resumes, your changes to those files are uploaded as new versions\.
 
 ## Troubleshooting Amazon WorkDocs Drive<a name="drive_troubleshoot"></a>
 

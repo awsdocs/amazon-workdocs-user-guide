@@ -19,7 +19,15 @@ The following topics discuss how you can organize and edit files and folders in 
 
 1. Enter the folder name, then choose **Create**\.
 
-If your site administrator has enabled Hancom Online Editing, you can also create new files in the web client\. For more information, see [Using Hancom Online Editing](hancom-online-edit.md)\.
+If your site administrator has enabled Hancom ThinkFree, you can also create new files in the web client\. For more information, see [Editing with Hancom ThinkFree](hancom-online-edit.md)\.
+
+**To create a team folder**
+
+1. Follow the previous steps to create a folder\.
+
+1. Send an invite to share the folder with your team directory group\. For more information on sharing the folder by invite, see [Sharing by Invite](share-invite.md)\.
+
+If you do not have a team directory group, ask your Amazon WorkDocs site administrator to create one\. Contact your administrator from the web application by choosing **Tasks**, **New task**, **Contact Administrators**\. 
 
 ## Renaming and Moving Folders and Files<a name="web_rename_folder"></a>
 

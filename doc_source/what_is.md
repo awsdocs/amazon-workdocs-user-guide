@@ -13,7 +13,7 @@ Users can access their Amazon WorkDocs files using a web browser on their PC or 
 + [Getting Started with Android](android_phone_client_help.md)
 + [Getting Started with iOS](iphone_client_help.md)
 
-Amazon WorkDocs also offers free desktop sync applications\. For more information, see [Using Amazon WorkDocs Drive](workdocs_drive_help.md) and [Using Amazon WorkDocs Sync Client](sync_client_help.md)\.
+Amazon WorkDocs also offers free desktop sync applications\. For more information, see [Using Amazon WorkDocs Drive](workdocs_drive_help.md) and [Using Amazon WorkDocs Sync Client for macOS](sync_client_help.md)\.
 
 ## Supported File Types<a name="file-types"></a>
 

@@ -16,10 +16,10 @@ You can also add files by dragging and dropping files from your computer into th
 
 1. For **Actions**, choose **Upload new version** and select the new version of the file to upload\.
 
-You can download a file in one of two ways\. 
+You can download files or folders from the web client\. 
 
-**To download a file or folder**
+**To download files or folders**
 + In the web client, use one of the following ways:
-  + Select the file or folder to download\. For **Actions**, choose **Download**\.
+  + Select the files or folders to download\. For **Actions**, choose **Download**\.
   + Open the file\. For **Actions**, choose **Download**\.
   + Open the folder\. For the folder name, choose **Download**\.

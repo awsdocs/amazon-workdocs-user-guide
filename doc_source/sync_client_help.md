@@ -1,6 +1,10 @@
-# Using Amazon WorkDocs Sync Client<a name="sync_client_help"></a>
+# Using Amazon WorkDocs Sync Client for macOS<a name="sync_client_help"></a>
 
-Amazon WorkDocs provides a client synchronization application that allows you to synchronize a folder on your desktop with the Amazon WorkDocs service\. The local Amazon WorkDocs folder is a mirror of your Amazon WorkDocs `My documents` and `Shared with me` folders and subfolders in the cloud\. If you add a file under your local Amazon WorkDocs folder, that file is automatically synchronized to your online Amazon WorkDocs `My documents` folder, in the background\. Likewise, if you delete a file from your online Amazon WorkDocs `My documents` folder or one of its subfolders, the file is automatically removed from your local Amazon WorkDocs folder\. This provides you with safe and secure off\-site storage for your important files\.
+Amazon WorkDocs provides a client synchronization application for macOS that allows you to synchronize a folder on your desktop with the Amazon WorkDocs service\.
+
+We recommend Amazon WorkDocs Drive for Windows users\. For more information, see [Using Amazon WorkDocs Drive](workdocs_drive_help.md)\.
+
+The local Amazon WorkDocs folder is a mirror of your Amazon WorkDocs `My documents` and `Shared with me` folders and subfolders in the cloud\. If you add a file under your local Amazon WorkDocs folder, that file is automatically synchronized to your online Amazon WorkDocs `My documents` folder, in the background\. Likewise, if you delete a file from your online Amazon WorkDocs `My documents` folder or one of its subfolders, the file is automatically removed from your local Amazon WorkDocs folder\. This provides you with safe and secure off\-site storage for your important files\.
 
 You can store any type of file in Amazon WorkDocs, except for those defined in [Excluded Files and Folders](#sync_excluded_files)\. The Amazon WorkDocs collaboration clients can display previews for many different types of files, depending on the internet media type of the file\. Support for additional media types is constantly being added\.
 
@@ -23,9 +27,7 @@ It can take up to a few minutes for syncing to begin, depending on your connecti
 
 ## System Requirements<a name="sync_sys_reqs"></a>
 
-The Amazon WorkDocs sync application requires a computer running macOS 10\.10 or later\.
-
-We recommend Amazon WorkDocs Drive for Windows users\. For more information, see [Using Amazon WorkDocs Drive](workdocs_drive_help.md)\.
+The Amazon WorkDocs sync application for macOS requires a computer running macOS 10\.10 or later\.
 
 The sync application requires HTTPS access on port 443 for all IP addresses for AWS\.
 
@@ -201,15 +203,7 @@ To remove files and folders from your computer, de\-select them in **WorkDocs Se
 
 You can uninstall the Amazon WorkDocs sync application from your local device without affecting the files that were last synchronized to or from your sync folder\. These files and folders are no longer automatically updated after you uninstall the sync client, and you can delete them at any time\.
 
-**To uninstall the Amazon WorkDocs sync application for Windows**
-
-1. Search for and open Control Panel from your Windows taskbar, choose **Programs and Features**, **Amazon WorkDocs**, **Uninstall**\.
-
-1. When prompted for confirmation, choose **OK**\.
-
-1. \(Optional\) Delete the files from your sync folder\.
-
-**To uninstall the Amazon WorkDocs sync application for macOS**
+**To uninstall the Amazon WorkDocs sync application**
 
 1. Open the context menu for the Amazon WorkDocs icon in your menu bar\.
 
