@@ -17,7 +17,7 @@ Amazon WorkDocs also offers free desktop sync applications\. For more informatio
 
 ## Supported File Types<a name="file-types"></a>
 
-With Amazon WorkDocs, you can share the following file types for viewing and feedback: 
+You can upload any type of file to Amazon WorkDocs\. The following file types are supported for viewing and providing feedback in Amazon WorkDocs: 
 + Microsoft Office Word
 + Microsoft Office Excel
 + Microsoft Office PowerPoint
@@ -31,7 +31,7 @@ With Amazon WorkDocs, you can share the following file types for viewing and fee
 + CAD files with extension `.dwg`, `.vnd.dwg`, and `.autocad_dwg`
 + Image files with extension `.jpeg`, `.png`, `.tiff`, and `.bmp`
 
-With the Amazon WorkDocs iOS clients, you can play audio and video files\. Supported file types include `.mp4`, `.3gp`, `.mov`, `.m4a`, and `.m4v`\. For more information about iOS clients, see [Getting Started with iOS](iphone_client_help.md)\.
+You can also play audio and video files in the Amazon WorkDocs web application and Amazon WorkDocs iOS applications\. Supported file types include `.mp4`, `.3gp`, `.mov`, `.m4a`, and `.m4v`\. For more information about iOS applications, see [Getting Started with iOS](iphone_client_help.md)\.
 
 ## Pricing<a name="pricing"></a>
 

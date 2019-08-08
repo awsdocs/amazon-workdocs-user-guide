@@ -36,9 +36,11 @@ Administrators who are responsible for managing the domain\-joined machine fleet
 **Note**  
 When deploying with GPO or SCCM tools, we recommend installing the Amazon WorkDocs Drive client after users have logged in\.
 
-The MSI installer for Amazon WorkDocs Drive supports an optional install parameter that pre\-populates the Amazon WorkDocs site information for users during registration; for example:
+The MSI installer for Amazon WorkDocs Drive supports the following optional install parameters:
++ **`SITEID`** – Pre\-populates the Amazon WorkDocs site information for users during registration\. For example, `SITEID` :*site\-name*\.
++ **`DefaultDriveLetter`** – Pre\-populates the drive letter to be used for mounting Amazon WorkDocs Drive\. For example, `DefaultDriveLetter`:*W*\.
 
-`SITEID` :*site\-name*
+Individual users can select a different default drive letter when they launch the Amazon WorkDocs application\.
 
 ### Mounting Amazon WorkDocs Drive for PC with Windows Subsystem for Linux<a name="mount-linux"></a>
 
@@ -179,13 +181,31 @@ While syncing is paused, you can continue working on downloaded files that are a
 
 ## Troubleshooting Amazon WorkDocs Drive<a name="drive_troubleshoot"></a>
 
-Troubleshooting tips for the most commonly encountered Amazon WorkDocs Drive errors are listed below\.
+This section describes troubleshooting tips for the most commonly encountered Amazon WorkDocs Drive errors\.
 
 **Recovered Files**  
-If you don't have permissions to edit a file, you can't upload it to the Amazon WorkDocs site\. Your changes are saved in your local `Recovered files` folder, which you can open from the Amazon WorkDocs Drive menu by choosing **Help**, **Recovered files**\. From there, you can upload the file to Amazon WorkDocs as a new file\.
+If you don't have permissions to edit a file, you can't upload it to the Amazon WorkDocs site\. Your changes are saved in your local `Recovered Files` folder\. You can open this folder from the Amazon WorkDocs Drive menu by choosing the question mark icon, then **Go to recovery folder**\. From there, you can upload the file to Amazon WorkDocs as a new file\.
+
+**Recovery Folder Full**  
+Delete unnecessary files from your local `Recovered Files` folder\.
+
+**Drive Repair Required**  
+Restart Amazon WorkDocs Drive by choosing the gear icon, then **Log out \(change site\)**\. Sign in again and check the `Recovered Files` folder for any files you might need to save\.
+
+**Local Disk Full**  
+Delete unnecessary files from your local disk and `Recovered Files` folder\.
+
+**Storage Limit Exceeded**  
+Delete unused files to free up storage space\. If you need more space after deleting unused files, contact your Amazon WorkDocs administrator\.
+
+**Critical Dependency Unavailable**  
+Restart the **Message Queuing** service on your computer by opening the **Services** app\. For **Message Queuing**, choose **Restart** or **Start**\.  
+If the error persists, open **Computer Management**, **Services and Applications**\. If **Message Queuing** does not appear in the navigation pane, [uninstall **Message Queuing**](https://docs.particular.net/transports/msmq/uninstalling-msmq) and Amazon WorkDocs Drive\. When you reinstall Amazon WorkDocs Drive, it reinstalls **Message Queuing** for you\. For more help, contact your administrator\.
+
+You can also report an issue from the Amazon WorkDocs Drive menu\.
 
 **Report an Issue**  
-From the Amazon WorkDocs Drive menu, choose **Help**, **Report an issue** to send us a description of the problem\. Take note of the tracking number provided, which serves as a reference for support cases or correspondence with us\.
+From the Amazon WorkDocs Drive menu, choose the question mark icon, then **Report an issue** to send us a description of the problem\. Take note of the tracking number provided, which serves as a reference for support cases or correspondence with us\.
 
 **Known Limitations**  
 Symlinks are not supported\.

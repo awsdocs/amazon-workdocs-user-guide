@@ -16,4 +16,6 @@ You can request to transfer document ownership for a folder or file\. When docum
 
 1. Choose **Send**\.
 
+The user you transfer ownership to receives a new task under **My Tasks** in Amazon WorkDocs\. They can then choose to accept the transfer of ownership\.
+
 If you are a system administrator, you can transfer an inactive user's files and folders to an active user\. For more information, see [Transferring Document Ownership](https://docs.aws.amazon.com/workdocs/latest/adminguide/transfer-docs.html) in the *Amazon WorkDocs Administration Guide*\.

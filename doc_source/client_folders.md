@@ -31,7 +31,7 @@ If you do not have a team directory group, ask your Amazon WorkDocs site adminis
 
 ## Renaming and Moving Folders and Files<a name="web_rename_folder"></a>
 
-You can change the name of a folder or file by performing the following steps\.
+If you have permissions, you can change the name of a folder or file\. For more information, see [Permissions](permissions.md)\.
 
 **To rename a folder or file**
 
@@ -40,6 +40,8 @@ You can change the name of a folder or file by performing the following steps\.
 1. For **Actions**, choose **More\.\.\.**, **Rename**\.
 
 1. Enter the new name, then press the Enter key\.
+
+When you are signed in to the Amazon WorkDocs site, you can sort documents by name, owner, and other attributes\. Use the dropdown arrows in the menu above your documents to do so\. If you have permissions, you can also move folders or files to other folders by following these steps\.
 
 **To move a folder or file**
 

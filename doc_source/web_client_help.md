@@ -26,7 +26,7 @@ To reset your password, choose **Forgot password** on the sign\-in screen\. If y
 
 ## Enabling Single Sign\-On<a name="single_sign_on"></a>
 
-Amazon WorkDocs allows you to access Amazon WorkDocs from a computer that is joined to the same directory that Amazon WorkDocs is registered with, without having to enter your credentials separately\. If your Amazon WorkDocs administrator has enabled single sign\-on for your organization, you might need to take additional steps to enable your web browser to support single sign\-on\. For more information, see [Single Sign\-On for Internet Explorer and Google Chrome](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ie_sso.html) and [Single Sign\-On for Firefox](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/firefox_sso.html) in the *AWS Directory Service Administration Guide*\.
+Amazon WorkDocs allows you to access Amazon WorkDocs from a computer that is joined to the same directory that Amazon WorkDocs is registered with, without having to enter your credentials separately\. If your Amazon WorkDocs administrator has enabled single sign\-on for your organization, you might need to take additional steps to allow your web browser to support single sign\-on\. For more information, see [Single Sign\-On for IE and Chrome](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ms_ad_single_sign_on.html#ie_sso) and [Single Sign\-On for Firefox](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ms_ad_single_sign_on.html#firefox_sso) in the *AWS Directory Service Administration Guide*\.
 
 **Note**  
 Single sign\-on only works when used on a computer that is joined to the AWS Directory Service directory\. It can't be used on computers not joined to the directory\.
