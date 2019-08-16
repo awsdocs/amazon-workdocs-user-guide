@@ -4,7 +4,7 @@ Amazon WorkDocs is a fully managed, secure enterprise storage and sharing servic
 
 You can share your files with other members of your organization for collaboration or review\. The Amazon WorkDocs client applications can be used to view many different types of files, depending on the Internet media type of the file\. Amazon WorkDocs supports all common document and image formats, and support for additional media types is constantly being added\.
 
-For more information, see [Amazon WorkDocs](https://aws.amazon.com/zocalo/)\.
+For more information, see [Amazon WorkDocs](https://aws.amazon.com/workdocs/)\.
 
 ## Accessing Amazon WorkDocs<a name="accessing"></a>
 
@@ -13,7 +13,7 @@ Users can access their Amazon WorkDocs files using a web browser on their PC or 
 + [Getting Started with Android](android_phone_client_help.md)
 + [Getting Started with iOS](iphone_client_help.md)
 
-Amazon WorkDocs also offers free desktop sync applications\. For more information, see [Using Amazon WorkDocs Drive](workdocs_drive_help.md) and [Using Amazon WorkDocs Sync Client for macOS](sync_client_help.md)\.
+Amazon WorkDocs also offers a free desktop sync application\. For more information, see [Using Amazon WorkDocs Drive](workdocs_drive_help.md)\.
 
 ## Supported File Types<a name="file-types"></a>
 
@@ -35,7 +35,7 @@ You can also play audio and video files in the Amazon WorkDocs web application a
 
 ## Pricing<a name="pricing"></a>
 
-With Amazon WorkDocs, there are no upfront fees or commitments\. You pay only for active user accounts, and the storage you use\. For more information, go to [Pricing](http://aws.amazon.com/zocalo/pricing)\.
+With Amazon WorkDocs, there are no upfront fees or commitments\. You pay only for active user accounts, and the storage you use\. For more information, go to [Pricing](https://aws.amazon.com/workdocs/pricing)\.
 
 ## How to Get Started<a name="starting"></a>
 

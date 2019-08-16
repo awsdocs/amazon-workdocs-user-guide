@@ -21,7 +21,6 @@ Amazon's trademarks and trade dress may not be used in
    + [Getting Started with iOS](iphone_client_help.md)
 + [Using Amazon WorkDocs Companion](companion.md)
 + [Using Amazon WorkDocs Drive](workdocs_drive_help.md)
-+ [Using Amazon WorkDocs Sync Client for macOS](sync_client_help.md)
 + [Working with Files and Folders](working-docs.md)
    + [Organizing and Editing Files and Folders](client_folders.md)
    + [Uploading and Downloading Files](client_add_files.md)
