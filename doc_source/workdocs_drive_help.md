@@ -2,7 +2,7 @@
 
 Amazon WorkDocs Drive provides a native desktop experience for accessing Amazon WorkDocs content\. With Amazon WorkDocs Drive, users get the power of the AWS Cloud on their desktops\. They can access all of their folders and files with minimal use of local storage\. Users don’t need to change the way they work, because they can see all of their Amazon WorkDocs folders and files on their computer\.
 
-Amazon WorkDocs Drive is available for PC and macOS users, and for Amazon WorkSpaces\. Amazon WorkDocs Drive can upload and download file sizes of up to 5 TB each, and allows file path lengths of up to 260 characters\.
+Amazon WorkDocs Drive is available for PC and macOS users, and for Amazon WorkSpaces on Windows\. Amazon WorkDocs Drive can upload and download file sizes of up to 5 TB each, and allows file path lengths of up to 260 characters\.
 
 **Topics**
 + [Installing Amazon WorkDocs Drive](#drive_install)

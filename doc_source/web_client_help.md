@@ -1,6 +1,6 @@
 # Getting Started with the Web Client<a name="web_client_help"></a>
 
-The Amazon WorkDocs web client is a fully functioning website that allows you to upload, download, and organize your online Amazon WorkDocs document store\. It is also used to view and comment on your documents and documents from others\. The web client can display previews for many different types of files, depending on the internet media type of the document\. 
+The Amazon WorkDocs web client is a fully functioning website that allows you to upload, download, and organize your online Amazon WorkDocs document storage\. With the web client, you can upload and download file sizes of up to 5 GB each\. You can also view and comment on your documents and documents shared by others\. The web client displays previews for many different types of files, depending on the internet media type of the document\. 
 
 **Topics**
 + [System Requirements](#web_client_sys_reqs)

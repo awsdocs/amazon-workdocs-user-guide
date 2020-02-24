@@ -10,7 +10,11 @@ You can configure a file link to allow access to site members only, or to anyone
 
 1. Choose **Share**, **Share a link**\. 
 
-1. For **Link access level**, select the desired access level\. **Off** \- No access, **View** \- View only \(internal\), **View and edit** \- View and edit \(internal\), or **Public \(view only\)** \- Anyone can view \(file links only\)\.
+1. For **Link access level**, select the desired access level\. Options include the following:
+   + **Off** – No access is allowed\.
+   + **View** – View only access is allowed to anyone inside your Amazon WorkDocs organization\.
+   + **View and edit** – View and edit access is allowed to anyone inside your Amazon WorkDocs organization\.
+   + **Public \(file links only\)** – Anyone who has the link can view the file, whether they are outside or inside your Amazon WorkDocs organization\.
 
 1. \(Optional, file links only\) For **Link expiry date**, choose the date when the link expires\. The link expires at midnight of the specified date\.
 

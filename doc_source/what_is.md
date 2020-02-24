@@ -1,6 +1,6 @@
 # What Is Amazon WorkDocs?<a name="what_is"></a>
 
-Amazon WorkDocs is a fully managed, secure enterprise storage and sharing service with strong administrative controls and feedback capabilities that improve user productivity\. Files are stored in [the cloud](https://aws.amazon.com//what-is-cloud-computing/), safely and securely\. Your files are only visible to you, and your designated contributors and viewers\. Other members of your organization do not have access to any of your files unless you specifically grant them access\.
+Amazon WorkDocs is a fully managed, secure enterprise storage and sharing service with strong administrative controls and feedback capabilities that improve user productivity\. Files are stored in [the cloud](https://aws.amazon.com/what-is-cloud-computing/), safely and securely\. Your files are only visible to you, and your designated contributors and viewers\. Other members of your organization do not have access to any of your files unless you specifically grant them access\.
 
 You can share your files with other members of your organization for collaboration or review\. The Amazon WorkDocs client applications can be used to view many different types of files, depending on the Internet media type of the file\. Amazon WorkDocs supports all common document and image formats, and support for additional media types is constantly being added\.
 
