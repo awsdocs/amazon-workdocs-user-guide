@@ -48,4 +48,5 @@ Amazon's trademarks and trade dress may not be used in
    + [Viewing Completed Approval Requests](view-approval.md)
 + [Tracking File Activity](activity_feed.md)
 + [Managing Your Account](manage_account.md)
++ [Using Amazon WorkDocs for Amazon Business](workdocs-amazon-business.md)
 + [Document History](document_history.md)

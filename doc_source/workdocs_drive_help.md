@@ -161,6 +161,8 @@ You can stop syncing your files for offline access by choosing to access your fi
 
 1. Choose the gear icon\.
 
+1. Choose **Work offline**\.
+
 1. For **Sync settings**, select **Access files on demand**\.
 
 1. Choose **OK**\.
