@@ -1,4 +1,4 @@
-# Getting Started with Android<a name="android_phone_client_help"></a>
+# Getting started with Android<a name="android_phone_client_help"></a>
 
 The Amazon WorkDocs Android phone and tablet applications allow you to view, comment on, and download documents from your Amazon WorkDocs files\. You can also view, give feedback on, and download other organization documents for which you have been given permissions\.
 
@@ -7,9 +7,9 @@ Download the Android application from Google Play or the Amazon Appstore for And
 To reset your password, choose **Forgot password** on the sign\-in screen\. If you need more help with signing in, contact your Amazon WorkDocs administrator\.
 
 **Topics**
-+ [System Requirements](#android_phone_client_sys_reqs)
++ [System requirements](#android_phone_client_sys_reqs)
 
-## System Requirements<a name="android_phone_client_sys_reqs"></a>
+## System requirements<a name="android_phone_client_sys_reqs"></a>
 
 The Amazon WorkDocs Android phone client application requires the following:
 + An Android phone with Android 4\.0\.3 or later

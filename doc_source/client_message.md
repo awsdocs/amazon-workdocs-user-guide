@@ -1,4 +1,4 @@
-# Sending Messages<a name="client_message"></a>
+# Sending messages<a name="client_message"></a>
 
 You can send an email message to the people with whom you have already shared a file\.
 

@@ -1,4 +1,4 @@
-# Locking and Unlocking Files<a name="client_lock_files"></a>
+# Locking and unlocking files<a name="client_lock_files"></a>
 
 Lock a file to prevent others from overwriting your work\. While a file is locked, only the person who locked it can upload a new version\.
 

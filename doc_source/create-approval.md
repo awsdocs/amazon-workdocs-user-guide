@@ -1,4 +1,4 @@
-# Creating Approval Requests<a name="create-approval"></a>
+# Creating approval requests<a name="create-approval"></a>
 
 Use the Amazon WorkDocs Approvals app to ask other users in your Amazon WorkDocs organization to approve your files and folders\.
 

@@ -1,4 +1,4 @@
-# Removing Yourself from a Share<a name="unshare_yourself"></a>
+# Removing yourself from a share<a name="unshare_yourself"></a>
 
 After a folder or file has been shared with you, you can choose to remove yourself from the share\.
 

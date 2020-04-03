@@ -1,4 +1,4 @@
-# Removing Share Permissions<a name="revoke_share"></a>
+# Removing share permissions<a name="revoke_share"></a>
 
 If you are the owner or co\-owner of a folder or file, you can remove users or groups from the share permissions\.
 

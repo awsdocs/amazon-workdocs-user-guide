@@ -9,9 +9,9 @@ For Windows users, Amazon WorkDocs Companion integrates with File Explorer to le
 Download Amazon WorkDocs Companion from [Apps & Integrations for Amazon WorkDocs](https://amazonworkdocs.com/apps.html)\.
 
 **Topics**
-+ [System Requirements](#companion_sys_reqs)
++ [System requirements](#companion_sys_reqs)
 
-## System Requirements<a name="companion_sys_reqs"></a>
+## System requirements<a name="companion_sys_reqs"></a>
 
 To use Amazon WorkDocs Companion, you must meet the following requirements:
 + You must have owner, co\-owner, or contributor permissions for the file\.

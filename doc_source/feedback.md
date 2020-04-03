@@ -1,16 +1,16 @@
-# Sharing Feedback<a name="feedback"></a>
+# Sharing feedback<a name="feedback"></a>
 
 Other people in your organization can request feedback from you on specific files\. You can add feedback to a file, or add a message about the entire file\. You can also reply to feedback, give private feedback, and decline to give feedback\.
 
-You can see the files for which your feedback has been requested in your **Awaiting my Feedback** list\. To request feedback, you can share your document with other people in your organization\. For more information, see [Sharing Files and Folders](share-docs.md)\.
+You can see the files for which your feedback has been requested in your **Awaiting my Feedback** list\. To request feedback, you can share your document with other people in your organization\. For more information, see [Sharing files and folders](share-docs.md)\.
 
 **Topics**
-+ [Adding Feedback](#add_feedback)
-+ [Requesting the Ability to Add Feedback](#access_feedback)
-+ [Declining Feedback](#decline_feedback)
-+ [Disabling Feedback and Muting Notifications](#disable_feedback)
++ [Adding feedback](#add_feedback)
++ [Requesting the ability to add feedback](#access_feedback)
++ [Declining feedback](#decline_feedback)
++ [Disabling feedback and muting notifications](#disable_feedback)
 
-## Adding Feedback<a name="add_feedback"></a>
+## Adding feedback<a name="add_feedback"></a>
 
 You can add overall feedback that applies to the entire file, or add feedback on a specific portion of a file\. 
 
@@ -93,7 +93,7 @@ You can hide comments from view by resolving them\.
 
 To show a resolved comment again, filter by **Resolved comments** and choose **Unresolve** under the comment\.
 
-## Requesting the Ability to Add Feedback<a name="access_feedback"></a>
+## Requesting the ability to add feedback<a name="access_feedback"></a>
 
 If you have viewer access to a file and can’t give feedback, you can request contributor access in order to add feedback\.
 
@@ -113,7 +113,7 @@ If you have viewer access to a file and can’t give feedback, you can request c
 
 The file owner is notified of your request and can grant you access\. When access is granted, you are notified that the file has been shared with you\.
 
-## Declining Feedback<a name="decline_feedback"></a>
+## Declining feedback<a name="decline_feedback"></a>
 
 You can decline to give feedback on any file for which you have received a feedback request\. When you decline feedback, the file is removed from your **Awaiting my feedback** list, and you can no longer view the file\.
 
@@ -131,7 +131,7 @@ You can also remove a file from the **Awaiting my feedback** list without declin
 
 1. Select the file, choose **Feedback**, **Delete**\.
 
-## Disabling Feedback and Muting Notifications<a name="disable_feedback"></a>
+## Disabling feedback and muting notifications<a name="disable_feedback"></a>
 
 If you are the owner or co\-owner of a file, you can disable feedback to prevent additional comments\.
 

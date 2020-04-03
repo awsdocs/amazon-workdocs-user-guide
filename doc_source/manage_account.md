@@ -1,8 +1,8 @@
-# Managing Your Account<a name="manage_account"></a>
+# Managing your account<a name="manage_account"></a>
 
 From the Amazon WorkDocs web application, choose your profile picture to update your account settings\.
 
-## Updating Your User Profile<a name="account"></a>
+## Updating your user profile<a name="account"></a>
 
 Update your user profile under your **My account** settings\.
 
@@ -14,6 +14,6 @@ Update your user profile under your **My account** settings\.
 
 If you do not have the option to change your password, contact your Amazon WorkDocs site administrator for assistance by completing the following steps\. Your administrator can also change your name or email address for you\.
 
-## Contacting Your Administrator<a name="contact-admin"></a>
+## Contacting your administrator<a name="contact-admin"></a>
 
 Contact your Amazon WorkDocs site administrator from the web application by choosing **Tasks**, **New task**, **Contact Administrators**\. 

@@ -3,13 +3,13 @@
 If you are invited to access business documents with Amazon WorkDocs for Amazon Business, you can complete the following actions by signing in to [https://workdocs\.aws/](https://workdocs.aws/) using your Amazon Business credentials\.
 
 **Topics**
-+ [Viewing and Searching for Files](#workdocs-amazon-business-search-view)
-+ [Sharing and Commenting on Files](#workdocs-amazon-business-share-comment)
-+ [Uploading and Downloading Files](#workdocs-amazon-business-upload-download)
-+ [Moving, Renaming, and Deleting Files](#workdocs-amazon-business-move-rename)
-+ [Viewing Activity](#workdocs-amazon-business-view-activity)
++ [Viewing and searching for files](#workdocs-amazon-business-search-view)
++ [Sharing and commenting on files](#workdocs-amazon-business-share-comment)
++ [Uploading and downloading files](#workdocs-amazon-business-upload-download)
++ [Moving, renaming, and deleting files](#workdocs-amazon-business-move-rename)
++ [Viewing activity](#workdocs-amazon-business-view-activity)
 
-## Viewing and Searching for Files<a name="workdocs-amazon-business-search-view"></a>
+## Viewing and searching for files<a name="workdocs-amazon-business-search-view"></a>
 
 You can view your recently shared and viewed files from the Amazon WorkDocs for Amazon Business home page\. You can also view files that are shared with you or by you\.
 
@@ -51,7 +51,7 @@ Use search terms to find files or folders that you want\.
 
 1. \(Optional\) Choose **Save** to save these search settings for future use\. Enter a filter name, and then choose **Save**\.
 
-## Sharing and Commenting on Files<a name="workdocs-amazon-business-share-comment"></a>
+## Sharing and commenting on files<a name="workdocs-amazon-business-share-comment"></a>
 
 You can upload and share files and folders from the Amazon WorkDocs for Amazon Business home page\.
 
@@ -83,7 +83,7 @@ You can also share files or folders that are already uploaded to Amazon WorkDocs
 
 1. Choose **My Files**\.
 
-1. Choose the ellipsis \(**\.\.\.**\) next to the file you want to delete, and then choose **Share**\.
+1. Choose the ellipsis \(**\.\.\.**\) next to the file you want to share, and then choose **Share**\.
 
 1. For **Recipients**, enter the names or email addresses of the people to share the file with\.
 
@@ -105,7 +105,7 @@ Add comments to files when you view the file content\.
 
 1. Choose **Comment**\.
 
-## Uploading and Downloading Files<a name="workdocs-amazon-business-upload-download"></a>
+## Uploading and downloading files<a name="workdocs-amazon-business-upload-download"></a>
 
 You can upload files or folders to Amazon WorkDocs for Amazon Business, and download files from it\.
 
@@ -133,7 +133,7 @@ You can upload files or folders to Amazon WorkDocs for Amazon Business, and down
 
 1. Choose the ellipsis \(**\.\.\.**\) next to the file you want to download, and then choose **Download**\.
 
-## Moving, Renaming, and Deleting Files<a name="workdocs-amazon-business-move-rename"></a>
+## Moving, renaming, and deleting files<a name="workdocs-amazon-business-move-rename"></a>
 
 Move, rename, and delete files from Amazon WorkDocs for Amazon Business\.
 
@@ -173,7 +173,7 @@ Move, rename, and delete files from Amazon WorkDocs for Amazon Business\.
 
 1. Choose the ellipsis \(**\.\.\.**\) next to the file that you want to delete, and then choose **Delete**\.
 
-## Viewing Activity<a name="workdocs-amazon-business-view-activity"></a>
+## Viewing activity<a name="workdocs-amazon-business-view-activity"></a>
 
 View the activity for your Amazon WorkDocs for Amazon Business team\.
 

@@ -1,4 +1,4 @@
-# Viewing Completed Approval Requests<a name="view-approval"></a>
+# Viewing completed approval requests<a name="view-approval"></a>
 
 You can still view approval requests after they have been approved or rejected\.
 

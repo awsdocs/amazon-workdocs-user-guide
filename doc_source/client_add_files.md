@@ -1,4 +1,4 @@
-# Uploading and Downloading Files<a name="client_add_files"></a>
+# Uploading and downloading files<a name="client_add_files"></a>
 
 To upload files or a folder to your documents, perform the following steps\. Windows users can use Amazon WorkDocs Companion with File Explorer to upload multiple files and folders\. For more information, see [Using Amazon WorkDocs Companion](companion.md)\.
 

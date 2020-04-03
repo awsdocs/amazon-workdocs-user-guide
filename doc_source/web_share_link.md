@@ -1,4 +1,4 @@
-# Sharing a Link<a name="web_share_link"></a>
+# Sharing a link<a name="web_share_link"></a>
 
 Share files and folders stored in Amazon WorkDocs by sharing the link to the file or folder with others\. You can share a file link with coworkers and external partners, both inside and outside your organization\. A folder link can only be shared with internal site members\.
 

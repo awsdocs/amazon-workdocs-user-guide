@@ -1,4 +1,4 @@
-# Viewing Files Offline<a name="view-offline"></a>
+# Viewing files offline<a name="view-offline"></a>
 
 To view files offline, use Amazon WorkDocs Drive\. For more information, see [Using Amazon WorkDocs Drive](workdocs_drive_help.md)\.
 

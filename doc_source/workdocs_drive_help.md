@@ -8,8 +8,8 @@ Amazon WorkDocs Drive is available for PC and macOS users, and for Amazon WorkSp
 + [Installing Amazon WorkDocs Drive](#drive_install)
 + [Using Amazon WorkDocs Drive](#drive_use)
 + [Searching Amazon WorkDocs Drive](#drive_search)
-+ [File Icons](#drive_icons)
-+ [Enabling Offline Access](#drive_offline)
++ [File icons](#drive_icons)
++ [Enabling offline access](#drive_offline)
 + [Troubleshooting Amazon WorkDocs Drive](#drive_troubleshoot)
 
 ## Installing Amazon WorkDocs Drive<a name="drive_install"></a>
@@ -29,7 +29,7 @@ Amazon WorkDocs Drive requires HTTPS access on port 443 for all IP addresses for
 **Note**  
 macOS High Sierra 10\.13 users might encounter this error message during installation: `System Extension Blocked`\. To unblock the installation, open **System Preferences** on your computer and choose **Security & Privacy**\. Then, choose **Allow** to install Amazon WorkDocs Drive\.
 
-### Installing Amazon WorkDocs Drive for Windows to Multiple PCs and WorkSpaces<a name="install-multiple"></a>
+### Installing Amazon WorkDocs Drive for Windows to multiple PCs and WorkSpaces<a name="install-multiple"></a>
 
 Administrators who are responsible for managing the domain\-joined machine fleet for their organization can install the Amazon WorkDocs Drive client by using Group Policy Objects \(GPO\) or System Center Configuration Manager \(SCCM\) Tools\.
 
@@ -117,7 +117,7 @@ Search for file names in Amazon WorkDocs Drive\.
 **Note**  
 File Explorer search for Windows and Spotlight search for macOS are not supported in Amazon WorkDocs Drive\.
 
-## File Icons<a name="drive_icons"></a>
+## File icons<a name="drive_icons"></a>
 
 Amazon WorkDocs Drive provides the following visual icons to communicate file status:
 + **Gray arrow icon**—A file is syncing to the cloud\.
@@ -126,7 +126,7 @@ Amazon WorkDocs Drive provides the following visual icons to communicate file st
 + **Blue star icon**—A file or folder is marked as a Favorite\.
 + **Red lock icon**—A file is locked by the user for exclusive editing\.
 
-## Enabling Offline Access<a name="drive_offline"></a>
+## Enabling offline access<a name="drive_offline"></a>
 
 Enable offline access to your files and folders so that you can work on your content when your computer is offline\. Changes made in Amazon WorkDocs Drive while offline sync to Amazon WorkDocs the next time your computer is online\.
 

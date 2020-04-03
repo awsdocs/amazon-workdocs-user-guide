@@ -1,4 +1,4 @@
-# Sharing by Invite<a name="share-invite"></a>
+# Sharing by invite<a name="share-invite"></a>
 
 You can invite users and groups to share a folder or file, either within or outside your organization\. When you invite people, you choose which permissions to grant to the people that you're sharing with\. If you share a folder, the permissions for that folder apply to all the documents inside the folder\.
 

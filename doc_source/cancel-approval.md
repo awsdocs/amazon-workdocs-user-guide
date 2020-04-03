@@ -1,4 +1,4 @@
-# Canceling Approval Requests<a name="cancel-approval"></a>
+# Canceling approval requests<a name="cancel-approval"></a>
 
 After you create an approval request, you can cancel it as long as it is in **Pending** status\. 
 

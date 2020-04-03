@@ -1,4 +1,4 @@
-# Getting Started with iOS<a name="iphone_client_help"></a>
+# Getting started with iOS<a name="iphone_client_help"></a>
 
 The Amazon WorkDocs applications for iPhone and iPad allow you to view, comment on, and download documents from your Amazon WorkDocs files\. You can also view, give feedback on, and download other organization documents for which you have been given permissions\.
 
@@ -9,12 +9,12 @@ Download the iPhone and iPad applications from the Apple App Store, and sign in 
 To reset your password, choose **Forgot password** on the sign\-in screen\. If you need more help with signing in, contact your Amazon WorkDocs administrator\.
 
 **Topics**
-+ [System Requirements](#iphone_client_sys_reqs)
-+ [Opening a File in Another iOS App to View or Edit](#iphone_opening_files)
++ [System requirements](#iphone_client_sys_reqs)
++ [Opening a file in another iOS app to view or edit](#iphone_opening_files)
 + [Using the Files app in iOS](#ios-files-app)
-+ [Saving a File from Another iOS App to Amazon WorkDocs](#iphone_saving_files)
++ [Saving a file from another iOS app to Amazon WorkDocs](#iphone_saving_files)
 
-## System Requirements<a name="iphone_client_sys_reqs"></a>
+## System requirements<a name="iphone_client_sys_reqs"></a>
 
 The Amazon WorkDocs iPhone client application requires the following:
 + An iPhone with iOS 7\.0 or later
@@ -22,7 +22,7 @@ The Amazon WorkDocs iPhone client application requires the following:
 The Amazon WorkDocs iPad application requires the following:
 + iPad or iPad 2 with iOS 6\.1\.2 or later
 
-## Opening a File in Another iOS App to View or Edit<a name="iphone_opening_files"></a>
+## Opening a file in another iOS app to view or edit<a name="iphone_opening_files"></a>
 
 You can open an Amazon WorkDocs file in any other iOS app that supports file sharing\. After opening the file, you can view or edit it in the other app, then save it back to Amazon WorkDocs\.
 
@@ -32,7 +32,7 @@ You can open an Amazon WorkDocs file in any other iOS app that supports file sha
 
 1. Choose **Menu**, **Share**, and then select the app to which to open the file\.
 
-1. If you want to save the file back to Amazon WorkDocs when you’re done, see [Saving a File from Another iOS App to Amazon WorkDocs](#iphone_saving_files)\.
+1. If you want to save the file back to Amazon WorkDocs when you’re done, see [Saving a file from another iOS app to Amazon WorkDocs](#iphone_saving_files)\.
 
 ## Using the Files app in iOS<a name="ios-files-app"></a>
 
@@ -48,7 +48,7 @@ Use the Files app in iOS version 11 or later to view, edit, lock, unlock, add, c
 
 To open and manage content directly in the Amazon WorkDocs app, choose **Open in WorkDocs** from the Files app menu\. You can now access feedback and share functionality\.
 
-## Saving a File from Another iOS App to Amazon WorkDocs<a name="iphone_saving_files"></a>
+## Saving a file from another iOS app to Amazon WorkDocs<a name="iphone_saving_files"></a>
 
 You can save a file from any other iOS app that supports file sharing to Amazon WorkDocs\. This makes the file available on other Amazon WorkDocs mobile apps and the web client\.
 

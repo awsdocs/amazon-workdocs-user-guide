@@ -1,4 +1,4 @@
-# Responding to Approval Requests<a name="respond-approval"></a>
+# Responding to approval requests<a name="respond-approval"></a>
 
 When another Amazon WorkDocs user requests your approval of their files or folders, you receive an email notification\.
 

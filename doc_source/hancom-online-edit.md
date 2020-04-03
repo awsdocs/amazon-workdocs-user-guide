@@ -6,7 +6,7 @@ When you edit a document with Hancom ThinkFree, other users with edit permission
 
 To use Hancom ThinkFree, your site administrator must enable the feature for your Amazon WorkDocs site\. For more information, site administrators can see [Enabling Hancom ThinkFree](https://docs.aws.amazon.com/workdocs/latest/adminguide/collab-editing.html#enable-hancom-edit)\.
 
-## Creating a New File<a name="hancom-new"></a>
+## Creating a new file<a name="hancom-new"></a>
 
 Use Hancom ThinkFree to create new Microsoft Office files from the Amazon WorkDocs web application\.
 
@@ -20,9 +20,9 @@ Use Hancom ThinkFree to create new Microsoft Office files from the Amazon WorkDo
 
 1. When you are done editing, choose **Save & Exit**\. The file is saved with a generic file name, such as **New Document**\. 
 
-   1. Rename the file as needed\. For more information, see [Renaming and Moving Folders and Files](client_folders.md#web_rename_folder)\.
+   1. Rename the file as needed\. For more information, see [Renaming and moving folders and files](client_folders.md#web_rename_folder)\.
 
-## Editing a File<a name="hancom-edit"></a>
+## Editing a file<a name="hancom-edit"></a>
 
 Use Hancom ThinkFree to edit Microsoft Office files and join live collaborative editing sessions from the Amazon WorkDocs web application\.
 

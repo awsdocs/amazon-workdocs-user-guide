@@ -1,4 +1,4 @@
-# Updating Approval Requests<a name="update-approval"></a>
+# Updating approval requests<a name="update-approval"></a>
 
 After you create an approval request, you can update it as long as it is in **Pending** status\. The items you can update depend on whether you have received any responses from approvers\.
 + **If there is no response from an approver yet** – You can update the files, groups, approvers, due date, and description\.
