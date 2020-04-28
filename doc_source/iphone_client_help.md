@@ -17,10 +17,10 @@ To reset your password, choose **Forgot password** on the sign\-in screen\. If y
 ## System requirements<a name="iphone_client_sys_reqs"></a>
 
 The Amazon WorkDocs iPhone client application requires the following:
-+ An iPhone with iOS 7\.0 or later
++ An iPhone with iOS 11 or later
 
 The Amazon WorkDocs iPad application requires the following:
-+ iPad or iPad 2 with iOS 6\.1\.2 or later
++ iPad or iPad 2 with iOS 11 or later
 
 ## Opening a file in another iOS app to view or edit<a name="iphone_opening_files"></a>
 

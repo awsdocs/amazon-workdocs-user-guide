@@ -6,8 +6,8 @@ After a folder or file has been shared with you, you can choose to remove yourse
 
 1. In the web client, select the folder or file that has been shared with you\.
 
-1. For **Share**, choose **Permissions**\.
+1. Do one of the following:
+   + Choose **Actions**, **Remove me from share**, **Yes, remove me**\.
+   + For **Share**, choose **Permissions**\. For **Access**, choose the dropdown menu next to your name, and choose **Remove**, **OK**\.
 
-1. For **Access**, choose the dropdown menu next to your name, and choose **Remove**\.
-
-1. Choose **OK**\. You are removed from the **Permissions** list immediately\.
+You are removed from the **Permissions** list immediately\.
