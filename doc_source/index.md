@@ -50,3 +50,4 @@ Amazon's trademarks and trade dress may not be used in
 + [Managing your account](manage_account.md)
 + [Using Amazon WorkDocs for Amazon Business](workdocs-amazon-business.md)
 + [Document history](document_history.md)
++ [AWS Glossary](glossary.md)
