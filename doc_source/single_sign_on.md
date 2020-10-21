@@ -1,0 +1,3 @@
+# Using single sign\-on<a name="single_sign_on"></a>
+
+ If your administrator enables single sign\-on, you can use your regular network login to access Amazon WorkDocs \. However, you may need to take additional steps to allow your browser to support single sign\-on\. For more information, see [Single sign\-on for IE and Chrome](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ms_ad_single_sign_on.html#ie_sso) and [Single sign\-on for Firefox](https://docs.aws.amazon.com/directoryservice/latest/admin-guide/ms_ad_single_sign_on.html#firefox_sso) in the *AWS Directory Service Administration Guide*\.
