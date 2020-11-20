@@ -3,7 +3,7 @@
 This section provides troubleshooting tips for common Amazon WorkDocs Drive errors\.
 
 **Recovered Files**  
-If you change a file that you don't have permissions to edit, you can't upload that file to your Amazon WorkDocs site\. Instead, the site saves your changes to your local `Recovered Files` folder\. You can open this folder from the Amazon WorkDocs Drive menu by choosing the question mark icon, then **Go to recovery folder**\. From there, you can upload the file to Amazon WorkDocs as a new file\.
+If you change a file that you don't have permissions to edit, you can't upload that file to your Amazon WorkDocs site\. Instead, the site saves the changes to your local `Recovered Files` folder\. You can open this folder from the Amazon WorkDocs Drive menu by choosing the question mark icon, then **Go to recovery folder**\. From there, you can upload the file to Amazon WorkDocs as a new file\.
 
 **Recovery Folder Full**  
 Delete unnecessary files from your local `Recovered Files` folder\.

@@ -6,7 +6,7 @@ You can invite users and groups to share a folder or file, either within or outs
 
 1. In the web client, select the folder or file to share\.
 
-1. Choose **Share**, **Invite people**\. 
+1. Choose **Share** \(located next to **Edit**\) then **Invite people**\. 
 
 1. In the dialog box, start typing the name of the person or group in your organization with whom to share, and select the desired name when it is displayed in the list\. If your Amazon WorkDocs administrator has authorized you to share files with people outside your organization, you can also enter email addresses for external people and add them to the list of people with whom to share the folder or file\. 
 

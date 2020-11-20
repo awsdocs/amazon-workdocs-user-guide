@@ -2,7 +2,7 @@
 
 Hancom ThinkFree lets you create Microsoft Office files \(`.docx`, `.pptx`, and `.xlsx`\) from the Amazon WorkDocs web application\. You can also co\-author and collaboratively edit `.docx`, `.doc`, `.pptx`, `.ppt`, `.xlsx`, and `.xls` files\.
 
-When you edit a document with Hancom ThinkFree, other users with edit permissions can join the live collaborative session to edit the document with you in real time\. Files edited with Hancom ThinkFree are saved automatically in Amazon WorkDocs\.
+When you edit a document with Hancom ThinkFree, other users with edit permissions can join the live collaborative session to edit the document with you in real time\. Amazon WorkDocs automatically saves files edited with Hancom ThinkFree\.
 
 To use Hancom ThinkFree, your site administrator must enable the feature for your Amazon WorkDocs site\. For more information, site administrators can see [Enabling Hancom ThinkFree](https://docs.aws.amazon.com/workdocs/latest/adminguide/collab-editing.html#enable-hancom-edit)\.
 

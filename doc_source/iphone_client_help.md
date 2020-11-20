@@ -13,4 +13,4 @@ To reset your password, choose **Forgot password** on the sign\-in screen\. If y
 + [Viewing and editing files in other iOS apps](iphone_opening_files.md)
 + [Using the Files app in iOS](ios-files-app.md)
 + [Saving a file from another iOS app to Amazon WorkDocs](iphone_saving_files.md)
-+ [Switching visual themes](switch-themes.md)
++ [Switching visual themes](switch-themes-ios.md)

@@ -8,3 +8,4 @@ To reset your password, choose **Forgot password** on the sign\-in screen\. If y
 
 **Topics**
 + [System requirements](android_phone_client_sys_reqs.md)
++ [Switching visual themes](switch-themes-android.md)
