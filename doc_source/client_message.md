@@ -10,4 +10,4 @@ You can send an email message to the people with whom you have already shared a 
 
 1. Type your message and choose **OK**\.
 **Note**  
-By default, your email is sent from “Amazon WorkDocs <no\-reply@amazon\.awsapps\.com>,” an unmonitored email address\. Contributor email addresses are not included\.
+By default, your email message is sent from “Amazon WorkDocs <no\-reply@amazon\.awsapps\.com>,” an unmonitored email address\. Contributor email addresses are not included\.

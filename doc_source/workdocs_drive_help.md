@@ -5,10 +5,11 @@ Amazon WorkDocs Drive enables you to open and work with Amazon WorkDocs files on
 **Note**  
 Your system administrator may assign a different drive letter\. If you're unsure of the drive letter, contact your administrator\.
 
-Amazon WorkDocs Drive is available for PC and macOS users, and for Amazon WorkSpaces on Windows\. Amazon WorkDocs Drive can upload and download files of up to 5 TB each, and allows file path lengths of up to 260 characters\.
+Amazon WorkDocs Drive is available for PC and macOS users, and for Amazon WorkSpaces on Windows\. Amazon WorkDocs Drive can upload and download files of up to 5 GB each, and allows file path lengths of up to 260 characters\.
 
 **Topics**
 + [Installing Amazon WorkDocs Drive](drive_install.md)
-+ [Logging in to and out of Amazon WorkDocs Drive](log-in-out.md)
++ [Logging out of Amazon WorkDocs Drive](log-out.md)
++ [Logging in to Amazon WorkDocs Drive after you log out](log-in.md)
 + [Using Amazon WorkDocs Drive](drive_use.md)
 + [Troubleshooting Amazon WorkDocs Drive](drive_troubleshoot.md)

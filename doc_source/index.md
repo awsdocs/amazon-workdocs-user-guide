@@ -1,7 +1,7 @@
 # Amazon WorkDocs User Guide
 
 -----
-*****Copyright &copy; 2020 Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
+*****Copyright &copy;  Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
 Amazon's trademarks and trade dress may not be used in 
@@ -39,7 +39,8 @@ Amazon's trademarks and trade dress may not be used in
    + [Installing Amazon WorkDocs Drive](drive_install.md)
       + [Using the Windows Subsystem for Linux to mount Amazon WorkDocs Drive](mount-linux.md)
       + [Uninstalling Amazon WorkDocs Drive](uninstall.md)
-   + [Logging in to and out of Amazon WorkDocs Drive](log-in-out.md)
+   + [Logging out of Amazon WorkDocs Drive](log-out.md)
+   + [Logging in to Amazon WorkDocs Drive after you log out](log-in.md)
    + [Using Amazon WorkDocs Drive](drive_use.md)
       + [Understanding the Amazon WorkDocs Drive file icons](drive_icons.md)
       + [Opening Amazon WorkDocs Drive folders](open-files-folders.md)
@@ -57,6 +58,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Viewing file versions](client_file_versions.md)
    + [Viewing files offline](view-offline.md)
    + [Searching files and folders](search.md)
+   + [Backing up folders with Amazon WorkDocs Backup](user-backup.md)
 + [Sharing files and folders](share-docs.md)
    + [Sharing by invite](share-invite.md)
    + [Sharing a link](web_share_link.md)

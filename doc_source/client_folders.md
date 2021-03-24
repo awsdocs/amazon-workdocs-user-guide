@@ -35,24 +35,28 @@ If you have permissions, you can change the name of a folder or file\. For more 
 
 **To rename a folder or file**
 
-1. In the web client, select the folder or file to be renamed\.
+1. In the web client, select the check box next to the folder or file to be renamed\.
+**Note**  
+Just select the check box\. Choosing the file or folder name opens the file or folder in Preview mode, and that disables the commands for renaming and moving\.
 
 1. For **Actions**, choose **More\.\.\.**, **Rename**\.
 
-1. Enter the new name, then press the Enter key\.
+1. Enter the new name, then press **Enter**\.
 
 When you are signed in to the Amazon WorkDocs site, you can sort documents by name, owner, and other attributes\. Use the dropdown arrows in the menu above your documents to do so\. If you have permissions, you can also move folders or files to other folders by following these steps\.
 
 **To move a folder or file**
 
-1. In the web client, select the folder or file to be moved\.
+1. In the web client, select the check box next to the folder or file to be moved\.
+**Note**  
+Just select the check box\. Choosing the file or folder name opens the file or folder in Preview mode, and that disables the commands for renaming and moving\.
 
 1. For **Actions**, choose **More\.\.\.**, **Move**\.
 
 1. In the dialog box, navigate to the target folder and choose **Move**\.
 
 **Note**  
-When you move a folder, all of the files and folders within the folder are moved along with it\. To move multiple files at the same time, move them all into the same folder, and then move the folder\.
+Moving a folder also moves the files and sub\-folders within the folder\. To move multiple files at the same time, move them into a folder, and then move that folder\.
 
 ## Editing files<a name="edit_files"></a>
 

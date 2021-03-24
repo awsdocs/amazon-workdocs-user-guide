@@ -2,7 +2,7 @@
 
 Other people in your organization can request feedback from you on specific files\. You can add feedback to a file, or add a message about the entire file\. You can also reply to feedback, give private feedback, and decline to give feedback\.
 
-You can see the files for which your feedback has been requested in your **Awaiting my Feedback** list\. To request feedback, you can share your document with other people in your organization\. For more information, see [Sharing files and folders](share-docs.md)\.
+You can see the files for which your feedback has been requested in your **Awaiting my feedback** list\. To request feedback, you can share your document with other people in your organization\. For more information, see [Sharing files and folders](share-docs.md)\.
 
 **Topics**
 + [Adding feedback](#add_feedback)
@@ -28,7 +28,7 @@ You can add overall feedback that applies to the entire file, or add feedback on
 
 1. Select the portion of the file on which to give feedback, and enter your feedback\.
 
-1. After you enter your feedback, choose **Post**\. This saves your feedback as a draft\. You can edit or delete any of your feedback by choosing **Feedback**\.
+1. After you enter your feedback, choose **Post** to save your feedback as a draft\. You can edit or delete any of your feedback by choosing **Feedback**\.
 
 **To reply to feedback**
 
@@ -49,15 +49,15 @@ When you want a user to pay attention to a comment, you can notify that user\. T
 
 1. In the comment box, choose the **@** button and then choose the user name from the list that appears\. Or, type **@** followed by the user name \(for example, @username\)\.
 
-1. The user specified automatically receives an email that includes your comment and a link to view the file\.
+1. The user specified automatically receives an email message that includes your comment and a link to view the file\.
 
 **To format feedback**
 
-1. To bold a word, add \*\* before and after the word\. \(For example, \*\*word\*\*\)
+1. To bold a word, add two asterisk symbols \(\*\*\) before and after the word\. \(For example: \*\*word\*\*\)
 
-1. To italicize a word, add \_ before and after the word\. \(For example, \_word\_\)
+1. To italicize a word, add one underscore \(\_\) before and after the word\. \(For example: \_word\_\)
 
-1. To strikethrough a word, add \~\~ before and after the word\. \(For example, \~\~word\~\~\)
+1. To strike through a word, add two tilde symbols \(\~\~\) before and after the word\. \(For example: \~\~word\~\~\)
 
 1. To create a new line, enter `Shift + Enter`\.
 
@@ -95,7 +95,7 @@ To show a resolved comment again, filter by **Resolved comments** and choose **U
 
 ## Requesting the ability to add feedback<a name="access_feedback"></a>
 
-If you have viewer access to a file and can’t give feedback, you can request contributor access in order to add feedback\.
+If you have viewer access to a file and can’t give feedback, you can request contributor access to add feedback\.
 
 **To request contributor access**
 
