@@ -1,11 +1,16 @@
 # Using Amazon WorkDocs Drive<a name="workdocs_drive_help"></a>
 
-Amazon WorkDocs Drive enables you to open and work with Amazon WorkDocs files on your computer's desktop\. By default, Amazon WorkDocs Drive appears on your computer as drive **W:**, and you use Amazon WorkDocs Drive like you would any other disc drive\.
+Amazon WorkDocs Drive Drive enables you to open and work with Amazon WorkDocs files on your computer's desktop\. By default, Amazon WorkDocs Drive appears on your computer as drive **W:**, and you use Amazon WorkDocs Drive like you would any other disc drive\.
 
 **Note**  
 Your system administrator may assign a different drive letter\. If you're unsure of the drive letter, contact your administrator\.
 
-Amazon WorkDocs Drive is available for PC and macOS users, and for Amazon WorkSpaces on Windows\. Amazon WorkDocs Drive can upload and download files of up to 5 GB each, and allows file path lengths of up to 260 characters\.
+Amazon WorkDocs Drive is available for PC and macOS users, and for Workspaces on Windows\. Amazon WorkDocs Drive can upload and download files of up to 5 GB each, and allows file path lengths of up to 260 characters\.
+
+As you go, remember that Amazon WorkDocs Drive only creates links to your files\. It doesn't write copies to your hard drive\. For example, say you open a word processor file from Amazon WorkDocs Drive\. Editing that file changes the current version of the file in Amazon WorkDocs\. 
+
+**Important**  
+If you delete a link in Amazon WorkDocs Drive you also delete the source file in Amazon WorkDocs Also, the links created by Amazon WorkDocs Drive use a small amount of storage, and deleting them doesn't save any significant storage space\.
 
 **Topics**
 + [Installing Amazon WorkDocs Drive](drive_install.md)

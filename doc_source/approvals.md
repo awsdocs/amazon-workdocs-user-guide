@@ -1,10 +1,8 @@
 # Working with approvals<a name="approvals"></a>
 
-Use the Amazon WorkDocs Approvals app to request that users in your Amazon WorkDocs organization approve your files and folders\.
+You use the Amazon WorkDocs Approvals app to ask users in your Amazon WorkDocs organization to approve your files and folders\. You also use the Approvals app to approve or reject requests from other users in your organization\. 
 
-If you receive an approval request, you can use the Approvals app to view, approve, or reject the request\.
-
-To access the Approvals app, from the Amazon WorkDocs site, choose **Apps**\. For **Approvals**, choose **Launch**\.
+To start the Approvals app, go to your Amazon WorkDocs site, choose **Apps**, and under **Approvals**, choose **Launch**\.
 
 **Topics**
 + [Creating approval requests](create-approval.md)

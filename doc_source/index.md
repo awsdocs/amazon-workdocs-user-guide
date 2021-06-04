@@ -1,7 +1,7 @@
 # Amazon WorkDocs User Guide
 
 -----
-*****Copyright &copy;  Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
+*****Copyright &copy; Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
 Amazon's trademarks and trade dress may not be used in 
@@ -50,12 +50,14 @@ Amazon's trademarks and trade dress may not be used in
       + [Reconnecting after working offline](access-on-demand.md)
       + [Pausing file sync](pause-sync.md)
       + [Quitting Amazon WorkDocs Drive](quit-wdd.md)
+      + [Restarting Amazon WorkDocs Drive after you quit](restart-wdd.md)
    + [Troubleshooting Amazon WorkDocs Drive](drive_troubleshoot.md)
 + [Working with files and folders](working-docs.md)
    + [Organizing and editing files and folders](client_folders.md)
    + [Uploading and downloading files](client_add_files.md)
    + [Locking and unlocking files](client_lock_files.md)
    + [Viewing file versions](client_file_versions.md)
+   + [Reverting a file to a previous version](revert-version.md)
    + [Viewing files offline](view-offline.md)
    + [Searching files and folders](search.md)
    + [Backing up folders with Amazon WorkDocs Backup](user-backup.md)

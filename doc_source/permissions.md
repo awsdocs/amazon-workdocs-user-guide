@@ -49,7 +49,7 @@ The following are the permissions defined by Amazon WorkDocs for shared folders:
 | Share | X | X |  |  | 
 | Revoke Sharing | X | X |  |  | 
 | Delete Sub\-folder | X | X |  |  | 
-| Delete Top\-level folder | X |  |  |  | 
+| Delete Top\-level folder | X | X |  |  | 
 
 ## File permissions<a name="doc_perms"></a>
 

@@ -12,6 +12,7 @@ The topics in this section explain how to complete the various folder and file t
 + [Pausing file sync](pause-sync.md)
 + [Searching Amazon WorkDocs Drive](#drive_search)
 + [Quitting Amazon WorkDocs Drive](quit-wdd.md)
++ [Restarting Amazon WorkDocs Drive after you quit](restart-wdd.md)
 
 ## Searching Amazon WorkDocs Drive<a name="drive_search"></a>
 
