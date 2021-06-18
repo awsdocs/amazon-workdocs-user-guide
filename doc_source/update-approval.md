@@ -8,9 +8,9 @@ You can update your approval requests as long as they have a status of **Pending
 
 1. In Amazon WorkDocs, choose **Apps**\.
 
-1. Choose **Approvals**, then choose **Launch**\.
+1. Under **Approvals**, choose **Launch**\.
 
-1. Choose the double\-left arrows \(**<<**\) in the upper\-left corner of the screen to open the navigation pane\.
+1. Choose the **Menu** \( ![\[Image NOT FOUND\]](http://docs.aws.amazon.com/workdocs/latest/userguide/images/angle-left-double.png) \) button in the upper\-left corner of the screen to open the navigation pane\.
 
 1. Choose **My approval requests**, then choose the tile for request that you want to update\.
 

@@ -8,15 +8,17 @@ You use the Amazon WorkDocs Approvals app to ask other users in your Amazon Work
 
 1. Choose **Create Approval**\.
 
-1. Choose **Add Files**, select the checkbox next to the files or folders that you need to have approved, choose **Done**, then **Next**\.
+1. Choose **Add Files**, select the check box next to the files or folders that you need approved, choose **Done**, then choose **Next**\.
 
 1. Under **Group 1**, enter the names or email addresses of your approvers\. You don't need a delimiter between the names or addresses\. However, the approvers must belong to your Amazon WorkDocs organization\.
 
-1. Select one of the following:
-   + **Anyone can approve** – Any individual approver in this group can approve on behalf of the group\.
-   + **Everyone must approve** – Every approver in this group must approve\.
+1. Choose one of the following:
+   + **Anyone can approve** – Any individual approver in this group can approve on behalf of the whole group\.
+   + **Everyone must approve** – All approvers in this group must approve\.
+
+1. You can also choose the following optional settings:
    + \(Optional\) For **Due date**, select a date by which approvals are due\.
-   + \(Optional\) Choose **Add Group** to create another approval group, then repeat step 4 and this step to add approvers to the group\.
+   + \(Optional\) Choose **Add Group** to create another approval group, then repeat step 4 and step 5 to add approvers to the group\.
 **Note**  
 You must add approvers to all the groups that you create\. You can't proceed until you do\.
 

@@ -1,9 +1,9 @@
 # Using Amazon WorkDocs Drive<a name="workdocs_drive_help"></a>
 
-Amazon WorkDocs Drive Drive enables you to open and work with Amazon WorkDocs files on your computer's desktop\. By default, Amazon WorkDocs Drive appears on your computer as drive **W:**, and you use Amazon WorkDocs Drive like you would any other disc drive\.
+Amazon WorkDocs Drive enables you to open and work with Amazon WorkDocs files on your computer's desktop\. By default, Amazon WorkDocs Drive appears on your computer as drive **W:**, and you use Amazon WorkDocs Drive like you would any other disc drive\.
 
 **Note**  
-Your system administrator may assign a different drive letter\. If you're unsure of the drive letter, contact your administrator\.
+You must belong to a network domain in order to use Amazon WorkDocs Drive\. Also, your system administrator may assign a different drive letter\. If you're unsure about your network domain or drive letter, contact your administrator\.
 
 Amazon WorkDocs Drive is available for PC and macOS users, and for Workspaces on Windows\. Amazon WorkDocs Drive can upload and download files of up to 5 GB each, and allows file path lengths of up to 260 characters\.
 
