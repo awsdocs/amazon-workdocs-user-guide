@@ -5,7 +5,7 @@ Amazon WorkDocs Drive enables you to open and work with Amazon WorkDocs files on
 **Note**  
 You must belong to a network domain in order to use Amazon WorkDocs Drive\. Also, your system administrator may assign a different drive letter\. If you're unsure about your network domain or drive letter, contact your administrator\.
 
-Amazon WorkDocs Drive is available for PC and macOS users, and for Workspaces on Windows\. Amazon WorkDocs Drive can upload and download files of up to 5 GB each, and allows file path lengths of up to 260 characters\.
+Amazon WorkDocs Drive is available for PC and macOS users, and for Workspaces on Windows\. Amazon WorkDocs Drive can upload and download files of up to 5 TB each, and allows file path lengths of up to 260 characters\.
 
 As you go, remember that Amazon WorkDocs Drive only creates links to your files\. It doesn't write copies to your hard drive\. For example, say you open a word processor file from Amazon WorkDocs Drive\. Editing that file changes the current version of the file in Amazon WorkDocs\. 
 
