@@ -2,7 +2,7 @@
 
 Other people in your organization can request feedback from you on specific files\. You can add feedback to a file, or add a message about the entire file\. You can also reply to feedback, give private feedback, and decline to give feedback\.
 
-You can see the files for which your feedback has been requested in your **Awaiting my feedback** list\. To request feedback, you can share your document with other people in your organization\. For more information, see [Sharing files and folders](share-docs.md)\.
+You can see the files for which your feedback has been requested in your **Awaiting my feedback** list\. To request feedback, you can share your document with other people in your organization\. For more information, see [Sharing files and folders](https://docs.aws.amazon.com/workdocs/latest/userguide/share-docs.html)\.
 
 **Topics**
 + [Adding feedback](#add_feedback)

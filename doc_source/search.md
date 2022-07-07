@@ -1,6 +1,6 @@
 # Searching files and folders<a name="search"></a>
 
-Amazon WorkDocs smart search searches for search terms in all files and folders that you have permissions for\. By default, it searches for terms in file and folder names, metadata, comments, labels, user names, and file owners\. It also searches content within text\-searchable files, such as Word, Excel, PowerPoint, PDF, `.txt`, JavaScript, and other code files\. Choose the **Advanced** search option to view and select available search filters\.
+Amazon WorkDocs smart search searches for search terms in all files and folders that you have permissions for\. By default, it searches file and folder names, metadata, comments, labels, user names, and file owners\. It also searches content within text\-searchable files, such as Word, Excel, PowerPoint, PDF, `.txt`, JavaScript, and other code files\. Choose the **Advanced** search option to view and select available search filters\.
 
 **To use Amazon WorkDocs smart search**
 

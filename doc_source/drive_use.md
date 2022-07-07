@@ -10,15 +10,13 @@ The topics in this section explain how to complete the various folder and file t
 + [Working offline](drive_offline.md)
 + [Reconnecting after working offline](access-on-demand.md)
 + [Pausing file sync](pause-sync.md)
-+ [Searching Amazon WorkDocs Drive](#drive_search)
++ [Searching for files and folders on Amazon WorkDocs Drive](#drive_search)
 + [Quitting Amazon WorkDocs Drive](quit-wdd.md)
 + [Restarting Amazon WorkDocs Drive after you quit](restart-wdd.md)
 
-## Searching Amazon WorkDocs Drive<a name="drive_search"></a>
+## Searching for files and folders on Amazon WorkDocs Drive<a name="drive_search"></a>
 
-Amazon WorkDocs Drive provides its own search function\. You can start a WorkDocs search from File Explorer in Windows or Spotlight on a Macintosh\. However, you can't use the search functions in File Explorer or Spotlight to find files on your WorkDocs drive\.
-
-You can also seach WorkDocs Drive from the Windows Notification pane or the Macintosh menu bar, and the following steps explain how to do those tasks\. 
+You can use several tools to search for files stored on Amazon WorkDocs Drive\.
 
 **Note**  
 Remember that a WorkDocs Drive search is case sensitive\.
@@ -26,7 +24,7 @@ Remember that a WorkDocs Drive search is case sensitive\.
 **To search Amazon WorkDocs Drive in Windows**  
 Do one of the following:
 + In Windows File Explorer, right\-click the Amazon WorkDocs Drive icon, point to **Amazon WorkDocs Drive**, choose **Search**, then enter a search term\.
-+ In the Notifications pane, choose the Amazon WorkDocs Drive icon and enter a search term\.
++ Open the Amazon WorkDocs Drive task pane and enter a term in the search box\. If you don't remember how to open the pane, follow steps 1 and 2 in [Opening the Amazon WorkDocs Drive settings in Microsoft Windows](open-wdd-settings.md)\.
 
 **To search Amazon WorkDocs Drive on a Macintosh**  
 Do one of the following:

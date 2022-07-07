@@ -1,57 +1,62 @@
 # Organizing and editing files and folders<a name="client_folders"></a>
 
-The following topics discuss how you can organize and edit files and folders in the Amazon WorkDocs web client\.
+The following topics explain how to organize and edit files and folders in the Amazon WorkDocs web client\.
 
 **Topics**
 + [Creating folders](#web_create_folder)
-+ [Renaming and moving folders and files](#web_rename_folder)
++ [Renaming and moving files and folders](#web_rename_folder)
 + [Editing files](#edit_files)
 + [Deleting folders and files](#web_delete_folder)
 + [Managing the recycle bin \(web only\)](#recycle_bin)
 
 ## Creating folders<a name="web_create_folder"></a>
 
+You can create folders in these locations:
++ Your **MyDocs** folder\.
++ Folders that you create under **My Docs**\.
++ Folders that others share with you, if they give you owner or co\-owner permissions\.
+
 **To create a folder**
 
-1. In the web client, open the folder in which to create the new folder\.
+1. Make sure you're in the correct location for the new folder\.
 
-1. Choose **Create**, **Folder**\.
+1. Choose **Create**, and then choose **Folder**\.
 
-1. Enter the folder name, then choose **Create**\.
+1. Enter the folder name, and then choose **Create**\.
 
-If your site administrator has enabled Hancom ThinkFree, you can also create new files in the web client\. For more information, see [Editing with Hancom ThinkFree](hancom-online-edit.md)\.
+If your site administrator enables Hancom ThinkFree, you can also create files in the web client\. For more information, see [Editing with Hancom ThinkFree](hancom-online-edit.md)\.
 
 **To create a team folder**
 
 1. Follow the previous steps to create a folder\.
 
-1. Send an invite to share the folder with your team directory group\. For more information on sharing the folder by invite, see [Sharing by invite](share-invite.md)\.
+1. Send an invitation to share the folder with your team directory group\. For more information on sharing folders by invitation, see [Sharing by invitation](share-invite.md)\.
 
-If you do not have a team directory group, ask your Amazon WorkDocs site administrator to create one\. Contact your administrator from the web application by choosing **Tasks**, **New task**, **Contact Administrators**\. 
+If you do not have a team directory group, ask your Amazon WorkDocs site administrator to create one\. Your administrator is the person who invited you to join Amazon WorkDocs\. 
 
-## Renaming and moving folders and files<a name="web_rename_folder"></a>
+## Renaming and moving files and folders<a name="web_rename_folder"></a>
 
-If you have permissions, you can change the name of a folder or file\. For more information, see [Permissions](permissions.md)\.
+If you have permissions, you can change the name of a file or folder\. For more information, see [Permissions](permissions.md)\.
 
-**To rename a folder or file**
+**To rename a file or folder**
 
-1. In the web client, select the check box next to the folder or file to be renamed\.
+1. In the web client, select the check box next to the file or folder to be renamed\.
 **Note**  
 Just select the check box\. Choosing the file or folder name opens the file or folder in Preview mode, and that disables the commands for renaming and moving\.
 
-1. For **Actions**, choose **More\.\.\.**, **Rename**\.
+1. For **Actions**, choose **More**, **Rename**\.
 
 1. Enter the new name, then press **Enter**\.
 
-When you are signed in to the Amazon WorkDocs site, you can sort documents by name, owner, and other attributes\. Use the dropdown arrows in the menu above your documents to do so\. If you have permissions, you can also move folders or files to other folders by following these steps\.
+When you are signed in to the Amazon WorkDocs site, you can sort documents by name, owner, and other attributes\. Use the dropdown arrows in the menu above your documents to do so\. If you have permissions, you can also move files or folders to other folders by following these steps\.
 
-**To move a folder or file**
+**To move a file or folder**
 
-1. In the web client, select the check box next to the folder or file to be moved\.
+1. In the web client, select the check box next to the file or folder to be moved\.
 **Note**  
 Just select the check box\. Choosing the file or folder name opens the file or folder in Preview mode, and that disables the commands for renaming and moving\.
 
-1. For **Actions**, choose **More\.\.\.**, **Move**\.
+1. For **Actions**, choose **More**, **Move**\.
 
 1. In the dialog box, navigate to the target folder and choose **Move**\.
 
@@ -82,30 +87,30 @@ For more information about Amazon WorkDocs Companion, see [Using Amazon WorkDocs
 
 ## Deleting folders and files<a name="web_delete_folder"></a>
 
-When you delete a folder or file, it is moved to the recycle bin\. If there are files or other folders in a deleted folder, they are moved to the recycle bin as well\.
+When you delete a file or folder, Amazon WorkDocs moves it to the recycle bin\. If a folder contains other files or folders, they go to the recycle bin as well\.
 
-**To delete folders or files**
+**To delete files or folders**
 
 1. In the web client, select the files or folders to be deleted\. 
 
-1. For **Actions**, choose **More\.\.\.**, **Delete**\.
+1. For **Actions**, choose **More**, then **Delete**\.
 
 ## Managing the recycle bin \(web only\)<a name="recycle_bin"></a>
 
-Manage your **Recycle bin** in the web client\.
+You use the web client to manage your **Recycle bin**\.
 
-**To delete folders or files from the **Recycle bin****
-
-1. In the web client, choose **Recycle bin**\.
-
-1. Select the folders or files to delete, and choose **Delete**\.
-
-1. The folders or files are permanently deleted\.
-
-**To restore folders or files from the **Recycle bin****
+**To delete files or folders from the **Recycle bin****
 
 1. In the web client, choose **Recycle bin**\.
 
-1. Select the folders or files to restore, and choose **Restore**\.
+1. Select the files or folders to delete, and choose **Delete**\.
 
-1. The restored folders or files appear in **MyDocs**\.
+1. Amazon WorkDocs deletes the files or folders permanently\.
+
+**To restore files or folders from the **Recycle bin****
+
+1. In the web client, choose **Recycle bin**\.
+
+1. Select the files or folders to restore, and choose **Restore**\.
+
+1. The restored files or folders appear in **MyDocs**\.

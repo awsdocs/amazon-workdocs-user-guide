@@ -2,7 +2,7 @@
 
 You must be an administrator on your device to install Amazon WorkDocs Drive\.
 
-Amazon WorkDocs Drive is available for 64\-bit versions of Windows 7, Windows 8, and Windows 10, plus Windows Server 2008 R2 SP1, Windows Server 2012 R2, and Windows Server 2016\.
+Amazon WorkDocs Drive is available for 64\-bit versions of Windows 7, Windows 8, and Windows 10, plus Windows Server 2008 R2 SP1, Windows Server 2012 R2, Windows Server 2016, Windows Server 2019, and Windows Server 2022\.
 
 Amazon WorkDocs Drive for Windows also requires Microsoft \.NET Framework 4\.6\.2 or later\. You can download the latest framework from [ https://dotnet\.microsoft\.com/download/dotnet\-framework](https://dotnet.microsoft.com/download/dotnet-framework)\.
 

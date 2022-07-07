@@ -1,6 +1,6 @@
 # Using Amazon WorkDocs for Amazon Business<a name="workdocs-amazon-business"></a>
 
-If you are invited to access business documents with Amazon WorkDocs for Amazon Business, you can complete the following actions by signing in to [https://workdocs\.aws/](https://workdocs.aws/) using your Amazon Business credentials\.
+If an administrator invites you to access business documents with Amazon WorkDocs for Amazon Business, you can complete the following actions by signing in to [https://workdocs\.aws/](https://workdocs.aws/) using your Amazon Business credentials\.
 
 **Topics**
 + [Viewing and searching for files](#workdocs-amazon-business-search-view)
@@ -11,7 +11,7 @@ If you are invited to access business documents with Amazon WorkDocs for Amazon 
 
 ## Viewing and searching for files<a name="workdocs-amazon-business-search-view"></a>
 
-You can view your recently shared and viewed files from the Amazon WorkDocs for Amazon Business home page\. You can also view files that are shared with you or by you\.
+You can view your recently shared and viewed files from the Amazon WorkDocs for Amazon Business home page\. You can also view files that you share, and that others share with you\.
 
 **To view files that are shared with you or by you**
 
@@ -35,7 +35,7 @@ Open a file to preview its content\.
 
 1. Choose the file to view its content\.
 
-Use search terms to find files or folders that you want\.
+Use search to find files or folders\.
 
 **To search for files or folders**
 
@@ -73,7 +73,7 @@ You can upload and share files and folders from the Amazon WorkDocs for Amazon B
 
 1. Choose **Done**\.
 
-You can also share files or folders that are already uploaded to Amazon WorkDocs for Amazon Business\.
+You can also share files or folders that already reside on Amazon WorkDocs for Amazon Business\.
 
 **To share existing files or folders**
 

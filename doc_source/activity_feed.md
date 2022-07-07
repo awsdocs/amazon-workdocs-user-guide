@@ -1,6 +1,6 @@
 # Tracking file activity<a name="activity_feed"></a>
 
-Use the Amazon WorkDocs activity feed to keep track of changes to your files and folders, and to see who made the changes\. The activity feed shows you when files were viewed, downloaded, commented on, shared, locked, and deleted\. You can also search for specific files, folders or users, and you can filter activity feed searches by activity type and date modified\.
+Use the Amazon WorkDocs activity feed to keep track of changes to your files and folders, and to see who made the changes\. The activity feed shows you when files were viewed, downloaded, commented on, shared, and deleted\. You can also search for specific files, folders or users, and you can filter activity feed searches by activity type and date modified\.
 
 Administrators can view the activities performed by all users of a site\. For more information, see [Site\-wide activity feed](https://docs.aws.amazon.com/workdocs/latest/adminguide/site-activity.html)\.
 
@@ -12,7 +12,7 @@ Administrators can view the activities performed by all users of a site\. For mo
 
    1. In the search box, enter a file, folder, or user name\.
 
-   1. Choose **Filter**, then select **Activity Type** and choose a **Date Modified** option as needed\.
+   1. Choose **Filter**, then select **Activity Type**\. Choose a **Date Modified** option as needed\.
 
    1. Choose **Apply**\.
 

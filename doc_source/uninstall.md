@@ -8,7 +8,7 @@ These steps explain how to uninstall Amazon WorkDocs Drive\. Typically, you unin
 
    Do one of the following:  
 **Windows**  
-In Windows, open the Notifications pane, choose the Amazon WorkDocs Drive icon, choose the gear icon, then choose **Quit Amazon WorkDocs Drive**\.  
+Open the Amazon WorkDocs Drive settings and choose **Quit Amazon WorkDocs Drive**\. If you don't remember how to open the settings, see [Opening the Amazon WorkDocs Drive settings in Microsoft Windows](open-wdd-settings.md)\.   
 **macOS**  
 On the menu bar, choose the Amazon WorkDocs Drive icon, choose the gear icon, then choose **Quit Amazon Workdocs Drive**\.
 
@@ -18,4 +18,4 @@ On the menu bar, choose the Amazon WorkDocs Drive icon, choose the gear icon, th
 **Windows**  
 Start **Control Panel**, choose **Programs and Features**, **Amazon WorkDocs Drive**, **Uninstall**, then **OK**\.  
 **macOS**  
-From the **Applications** folder, choose the Amazon WorkDocs Drive icon, then choose **Move to Trash**\.
+From the **Applications** folder, choose the Amazon WorkDocs Drive icon, then choose **Move to Trash**\. Next, navigate to **\~/\.config/Amazon/AWSWorkDocsDriveClient** on your hard dive and remove the **WorkDocs** folder and any sub folders\. 

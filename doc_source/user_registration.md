@@ -5,4 +5,4 @@ When you receive your invitation to join an Amazon WorkDocs organization, you ma
 + Last name
 + Password
 
-You can change your profile photo, time zone, and password from your account after you complete your registration\. For more information, see [Updating your user profile](manage_account.md#account)\.
+You can change your profile photo, time zone, and password after you register\. For more information, see [Updating your user profile](manage_account.md#account)\.
