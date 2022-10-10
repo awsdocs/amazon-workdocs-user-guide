@@ -4,6 +4,7 @@ The following table describes important changes to the *Amazon WorkDocs User Gui
 
 | Change | Description | Date | 
 | --- |--- |--- |
+| [New file\-sharing link options](#document_history) | Amazon WorkDocs administrators now have the option of allowing only power users to send file\-sharing links to external customers\. For more information, see [Managing link sharing](https://docs.aws.amazon.com/workdocs/latest/adminguide/shareable-link-perms.html) in the *Amazon WorkDocs Administrator Guide*\. | September 15, 2022 | 
 | [Using Amazon WorkDocs for Amazon Business](#document_history) | Amazon WorkDocs for Amazon Business is supported\. For more information, see [Using Amazon WorkDocs for Amazon Business](https://docs.aws.amazon.com/workdocs/latest/userguide/workdocs-amazon-business.html) in the Amazon WorkDocs User Guide\. | March 26, 2020 | 
 | [Updates to Amazon WorkDocs Drive troubleshooting](#document_history) | Various updates to Amazon WorkDocs Drive troubleshooting tips\. For more information, see [Troubleshooting Amazon WorkDocs Drive](https://docs.aws.amazon.com/workdocs/latest/userguide/workdocs_drive_help.html#drive_troubleshoot) in the Amazon WorkDocs User Guide\. | August 2, 2019 | 
 | [Amazon WorkDocs Drive default drive ](#document_history) | Users can select a default drive when installing Amazon WorkDocs Drive\. For more information, see [Installing Amazon WorkDocs Drive](https://docs.aws.amazon.com/workdocs/latest/userguide/workdocs_drive_help.html#drive_install) in the Amazon WorkDocs User Guide\. | July 18, 2019 | 

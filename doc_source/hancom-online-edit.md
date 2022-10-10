@@ -25,7 +25,7 @@ Use Hancom ThinkFree to create new Microsoft Office files from the Amazon WorkDo
 
 1. When you finish editing, choose **Save & Exit**\. Amazon WorkDocs saves the file with a generic name, such as **New Document**\. 
 
-   1. Rename the file as needed\. For more information, see [Renaming and moving files and folders](client_folders.md#web_rename_folder)\.
+   1. Rename the file as needed\. For more information, see [Renaming folders](web_rename_folder.md)\.
 
 ## Editing a file<a name="hancom-edit"></a>
 

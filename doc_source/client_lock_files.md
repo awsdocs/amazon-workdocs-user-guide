@@ -1,17 +1,24 @@
 # Locking and unlocking files<a name="client_lock_files"></a>
 
-Locking a file prevents others from overwriting your work\. While a file is locked, only the person who locked it can upload a new version\.
-
-Owners, co\-owners, and contributors can lock files and send requests to unlock a file\. Owners and co\-owners can also unlock files\. Contributors can unlock a file only if they locked it\. 
+Locking a file prevents others from overwriting your work\. Remember the following about locking files\.
++ Owners, co\-owners, and contributors can lock files and send requests to unlock a file\. Owners and co\-owners can also unlock any locked files\.
++ Contributors can unlock a file only if they locked it
++ Only the person who locks a file can upload a new version while the file is locked\.
 
 **Note**  
-You can only use the web client to lock and unlock files\. You can't use Amazon WorkDocs Drive\.
+You can only use the web client to lock and unlock files\. You can't use the mobile app or Amazon WorkDocs Drive\.
 
 **To lock a file**
 
-1. Open the file that you want to lock\.
+1. Use the credentials provided by your administrator to log in to the Amazon WorkDocs web client\.
 
-1. For **Actions**, choose **Settings** and select **Lock**\. 
+1. Select the check box next to the file that you want to lock\.
+
+   —OR—
+
+   Open the file that you want to lock\.
+
+1. Open the **Actions**, choose **Settings** and then choose **Lock**\. 
 
 1. A lock icon appears next to the file\.
 
@@ -34,6 +41,6 @@ When you aren't a co\-owner of a file, and you need to edit that file, you can s
 
 **To send an unlock request**
 
-1. Select the file that you want to unlock\.
+1. Select the check box for file that you want to unlock\.
 
-1. Choose **Actions**, choose **Settings**, and then **Request unlock**\. Amazon WorkMail sends the request to the user who locked the file, the file owner, and any co\-owners\.
+1. Open the **Actions** list, choose **Settings**, and then choose **Request unlock**\. Amazon WorkMail sends the request to the user who locked the file, the file owner, and any co\-owners\.

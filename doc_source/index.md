@@ -4,19 +4,19 @@
 *****Copyright &copy; Amazon Web Services, Inc. and/or its affiliates. All rights reserved.*****
 
 -----
-Amazon's trademarks and trade dress may not be used in 
-     connection with any product or service that is not Amazon's, 
-     in any manner that is likely to cause confusion among customers, 
-     or in any manner that disparages or discredits Amazon. All other 
-     trademarks not owned by Amazon are the property of their respective
-     owners, who may or may not be affiliated with, connected to, or 
-     sponsored by Amazon.
+Amazon's trademarks and trade dress may not be used in
+connection with any product or service that is not Amazon's,
+in any manner that is likely to cause confusion among customers,
+or in any manner that disparages or discredits Amazon. All other
+trademarks not owned by Amazon are the property of their respective
+owners, who may or may not be affiliated with, connected to, or
+sponsored by Amazon.
 
 -----
 ## Contents
 + [What is Amazon WorkDocs](what_is.md)
-   + [Accessing Amazon WorkDocs](accessing.md)
-   + [Supported file types](file-types.md)
+   + [Where you run Amazon WorkDocs](accessing.md)
+   + [File types supported for viewing and feedback](file-types.md)
 + [Getting started with Amazon WorkDocs](getting_started.md)
    + [Step 1: Get invited](get_invited.md)
    + [Step 2: Register](user_registration.md)
@@ -56,20 +56,49 @@ Amazon's trademarks and trade dress may not be used in
       + [Quitting Amazon WorkDocs Drive](quit-wdd.md)
       + [Restarting Amazon WorkDocs Drive after you quit](restart-wdd.md)
    + [Troubleshooting Amazon WorkDocs Drive](drive_troubleshoot.md)
-+ [Working with files and folders](working-docs.md)
-   + [Organizing and editing files and folders](client_folders.md)
-   + [Naming, uploading, and downloading files and folders](client_add_files.md)
++ [Working with files](working-files.md)
+   + [Naming files](client-name-files.md)
+   + [Creating files](create-files.md)
+   + [Opening files](opening-files.md)
+   + [Downloading files](download-files.md)
+   + [Marking files as favorites](wd-file-favorites.md)
+   + [Requesting approvals for files](request-approval-files.md)
+   + [Changing file settings](change-file-settings.md)
    + [Locking and unlocking files](client_lock_files.md)
-   + [Viewing file versions](client_file_versions.md)
-   + [Reverting a file to a previous version](revert-version.md)
+   + [Renaming files](web_rename_files.md)
+   + [Moving files](move-files.md)
+   + [Transferring file ownership](transfer-file.md)
+   + [Deleting files](web_delete_file.md)
+   + [Viewing file activity](view-file-activity.md)
+   + [Sharing files](sharing-files.md)
+   + [Editing files](edit_files.md)
+   + [Uploading files](upload-files.md)
    + [Viewing files offline](view-offline.md)
-   + [Searching files and folders](search.md)
+   + [Using smart search](search.md)
++ [Working with file versions](work-with-versions.md)
+   + [Understanding when Amazon WorkDocs creates versions](version-creation.md)
+   + [Reducing the number of Amazon WorkDocs Drive versions](reduce-drive-storage.md)
+   + [How versions impact your storage limit](version-storage.md)
+   + [Using past versions of a file](view-file-versions.md)
+   + [Reverting a file to a previous version](revert-version.md)
++ [Working with folders](working-folders.md)
+   + [Creating folders](web_create_folder.md)
+   + [Opening folders](open-wd-folders.md)
+   + [Downloading folders](download-folders.md)
+   + [Marking folders as favorites](favorite-folders.md)
+   + [Requesting approvals for folders](request-approval-folders.md)
+   + [Renaming folders](web_rename_folder.md)
+   + [Moving folders](move-folders.md)
+   + [Transferring folder ownership](transfer-owner.md)
+   + [Deleting folders](web_delete_folder.md)
+   + [Viewing folder activity](view-folder-activity.md)
+   + [Sharing folders](sharing-folders.md)
+   + [Uploading folders](upload-folders.md)
 + [Sharing files and folders](share-docs.md)
    + [Sharing by invitation](share-invite.md)
    + [Sharing a link](web_share_link.md)
    + [Removing share permissions](revoke_share.md)
    + [Removing yourself from a share](unshare_yourself.md)
-   + [Transferring document ownership](transfer_owner.md)
 + [Permissions](permissions.md)
 + [Feedback and collaborative editing](collab-editing.md)
    + [Sharing feedback](feedback.md)

@@ -1,8 +1,10 @@
 # Sharing a link<a name="web_share_link"></a>
 
-You can share your Amazon WorkDocs files and folders by sharing links them\. You can share file links inside and outside your organization, but you can only share folder links internally\. 
+If your site administrator enables link sharing, you can share your Amazon WorkDocs files and folders by sharing links them\. You can share file links inside and outside your organization, but you can only share folder links internally\. 
 
 In addition, you can configure a file link to allow access to site members only, or to anyone on the internet\. Site members can view, comment on, update, or delete a file\. Public links only allow viewing\. You can also set an expiration date and a 4\-digit passcode for access to the file\. 
+
+If you don't see the commands listed in the following steps, ask your administrator to enable link sharing\.
 
 **To share a link**
 

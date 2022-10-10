@@ -1,19 +1,17 @@
 # Tracking file activity<a name="activity_feed"></a>
 
-Use the Amazon WorkDocs activity feed to keep track of changes to your files and folders, and to see who made the changes\. The activity feed shows you when files were viewed, downloaded, commented on, shared, and deleted\. You can also search for specific files, folders or users, and you can filter activity feed searches by activity type and date modified\.
-
-Administrators can view the activities performed by all users of a site\. For more information, see [Site\-wide activity feed](https://docs.aws.amazon.com/workdocs/latest/adminguide/site-activity.html)\.
+Use the Amazon WorkDocs activity feed to keep track of changes to your files and folders, and to see who made the changes\. The activity feed lists anyone who viewed downloaded, commented on, shared, or deleted a file\. You can also search for specific files, folders or users, and you can filter the results by activity type and date modified\.
 
 **To view the activity feed**
 
-1. In the web client, choose **Activity** and browse to view the latest activities\.
+1. Use the credentials provided by your administrator to log in to the Amazon WorkDocs web client\.
 
-1. To search and filter for specific activity, follow these steps:
+1. Select the check box next to the folder that you want to view activities for\. 
+**Note**  
+Just select the check box\. Choosing the folder name opens the folder in Preview mode, and that disables the **Show Activity** command\.
 
-   1. In the search box, enter a file, folder, or user name\.
+1. Open the **Actions** list, choose **More**, and then choose **Show Activity**\.
 
-   1. Choose **Filter**, then select **Activity Type**\. Choose a **Date Modified** option as needed\.
+   The **Results for** *file name* page appears and lists the activities taken on the file\. 
 
-   1. Choose **Apply**\.
-
-To see the activity feed of a file or folder, choose **Show Activity** from the file or folder menu\.
+1. As needed, use the search box, plus the **Sort** and **Filter** commands to find an activity\.

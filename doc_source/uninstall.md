@@ -18,4 +18,4 @@ On the menu bar, choose the Amazon WorkDocs Drive icon, choose the gear icon, th
 **Windows**  
 Start **Control Panel**, choose **Programs and Features**, **Amazon WorkDocs Drive**, **Uninstall**, then **OK**\.  
 **macOS**  
-From the **Applications** folder, choose the Amazon WorkDocs Drive icon, then choose **Move to Trash**\. Next, navigate to **\~/\.config/Amazon/AWSWorkDocsDriveClient** on your hard dive and remove the **WorkDocs** folder and any sub folders\. 
+From the **Applications** folder, choose the Amazon WorkDocs Drive icon, then choose **Move to Trash**\. Next, navigate to **\~/\.config/Amazon/AWSWorkDocsDriveClient** on your hard dive and remove the **WorkDocs** folder and any sub folders\. Finally, navigate to **\~/Library/Caches/** and empty your WorkDocs cache\.

@@ -9,7 +9,7 @@ If you change a file that you don't have permissions to edit, you can't upload t
 Delete unnecessary files from your local `Recovered Files` folder\.
 
 **Drive Repair Required**  
-**Windows** – Restart by opening the Amazon WorkDocs Drive settings and choosing **Log out \(change site\)**\. Repeat those steps to sign in again, and tnen check the `Recovered Files` folder for any files you might need to save\. If you don't remember how to open the settings, see [Opening the Amazon WorkDocs Drive settings in Microsoft Windows](open-wdd-settings.md)\.  
+**Windows** – Restart by opening the Amazon WorkDocs Drive settings and choosing **Log out \(change site\)**\. Repeat those steps to sign in again, and then check the `Recovered Files` folder for any files you might need to save\. If you don't remember how to open the settings, see [Opening the Amazon WorkDocs Drive settings in Microsoft Windows](open-wdd-settings.md)\.  
 **macOS** – Restart Amazon WorkDocs Drive by choosing the **Amazon WorkDocs Drive** icon on the menu bar, choosing the gear icon, then choosing **Log out**\. Repeat those steps to sign in again, and then check the `Recovered Files` folder for any files you might need to save\.
 
 **Local Disk Full**  

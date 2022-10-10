@@ -1,13 +1,19 @@
 # What is Amazon WorkDocs<a name="what_is"></a>
 
-Amazon WorkDocs enables you to store, manage, share, and collaborate on files with your coworkers\. Amazon WorkDocs stores your files in [the cloud](https://aws.amazon.com/what-is-cloud-computing/)\. Your files are only visible to you and your designated contributors and reviewers\. Other users can't open, read, or change your files unless you grant them access\.
+You use Amazon WorkDocs to store, manage, share, and collaborate on documents, spreadsheets, and other files with your coworkers\. Amazon WorkDocs stores your files in [the cloud](https://aws.amazon.com/what-is-cloud-computing/), and you work with your files in a browser, or in the Amazon WorkDocs mobile app\.
 
-You can share your files with other users for collaboration or review, and you can view many different types of files, including all common document and image formats\. 
+Your files are only visible to you and your designated contributors and reviewers\. Other users can't open, read, or change your files unless you grant them access\.
 
-For more information, see [Supported file types](file-types.md)\.
+You can also share your files with other users for collaboration or review, and you can view many different types of files, including all common document and image formats\. 
+
+For more information about the types of files that Amazon WorkDocs supports, see [File types supported for viewing and feedback](file-types.md)\.
 
 **Note**  
 Amazon WorkDocs isn't available on Linux\.
+
+## Pricing<a name="pricing"></a>
+
+Amazon WorkDocs has no upfront fees or commitments\. For more information, see [Pricing](https://aws.amazon.com/workdocs/pricing)\.
 
 ## How to get started<a name="starting"></a>
 

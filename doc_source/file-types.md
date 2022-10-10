@@ -1,10 +1,10 @@
-# Supported file types<a name="file-types"></a>
+# File types supported for viewing and feedback<a name="file-types"></a>
 
 You can upload any type of file to Amazon WorkDocs, but you can only view and provide feedback on these file types: 
 + Microsoft Office Word
 + Microsoft Office Excel
 + Microsoft Office PowerPoint
-+ Text file with `.txt` extension
++ `.txt`
 + \.pdf
 + Office Open XML files
 + `.rtf`, `.xml`, `.xhtml+xml`, and `.xslt-xml`

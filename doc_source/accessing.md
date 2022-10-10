@@ -1,4 +1,4 @@
-# Accessing Amazon WorkDocs<a name="accessing"></a>
+# Where you run Amazon WorkDocs<a name="accessing"></a>
 
 You can run Amazon WorkDocs in a browser on a PC or Mac\. You can also install the Amazon WorkDocs apps on Android or iOS devices at no charge\. For more information, see:
 + [Getting started with the web client](web_client_help.md)

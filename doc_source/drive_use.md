@@ -1,6 +1,6 @@
 # Using Amazon WorkDocs Drive<a name="drive_use"></a>
 
-The topics in this section explain how to complete the various folder and file tasks that Amazon WorkDocs Drive provides\.
+The topics in this section explain how to use Amazon WorkDocs Drive to manage files and folders on your computer desktop\. Actions include creating, copying, renaming, moving, and deleting files and folders\.
 
 **Topics**
 + [Understanding the Amazon WorkDocs Drive file icons](drive_icons.md)
