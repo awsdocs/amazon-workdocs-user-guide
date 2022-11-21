@@ -4,7 +4,7 @@ You quit running Amazon WorkDocs Drive for a number of reasons, such as low netw
 
 **To quit Amazon WorkDocs Drive in Windows**
 
-1. Open the Amazon WorkDocs Drive settings\. Open the Amazon WorkDocs Drive settings\. If you don't remember how, see [Opening the Amazon WorkDocs Drive settings in Microsoft Windows](open-wdd-settings.md)\.
+1. Open the Amazon WorkDocs Drive settings\. Open the Amazon WorkDocs Drive settings\. If you don't remember how, see [Opening the Amazon WorkDocs Drive settings](open-wdd-settings.md)\.
 
 1. Choose **Quit**\.
 

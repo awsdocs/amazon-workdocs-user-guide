@@ -1,6 +1,6 @@
 # Uploading folders<a name="upload-folders"></a>
 
-The following steps explain how to upload folders to Amazon WorkDocs If you have a Windows machine, you can use Amazon WorkDocs Companion with File Explorer to upload multiple folders\. For more information, see [Using Amazon WorkDocs Companion](companion.md)\.
+The following steps explain how to upload folders to Amazon WorkDocs If you run Windows, you can use Amazon WorkDocs Companion with File Explorer to upload multiple folders\. For more information, see [Using Amazon WorkDocs Companion](companion.md)\.
 
 **To upload folders**
 

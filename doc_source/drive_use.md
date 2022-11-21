@@ -24,7 +24,7 @@ Remember that a WorkDocs Drive search is case sensitive\.
 **To search Amazon WorkDocs Drive in Windows**  
 Do one of the following:
 + In Windows File Explorer, right\-click the Amazon WorkDocs Drive icon, point to **Amazon WorkDocs Drive**, choose **Search**, then enter a search term\.
-+ Open the Amazon WorkDocs Drive task pane and enter a term in the search box\. If you don't remember how to open the pane, follow steps 1 and 2 in [Opening the Amazon WorkDocs Drive settings in Microsoft Windows](open-wdd-settings.md)\.
++ Open the Amazon WorkDocs Drive task pane and enter a term in the search box\. If you don't remember how to open the pane, follow steps 1 and 2 in [Opening the Amazon WorkDocs Drive settings](open-wdd-settings.md)\.
 
 **To search Amazon WorkDocs Drive on a Macintosh**  
 Do one of the following:

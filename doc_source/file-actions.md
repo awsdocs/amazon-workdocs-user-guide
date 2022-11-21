@@ -6,7 +6,7 @@ You can create, rename, move, and delete files in Amazon WorkDocs Drive\. Rememb
 If you add files to a folder, and those files have identical names but different upper and lowercase letters, only one of the files appears in Amazon WorkDocs\. For example, if you have `MyFile.doc` and `myFile.doc`, only one of those files appears on the site\. The operating system controls which file appears\.  
 Also, if multiple users edit a file simultaneously, their changes can overwrite each other\. To avoid editing conflicts, always lock a file whenever you need to change it\. See the steps in the next section for information about locking files\.
 
-In addition to creating, renaming, and so on, Amazon WorkDocs Drive also provides a number of actions, and the steps in this section explain how\. These steps apply to Windows and macOS computers\.
+In addition to creating, renaming, and so on, Amazon WorkDocs Drive also provides a number of actions, and the steps in this section explain how\. These steps apply to Windows and MacOS computers\.
 
 1. Right\-click or tap and hold the file that you want to take action on, then choose **Amazon WorkDocs Drive**\.
 

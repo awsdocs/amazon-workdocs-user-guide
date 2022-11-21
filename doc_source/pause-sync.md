@@ -4,7 +4,7 @@ If you have network bandwidth issues, you can download files, pause file syncing
 
 **To pause file syncing**
 
-1. Open the Amazon WorkDocs Drive settings\. If you don't remember how to open the settings, see [Opening the Amazon WorkDocs Drive settings in Microsoft Windows](open-wdd-settings.md)\. 
+1. Open the Amazon WorkDocs Drive settings\. If you don't remember how to open the settings, see [Opening the Amazon WorkDocs Drive settings](open-wdd-settings.md)\. 
 
 1. Choose **Pause file sync**, then work on your downloaded files\.
 

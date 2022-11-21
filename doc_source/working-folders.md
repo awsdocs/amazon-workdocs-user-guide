@@ -27,3 +27,4 @@ You must install Amazon WorkDocs Companion to complete some of the tasks listed 
 + [Viewing folder activity](view-folder-activity.md)
 + [Sharing folders](sharing-folders.md)
 + [Uploading folders](upload-folders.md)
++ [Managing the recycle bin \(web only\)](recycle_bin-folders.md)

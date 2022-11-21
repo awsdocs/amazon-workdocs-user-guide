@@ -33,24 +33,4 @@ You must install Amazon WorkDocs Companion to complete some of the tasks listed 
 + [Uploading files](upload-files.md)
 + [Viewing files offline](view-offline.md)
 + [Using smart search](search.md)
-+ [Managing the recycle bin \(web only\)](#recycle_bin)
-
-## Managing the recycle bin \(web only\)<a name="recycle_bin"></a>
-
-You use the web client to manage your **Recycle bin**\.
-
-**To delete files from the **Recycle bin****
-
-1. In the web client, choose **Recycle bin**\.
-
-1. Select the files to delete, and choose **Delete**\.
-
-1. Amazon WorkDocs deletes the files permanently\.
-
-**To restore files from the **Recycle bin****
-
-1. In the web client, choose **Recycle bin**\.
-
-1. Select the files to restore, and choose **Restore**\.
-
-1. The restored files appear in **MyDocs**\.
++ [Managing the recycle bin \(web only\)](recycle_bin-files.md)

@@ -7,7 +7,7 @@ Enabling offline access uses network bandwidth to download your content, plus sp
 
 **To enable offline access to your content**
 
-1. Open the Amazon WorkDocs Drive settings\. If you don't remember how to open the settings, see [Opening the Amazon WorkDocs Drive settings in Microsoft Windows](open-wdd-settings.md)\.
+1. Open the Amazon WorkDocs Drive settings\. If you don't remember how to open the settings, see [Opening the Amazon WorkDocs Drive settings](open-wdd-settings.md)\.
 
 1. Choose **Work offline**\.
 
