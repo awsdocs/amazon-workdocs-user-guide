@@ -6,8 +6,9 @@ You can revert a file to a previous version at any time\.
 
 1. In the web client, open the file\.
 
-   The file's title appears just below the menu bar, along with a list control that reads **v*X* of *X***\.  
-![\[The version list, showing version 15 of 15.\]](http://docs.aws.amazon.com/workdocs/latest/userguide/images/wd-version-list.png)
+   The file's title appears just below the menu bar, along with a list control that reads **v*X* of *X***\.
+
+    ![\[The version list, showing version 15 of 15.\]](http://docs.aws.amazon.com/workdocs/latest/userguide/images/wd-version-list.png) 
 **Note**  
 If only one version of a file exists, the list control doesn't appear\.
 

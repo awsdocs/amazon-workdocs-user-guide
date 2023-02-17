@@ -1,6 +1,6 @@
 # Taking actions on folders<a name="folder-actions"></a>
 
-Currently, you can copy your folder's web links, and you can open your folders in a browser\. These steps explain how to complete both actions, and they apply to Windows and MacOS computers\.
+You can copy your folder's web links, and you can open your folders in a browser\. These steps explain how to complete both actions, and they apply to Windows and MacOS computers\.
 
 **To copy web links**
 

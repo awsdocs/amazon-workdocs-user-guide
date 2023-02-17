@@ -56,6 +56,8 @@ The following permissions apply to user roles for files in a shared folder:
 + **Upload** – Upload new versions of a file\.
 + **Download** – Download a file\.
 + **Prevent download** – Prevent a file from being downloaded\. This is the default permission for files in the folder\. 
+**Note**  
+When the owner or co\-owner of an MP4 file disallows downloads for that file, contributors and viewers cannot play it in the Amazon WorkDocs web client\.
 + **Share** – Share a file with other users\.
 + **Revoke sharing** – Revoke the sharing of a file\.
 + **View** – View a file in a shared folder\.
@@ -90,6 +92,8 @@ The following permissions apply to user roles for files that do not reside in a 
 + **Upload** – Upload new versions of a file\.
 + **Download** – Download a file\. This is the default permission\. You can use file properties to allow or deny the ability to download shared files\. 
 + **Prevent download** – Prevent a file from being downloaded\.
+**Note**  
+When the owner or co\-owner of an MP4 file disallows downloads for that file, contributors and viewers cannot play it in the Amazon WorkDocs web client\.
 + **Share** – Share a file with other users\.
 + **Revoke share** – Revoke the sharing of a file\.
 + **View** – View a file\.

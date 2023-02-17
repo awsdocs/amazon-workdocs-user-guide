@@ -6,7 +6,8 @@ You can only use the Amazon WorkDocs web client to view and use past versions of
 
 **Topics**
 + [Understanding when Amazon WorkDocs creates versions](version-creation.md)
-+ [Reducing the number of Amazon WorkDocs Drive versions](reduce-drive-storage.md)
 + [How versions impact your storage limit](version-storage.md)
++ [Deleting previous versions of a file](delete-versions.md)
++ [Reducing the number of Amazon WorkDocs Drive versions](reduce-drive-storage.md)
 + [Using past versions of a file](view-file-versions.md)
 + [Reverting a file to a previous version](revert-version.md)

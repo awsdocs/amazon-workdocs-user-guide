@@ -1,8 +1,8 @@
 # Installing Amazon WorkDocs Drive on MacOS devices<a name="install-wdd-mac"></a>
 
-The following steps explain how to install Amazon WorkDocs Drive on MacOS devices, incuding Intel and Apple Silicon machines\.
+The following steps explain how to install Amazon WorkDocs Drive on MacOS devices, incuding Intel and Apple silicon machines\.
 
-If you have an Intel machine, you must have MacOS 11 or later\. If you have an Apple Silicon machine, you must have Monterey 12\.3 or later\.
+If you have an Intel machine, you must have MacOS 11 or later\. If you have an Apple silicon machine, you must have Monterey 12\.3 or later\.
 
 **To install Amazon WorkDocs Drive on Intel machines**
 
@@ -24,7 +24,7 @@ If you have an Intel machine, you must have MacOS 11 or later\. If you have an A
 
 1. Restart the machine\.
 
-**To install Amazon WorkDocs Drive on Apple Silicon machines**
+**To install Amazon WorkDocs Drive on MacOS Apple silicon machines**
 
 1. Start Amazon WorkDocs and on the blue command bar, choose **Apps**\.
 

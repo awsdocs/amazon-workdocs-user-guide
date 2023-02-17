@@ -2,7 +2,7 @@
 
 Use Amazon WorkDocs to share document feedback and send messages\.
 
-If your Amazon WorkDocs administrator has enabled the Hancom ThinkFree or Open with Office Online feature, users with edit permissions can join live collaborative editing sessions\.
+If your Amazon WorkDocs administrator has enabled the Hancom ThinkFree or Open with Office Online feature, users with edit permissions can also join live collaborative editing sessions\.
 
 **Topics**
 + [Sharing feedback](feedback.md)

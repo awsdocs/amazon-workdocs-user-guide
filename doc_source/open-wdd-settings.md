@@ -1,6 +1,6 @@
 # Opening the Amazon WorkDocs Drive settings<a name="open-wdd-settings"></a>
 
-The following steps explain how to open the Amazon WorkDocs Drive settings on Windows and MacOS Intel machines\. Settings for Apple Silicon machines are not yet available\.
+The following steps explain how to open the Amazon WorkDocs Drive settings on Windows and MacOS Intel machines\. Settings for Apple silicon machines are not yet available\.
 
 You use the settings to complete several tasks, such as logging out and back in, and working offline\.
 
