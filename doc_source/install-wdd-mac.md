@@ -8,7 +8,7 @@ If you have an Intel machine, you must have MacOS 11 or later\. If you have an A
 
 1. Start Amazon WorkDocs and on the blue command bar, choose **Apps**\.
 
-   The **Apps** dialog box appears and display the avaiable apps\.
+   The **Apps** dialog box appears and display the available apps\.
 
 1. Under **Drive App**, choose **Mac**\.
 
@@ -20,7 +20,7 @@ If you have an Intel machine, you must have MacOS 11 or later\. If you have an A
 
 1. In the WorkDocs Drive window, choose **Open Drive in Finder**\. When prompted to update the system extension, choose **Open Security Preference**\.
 
-1. In the **Security Preferences** window, choose the lock icon, enter your credentials, and choose **Allow** for **System software from developer "AMZN Mobile LLC" has been updated**\. 
+1. In the **Security Preferences** window, choose the lock icon, enter your credentials, and choose **Allow** for **System software from developer "AMZN Mobile LLC" has been updated**\.
 
 1. Restart the machine\.
 
