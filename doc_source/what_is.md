@@ -6,11 +6,6 @@ Your files are only visible to you and your designated contributors and reviewer
 
 You can also share your files with other users for collaboration or review, and you can view many different types of files, including all common document and image formats\. 
 
-For more information about the types of files that Amazon WorkDocs supports, see [File types supported for viewing and feedback](file-types.md)\.
-
-**Note**  
-Amazon WorkDocs isn't available on Linux\.
-
 ## Pricing<a name="pricing"></a>
 
 Amazon WorkDocs has no upfront fees or commitments\. For more information, see [Pricing](https://aws.amazon.com/workdocs/pricing)\.

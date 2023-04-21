@@ -7,5 +7,4 @@ Download the Android application from Google Play or the Amazon Appstore for And
 To reset your password, choose **Forgot password** on the sign\-in screen\. If you need more help with signing in, contact your Amazon WorkDocs administrator\.
 
 **Topics**
-+ [System requirements](android_phone_client_sys_reqs.md)
 + [Switching visual themes](switch-themes-android.md)

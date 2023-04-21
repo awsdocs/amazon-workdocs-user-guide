@@ -14,7 +14,7 @@ These steps explain how to uninstall Amazon WorkDocs Drive from Windows MacOS, a
 
 1. From the **Applications** folder, choose the Amazon WorkDocs Drive icon, then choose **Move to Trash**\. 
 
-1. Navigate to **\~/\.config/Amazon/AWSWorkDocsDriveClient** on your hard dive and remove the **WorkDocs** folder and any sub folders\. Finally, navigate to **\~/Library/Caches/** and empty your WorkDocs cache\.
+1. Navigate to **\~/\.config/Amazon/AWSWorkDocsDriveClient** on your hard drive and remove the **WorkDocs** folder and any sub folders\. Finally, navigate to **\~/Library/Caches/** and empty your WorkDocs cache\.
 
 You can remove Amazon WorkDocs Drive from MacOS Apple silicon machines manually by using the **Applications** folder, or you can use the command line\. The following steps explain how to use both methods\.
 

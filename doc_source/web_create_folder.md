@@ -26,6 +26,14 @@ As you create sub\-folders, remember that Amazon WorkDocs only displays the firs
 **Note**  
 Be careful when entering folder names\. Using characters such as periods \(**\.**\) and tildes \(**\~**\) prevents your administrator from migrating your folders\. As a result, you may find your data on a slower server, or your data may not be available if you move to a different Amazon WorkDocs group\. For more information, see [Naming files](client-name-files.md)
 
+**To create a sub folder**
+
+1. In the Amazon WorkDocs web client, open the folder that will contain the sub folder\.
+
+1. Open the **Create** menu and choose **Folder**\.
+
+1. Enter a name for the sub folder, and then choose **Create**\.
+
 **To create a team folder**
 
 1. Follow the previous steps to create a folder\.

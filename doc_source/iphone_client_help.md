@@ -9,7 +9,6 @@ Download the iPhone and iPad applications from the Apple App Store, and sign in 
 To reset your password, choose **Forgot password** on the sign\-in screen\. If you need more help with signing in, contact your Amazon WorkDocs administrator\.
 
 **Topics**
-+ [System requirements](iphone_client_sys_reqs.md)
 + [Viewing and editing files in other iOS apps](iphone_opening_files.md)
 + [Using the Files app in iOS](ios-files-app.md)
 + [Saving a file from another iOS app to Amazon WorkDocs](iphone_saving_files.md)
